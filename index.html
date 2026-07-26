@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TCS IPA Preparation Quiz</title>
-    <meta name="description" content="Practice MCQ questions for the TCS IPA assessment with instant feedback and hints.">
+    <title>IBPS SO IT Officer CRP-SPL-XVI Preparation Portal</title>
+    <meta name="description" content="Practice PYQs and simulated online mock tests for IBPS Specialist Officer (IT Officer) CRP-SPL-XVI Preliminary Exam with 5 options, DI diagrams, and detailed explanations.">
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <!-- Main CSS -->
     <link rel="stylesheet" href="style.css">
 </head>
@@ -22,24 +22,15 @@
             <div class="header-left">
                 <div class="logo-container">
                     <div class="logo-icon"></div>
-                    <h1>TCS IPA Practice</h1>
-                <div class="exam-selector-container">
-                    <select id="exam-mode-select" class="exam-select" aria-label="Select Exam Practice Mode">
-                        <option value="tcs">TCS IPA Practice</option>
-                        <option value="ibps">IBPS SO IT Officer (Prelims)</option>
-                    </select>
+                    <h1>IBPS SO (IT Officer)</h1>
                 </div>
                 <div class="filter-container">
                     <select id="category-filter" class="category-select" aria-label="Filter questions by category">
                         <option value="all">All Categories</option>
                     </select>
                 </div>
-                <a href="coding.html" id="btn-coding-link" class="btn-coding-link" aria-label="Coding Practice">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
-                    Coding
-                </a>
-                <a href="exam.html" id="btn-exam-simulation-link" class="btn-exam-link" aria-label="Exam Simulation">
-                    ⚡ Mock Exam
+                <a href="ibps-exam.html" id="btn-exam-simulation-link" class="btn-exam-link" aria-label="Real Exam Simulation">
+                    ⚡ Real Exam Simulator
                 </a>
                 <button id="btn-settings" class="btn-settings" aria-label="Open Settings">
                     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-settings"><path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.1a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"/><circle cx="12" cy="12" r="3"/></svg>
@@ -83,7 +74,7 @@
                 <div id="feedback-container" class="feedback-container hidden">
                     <div id="feedback-status" class="feedback-status"></div>
                     <div class="hint-box">
-                        <h3><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><path d="M12 16v-4"></path><path d="M12 8h.01"></path></svg> Explanation</h3>
+                        <h3><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><path d="M12 16v-4"></path><path d="M12 8h.01"></path></svg> Solution & Explanation</h3>
                         <p id="hint-text"></p>
                     </div>
                 </div>
@@ -210,8 +201,7 @@
         </div>
     </div>
 
-    <!-- Load the questions data -->
-    <script src="questions.js"></script>
+    <!-- Load the IBPS questions data -->
     <script src="ibps-questions.js"></script>
     <!-- Load the application logic -->
     <script src="app.js"></script>
