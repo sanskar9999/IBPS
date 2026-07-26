@@ -11,7 +11,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "What is the primary irony highlighted by the author regarding Company X's online game?",
           "direction": "Read the following passage and answer the given questions. When Company X introduced its online game, the market response was immediate and overwhelming. The very next year, the company earned huge profits and quickly gained users across the globe. Reports revealed that the game generated 50 million dollars worldwide, making it one of the most successful digital launches in recent years. This sudden success was seen as a major hit, granting Company X recognition and dominance in the industry. Yet, beneath the shining surface of profits and popularity, a darker picture began to emerge. Parents started to raise concerns over the time children were spending on this game. Many young users became addicted, unable to manage their daily schedules, and their studies suffered significantly. Teachers noticed falling grades, a decline in participation, and a visible drop in discipline. At home, the situation worsened as children grew increasingly irritable, spending less time with family and showing signs of inappropriate behavior. Roommates, on the other hand, reported that their relationships remained smooth only during gaming sessions. Once the console was turned off, interactions were minimal, and genuine conversations reduced. What was marketed as a tool for entertainment and bonding ironically created isolation and dependency. Parents found themselves struggling to establish healthy routines for their children, often entering into conflicts that left family ties strained. An independent organisation decided to investigate these growing concerns and carried out a large- scale survey. The data collected and the report submitted revealed an alarming trend. The impact of the game was largely negative, with cases of extreme dependency, reduced academic achievement, and antisocial tendencies being repeatedly recorded. What initially gave the company a toe hold in the international gaming market was now turning into a nationwide social concern. The report strongly emphasized that while the company’s financial growth was undeniable, the cost to society was far greater. Addiction had begun to reshape the daily lives of thousands of children, disturbing family harmony and disrupting the overall learning environment. Based on the overwhelming findings, the organisation recommended that the game should be banned in the country. The conclusion was clear: no amount of profit could justify the erosion of discipline, values, and future prospects of the younger generation.",
-          "directionImage": "ibps-images/2025_p1_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -49,7 +49,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "What negative consequences of the game were observed in children, as per the passage?",
           "direction": "Read the following passage and answer the given questions. When Company X introduced its online game, the market response was immediate and overwhelming. The very next year, the company earned huge profits and quickly gained users across the globe. Reports revealed that the game generated 50 million dollars worldwide, making it one of the most successful digital launches in recent years. This sudden success was seen as a major hit, granting Company X recognition and dominance in the industry. Yet, beneath the shining surface of profits and popularity, a darker picture began to emerge. Parents started to raise concerns over the time children were spending on this game. Many young users became addicted, unable to manage their daily schedules, and their studies suffered significantly. Teachers noticed falling grades, a decline in participation, and a visible drop in discipline. At home, the situation worsened as children grew increasingly irritable, spending less time with family and showing signs of inappropriate behavior. Roommates, on the other hand, reported that their relationships remained smooth only during gaming sessions. Once the console was turned off, interactions were minimal, and genuine conversations reduced. What was marketed as a tool for entertainment and bonding ironically created isolation and dependency. Parents found themselves struggling to establish healthy routines for their children, often entering into conflicts that left family ties strained. An independent organisation decided to investigate these growing concerns and carried out a large- scale survey. The data collected and the report submitted revealed an alarming trend. The impact of the game was largely negative, with cases of extreme dependency, reduced academic achievement, and antisocial tendencies being repeatedly recorded. What initially gave the company a toe hold in the international gaming market was now turning into a nationwide social concern. The report strongly emphasized that while the company’s financial growth was undeniable, the cost to society was far greater. Addiction had begun to reshape the daily lives of thousands of children, disturbing family harmony and disrupting the overall learning environment. Based on the overwhelming findings, the organisation recommended that the game should be banned in the country. The conclusion was clear: no amount of profit could justify the erosion of discipline, values, and future prospects of the younger generation.",
-          "directionImage": "ibps-images/2025_p1_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -87,7 +87,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "What can be inferred about the survey conducted by the independent organisation?",
           "direction": "Read the following passage and answer the given questions. When Company X introduced its online game, the market response was immediate and overwhelming. The very next year, the company earned huge profits and quickly gained users across the globe. Reports revealed that the game generated 50 million dollars worldwide, making it one of the most successful digital launches in recent years. This sudden success was seen as a major hit, granting Company X recognition and dominance in the industry. Yet, beneath the shining surface of profits and popularity, a darker picture began to emerge. Parents started to raise concerns over the time children were spending on this game. Many young users became addicted, unable to manage their daily schedules, and their studies suffered significantly. Teachers noticed falling grades, a decline in participation, and a visible drop in discipline. At home, the situation worsened as children grew increasingly irritable, spending less time with family and showing signs of inappropriate behavior. Roommates, on the other hand, reported that their relationships remained smooth only during gaming sessions. Once the console was turned off, interactions were minimal, and genuine conversations reduced. What was marketed as a tool for entertainment and bonding ironically created isolation and dependency. Parents found themselves struggling to establish healthy routines for their children, often entering into conflicts that left family ties strained. An independent organisation decided to investigate these growing concerns and carried out a large- scale survey. The data collected and the report submitted revealed an alarming trend. The impact of the game was largely negative, with cases of extreme dependency, reduced academic achievement, and antisocial tendencies being repeatedly recorded. What initially gave the company a toe hold in the international gaming market was now turning into a nationwide social concern. The report strongly emphasized that while the company’s financial growth was undeniable, the cost to society was far greater. Addiction had begun to reshape the daily lives of thousands of children, disturbing family harmony and disrupting the overall learning environment. Based on the overwhelming findings, the organisation recommended that the game should be banned in the country. The conclusion was clear: no amount of profit could justify the erosion of discipline, values, and future prospects of the younger generation.",
-          "directionImage": "ibps-images/2025_p1_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -125,7 +125,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "According to the passage, what role did roommates play in revealing the social effects of the game?",
           "direction": "Read the following passage and answer the given questions. When Company X introduced its online game, the market response was immediate and overwhelming. The very next year, the company earned huge profits and quickly gained users across the globe. Reports revealed that the game generated 50 million dollars worldwide, making it one of the most successful digital launches in recent years. This sudden success was seen as a major hit, granting Company X recognition and dominance in the industry. Yet, beneath the shining surface of profits and popularity, a darker picture began to emerge. Parents started to raise concerns over the time children were spending on this game. Many young users became addicted, unable to manage their daily schedules, and their studies suffered significantly. Teachers noticed falling grades, a decline in participation, and a visible drop in discipline. At home, the situation worsened as children grew increasingly irritable, spending less time with family and showing signs of inappropriate behavior. Roommates, on the other hand, reported that their relationships remained smooth only during gaming sessions. Once the console was turned off, interactions were minimal, and genuine conversations reduced. What was marketed as a tool for entertainment and bonding ironically created isolation and dependency. Parents found themselves struggling to establish healthy routines for their children, often entering into conflicts that left family ties strained. An independent organisation decided to investigate these growing concerns and carried out a large- scale survey. The data collected and the report submitted revealed an alarming trend. The impact of the game was largely negative, with cases of extreme dependency, reduced academic achievement, and antisocial tendencies being repeatedly recorded. What initially gave the company a toe hold in the international gaming market was now turning into a nationwide social concern. The report strongly emphasized that while the company’s financial growth was undeniable, the cost to society was far greater. Addiction had begun to reshape the daily lives of thousands of children, disturbing family harmony and disrupting the overall learning environment. Based on the overwhelming findings, the organisation recommended that the game should be banned in the country. The conclusion was clear: no amount of profit could justify the erosion of discipline, values, and future prospects of the younger generation.",
-          "directionImage": "ibps-images/2025_p1_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -163,7 +163,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Why did Company X's game gain global popularity so quickly after its launch?",
           "direction": "Read the following passage and answer the given questions. When Company X introduced its online game, the market response was immediate and overwhelming. The very next year, the company earned huge profits and quickly gained users across the globe. Reports revealed that the game generated 50 million dollars worldwide, making it one of the most successful digital launches in recent years. This sudden success was seen as a major hit, granting Company X recognition and dominance in the industry. Yet, beneath the shining surface of profits and popularity, a darker picture began to emerge. Parents started to raise concerns over the time children were spending on this game. Many young users became addicted, unable to manage their daily schedules, and their studies suffered significantly. Teachers noticed falling grades, a decline in participation, and a visible drop in discipline. At home, the situation worsened as children grew increasingly irritable, spending less time with family and showing signs of inappropriate behavior. Roommates, on the other hand, reported that their relationships remained smooth only during gaming sessions. Once the console was turned off, interactions were minimal, and genuine conversations reduced. What was marketed as a tool for entertainment and bonding ironically created isolation and dependency. Parents found themselves struggling to establish healthy routines for their children, often entering into conflicts that left family ties strained. An independent organisation decided to investigate these growing concerns and carried out a large- scale survey. The data collected and the report submitted revealed an alarming trend. The impact of the game was largely negative, with cases of extreme dependency, reduced academic achievement, and antisocial tendencies being repeatedly recorded. What initially gave the company a toe hold in the international gaming market was now turning into a nationwide social concern. The report strongly emphasized that while the company’s financial growth was undeniable, the cost to society was far greater. Addiction had begun to reshape the daily lives of thousands of children, disturbing family harmony and disrupting the overall learning environment. Based on the overwhelming findings, the organisation recommended that the game should be banned in the country. The conclusion was clear: no amount of profit could justify the erosion of discipline, values, and future prospects of the younger generation.",
-          "directionImage": "ibps-images/2025_p1_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -201,7 +201,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "How did teachers contribute to the concern about the game’s impact?",
           "direction": "Read the following passage and answer the given questions. When Company X introduced its online game, the market response was immediate and overwhelming. The very next year, the company earned huge profits and quickly gained users across the globe. Reports revealed that the game generated 50 million dollars worldwide, making it one of the most successful digital launches in recent years. This sudden success was seen as a major hit, granting Company X recognition and dominance in the industry. Yet, beneath the shining surface of profits and popularity, a darker picture began to emerge. Parents started to raise concerns over the time children were spending on this game. Many young users became addicted, unable to manage their daily schedules, and their studies suffered significantly. Teachers noticed falling grades, a decline in participation, and a visible drop in discipline. At home, the situation worsened as children grew increasingly irritable, spending less time with family and showing signs of inappropriate behavior. Roommates, on the other hand, reported that their relationships remained smooth only during gaming sessions. Once the console was turned off, interactions were minimal, and genuine conversations reduced. What was marketed as a tool for entertainment and bonding ironically created isolation and dependency. Parents found themselves struggling to establish healthy routines for their children, often entering into conflicts that left family ties strained. An independent organisation decided to investigate these growing concerns and carried out a large- scale survey. The data collected and the report submitted revealed an alarming trend. The impact of the game was largely negative, with cases of extreme dependency, reduced academic achievement, and antisocial tendencies being repeatedly recorded. What initially gave the company a toe hold in the international gaming market was now turning into a nationwide social concern. The report strongly emphasized that while the company’s financial growth was undeniable, the cost to society was far greater. Addiction had begun to reshape the daily lives of thousands of children, disturbing family harmony and disrupting the overall learning environment. Based on the overwhelming findings, the organisation recommended that the game should be banned in the country. The conclusion was clear: no amount of profit could justify the erosion of discipline, values, and future prospects of the younger generation.",
-          "directionImage": "ibps-images/2025_p1_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -239,7 +239,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Fill in the blank with the most appropriate option:",
           "direction": "Read the following passage and answer the given questions. When Company X introduced its online game, the market response was immediate and overwhelming. The very next year, the company earned huge profits and quickly gained users across the globe. Reports revealed that the game generated 50 million dollars worldwide, making it one of the most successful digital launches in recent years. This sudden success was seen as a major hit, granting Company X recognition and dominance in the industry. Yet, beneath the shining surface of profits and popularity, a darker picture began to emerge. Parents started to raise concerns over the time children were spending on this game. Many young users became addicted, unable to manage their daily schedules, and their studies suffered significantly. Teachers noticed falling grades, a decline in participation, and a visible drop in discipline. At home, the situation worsened as children grew increasingly irritable, spending less time with family and showing signs of inappropriate behavior. Roommates, on the other hand, reported that their relationships remained smooth only during gaming sessions. Once the console was turned off, interactions were minimal, and genuine conversations reduced. What was marketed as a tool for entertainment and bonding ironically created isolation and dependency. Parents found themselves struggling to establish healthy routines for their children, often entering into conflicts that left family ties strained. An independent organisation decided to investigate these growing concerns and carried out a large- scale survey. The data collected and the report submitted revealed an alarming trend. The impact of the game was largely negative, with cases of extreme dependency, reduced academic achievement, and antisocial tendencies being repeatedly recorded. What initially gave the company a toe hold in the international gaming market was now turning into a nationwide social concern. The report strongly emphasized that while the company’s financial growth was undeniable, the cost to society was far greater. Addiction had begun to reshape the daily lives of thousands of children, disturbing family harmony and disrupting the overall learning environment. Based on the overwhelming findings, the organisation recommended that the game should be banned in the country. The conclusion was clear: no amount of profit could justify the erosion of discipline, values, and future prospects of the younger generation.",
-          "directionImage": "ibps-images/2025_p1_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -277,7 +277,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Choose the option that is the closest in meaning to the word \"hit\" as used in the passage:",
           "direction": "Read the following passage and answer the given questions. When Company X introduced its online game, the market response was immediate and overwhelming. The very next year, the company earned huge profits and quickly gained users across the globe. Reports revealed that the game generated 50 million dollars worldwide, making it one of the most successful digital launches in recent years. This sudden success was seen as a major hit, granting Company X recognition and dominance in the industry. Yet, beneath the shining surface of profits and popularity, a darker picture began to emerge. Parents started to raise concerns over the time children were spending on this game. Many young users became addicted, unable to manage their daily schedules, and their studies suffered significantly. Teachers noticed falling grades, a decline in participation, and a visible drop in discipline. At home, the situation worsened as children grew increasingly irritable, spending less time with family and showing signs of inappropriate behavior. Roommates, on the other hand, reported that their relationships remained smooth only during gaming sessions. Once the console was turned off, interactions were minimal, and genuine conversations reduced. What was marketed as a tool for entertainment and bonding ironically created isolation and dependency. Parents found themselves struggling to establish healthy routines for their children, often entering into conflicts that left family ties strained. An independent organisation decided to investigate these growing concerns and carried out a large- scale survey. The data collected and the report submitted revealed an alarming trend. The impact of the game was largely negative, with cases of extreme dependency, reduced academic achievement, and antisocial tendencies being repeatedly recorded. What initially gave the company a toe hold in the international gaming market was now turning into a nationwide social concern. The report strongly emphasized that while the company’s financial growth was undeniable, the cost to society was far greater. Addiction had begun to reshape the daily lives of thousands of children, disturbing family harmony and disrupting the overall learning environment. Based on the overwhelming findings, the organisation recommended that the game should be banned in the country. The conclusion was clear: no amount of profit could justify the erosion of discipline, values, and future prospects of the younger generation.",
-          "directionImage": "ibps-images/2025_p1_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -315,7 +315,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Choose the word that is the opposite in meaning to \"raise\" as used in the passage:",
           "direction": "Read the following passage and answer the given questions. When Company X introduced its online game, the market response was immediate and overwhelming. The very next year, the company earned huge profits and quickly gained users across the globe. Reports revealed that the game generated 50 million dollars worldwide, making it one of the most successful digital launches in recent years. This sudden success was seen as a major hit, granting Company X recognition and dominance in the industry. Yet, beneath the shining surface of profits and popularity, a darker picture began to emerge. Parents started to raise concerns over the time children were spending on this game. Many young users became addicted, unable to manage their daily schedules, and their studies suffered significantly. Teachers noticed falling grades, a decline in participation, and a visible drop in discipline. At home, the situation worsened as children grew increasingly irritable, spending less time with family and showing signs of inappropriate behavior. Roommates, on the other hand, reported that their relationships remained smooth only during gaming sessions. Once the console was turned off, interactions were minimal, and genuine conversations reduced. What was marketed as a tool for entertainment and bonding ironically created isolation and dependency. Parents found themselves struggling to establish healthy routines for their children, often entering into conflicts that left family ties strained. An independent organisation decided to investigate these growing concerns and carried out a large- scale survey. The data collected and the report submitted revealed an alarming trend. The impact of the game was largely negative, with cases of extreme dependency, reduced academic achievement, and antisocial tendencies being repeatedly recorded. What initially gave the company a toe hold in the international gaming market was now turning into a nationwide social concern. The report strongly emphasized that while the company’s financial growth was undeniable, the cost to society was far greater. Addiction had begun to reshape the daily lives of thousands of children, disturbing family harmony and disrupting the overall learning environment. Based on the overwhelming findings, the organisation recommended that the game should be banned in the country. The conclusion was clear: no amount of profit could justify the erosion of discipline, values, and future prospects of the younger generation.",
-          "directionImage": "ibps-images/2025_p1_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -353,7 +353,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "What was the main recommendation made by the independent organisation after analyzing the impact of the game?",
           "direction": "Read the following passage and answer the given questions. When Company X introduced its online game, the market response was immediate and overwhelming. The very next year, the company earned huge profits and quickly gained users across the globe. Reports revealed that the game generated 50 million dollars worldwide, making it one of the most successful digital launches in recent years. This sudden success was seen as a major hit, granting Company X recognition and dominance in the industry. Yet, beneath the shining surface of profits and popularity, a darker picture began to emerge. Parents started to raise concerns over the time children were spending on this game. Many young users became addicted, unable to manage their daily schedules, and their studies suffered significantly. Teachers noticed falling grades, a decline in participation, and a visible drop in discipline. At home, the situation worsened as children grew increasingly irritable, spending less time with family and showing signs of inappropriate behavior. Roommates, on the other hand, reported that their relationships remained smooth only during gaming sessions. Once the console was turned off, interactions were minimal, and genuine conversations reduced. What was marketed as a tool for entertainment and bonding ironically created isolation and dependency. Parents found themselves struggling to establish healthy routines for their children, often entering into conflicts that left family ties strained. An independent organisation decided to investigate these growing concerns and carried out a large- scale survey. The data collected and the report submitted revealed an alarming trend. The impact of the game was largely negative, with cases of extreme dependency, reduced academic achievement, and antisocial tendencies being repeatedly recorded. What initially gave the company a toe hold in the international gaming market was now turning into a nationwide social concern. The report strongly emphasized that while the company’s financial growth was undeniable, the cost to society was far greater. Addiction had begun to reshape the daily lives of thousands of children, disturbing family harmony and disrupting the overall learning environment. Based on the overwhelming findings, the organisation recommended that the game should be banned in the country. The conclusion was clear: no amount of profit could justify the erosion of discipline, values, and future prospects of the younger generation.",
-          "directionImage": "ibps-images/2025_p1_img2_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -619,7 +619,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following is most suitable to fill the blank A?",
           "direction": "In the following question, a passage is provided with few blanks. Choose the most suitable word from the given options to fill the respective blank. The nation has recently _________ (A) a surge in fake bomb threats targeting trains and flights, creating panic among passengers and disrupting essential travel services. Anonymous calls and messages falsely claimed the _________ (B) of explosives, forcing authorities to carry out emergency checks. These incidents led to delays, cancellations, and inconvenience for thousands of travelers. Union government ministers confirmed that detailed information about the threats had been _________ (C) and stressed that such false alarms are treated as serious crimes. They noted that spreading fake information not only causes fear but also _________ (D) security resources and diverts attention from genuine concerns. Investigations are underway to _________ (E) the sources of these false alerts. Early indications point to organized attempts to spread chaos. Officials assured that once the responsible organization is identified, strict punishment will be _________ (F) under existing laws. The government has also directed railways and aviation authorities to step up security measures and verify all suspicious communications without delay. While no actual explosives have been discovered, the gravity of the threats cannot be ignored. Passengers are advised to remain calm and cooperate with security checks, as the government reiterated its commitment to ensuring safety and penalizing those spreading fake threats.",
-          "directionImage": "ibps-images/2025_p2_img0_1023x1537.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -657,7 +657,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following is most suitable to fill the blank B?",
           "direction": "In the following question, a passage is provided with few blanks. Choose the most suitable word from the given options to fill the respective blank. The nation has recently _________ (A) a surge in fake bomb threats targeting trains and flights, creating panic among passengers and disrupting essential travel services. Anonymous calls and messages falsely claimed the _________ (B) of explosives, forcing authorities to carry out emergency checks. These incidents led to delays, cancellations, and inconvenience for thousands of travelers. Union government ministers confirmed that detailed information about the threats had been _________ (C) and stressed that such false alarms are treated as serious crimes. They noted that spreading fake information not only causes fear but also _________ (D) security resources and diverts attention from genuine concerns. Investigations are underway to _________ (E) the sources of these false alerts. Early indications point to organized attempts to spread chaos. Officials assured that once the responsible organization is identified, strict punishment will be _________ (F) under existing laws. The government has also directed railways and aviation authorities to step up security measures and verify all suspicious communications without delay. While no actual explosives have been discovered, the gravity of the threats cannot be ignored. Passengers are advised to remain calm and cooperate with security checks, as the government reiterated its commitment to ensuring safety and penalizing those spreading fake threats.",
-          "directionImage": "ibps-images/2025_p2_img0_1023x1537.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -695,7 +695,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following is most suitable to fill the blank C?",
           "direction": "In the following question, a passage is provided with few blanks. Choose the most suitable word from the given options to fill the respective blank. The nation has recently _________ (A) a surge in fake bomb threats targeting trains and flights, creating panic among passengers and disrupting essential travel services. Anonymous calls and messages falsely claimed the _________ (B) of explosives, forcing authorities to carry out emergency checks. These incidents led to delays, cancellations, and inconvenience for thousands of travelers. Union government ministers confirmed that detailed information about the threats had been _________ (C) and stressed that such false alarms are treated as serious crimes. They noted that spreading fake information not only causes fear but also _________ (D) security resources and diverts attention from genuine concerns. Investigations are underway to _________ (E) the sources of these false alerts. Early indications point to organized attempts to spread chaos. Officials assured that once the responsible organization is identified, strict punishment will be _________ (F) under existing laws. The government has also directed railways and aviation authorities to step up security measures and verify all suspicious communications without delay. While no actual explosives have been discovered, the gravity of the threats cannot be ignored. Passengers are advised to remain calm and cooperate with security checks, as the government reiterated its commitment to ensuring safety and penalizing those spreading fake threats.",
-          "directionImage": "ibps-images/2025_p2_img0_1023x1537.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -733,7 +733,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following is most suitable to fill the blank D?",
           "direction": "In the following question, a passage is provided with few blanks. Choose the most suitable word from the given options to fill the respective blank. The nation has recently _________ (A) a surge in fake bomb threats targeting trains and flights, creating panic among passengers and disrupting essential travel services. Anonymous calls and messages falsely claimed the _________ (B) of explosives, forcing authorities to carry out emergency checks. These incidents led to delays, cancellations, and inconvenience for thousands of travelers. Union government ministers confirmed that detailed information about the threats had been _________ (C) and stressed that such false alarms are treated as serious crimes. They noted that spreading fake information not only causes fear but also _________ (D) security resources and diverts attention from genuine concerns. Investigations are underway to _________ (E) the sources of these false alerts. Early indications point to organized attempts to spread chaos. Officials assured that once the responsible organization is identified, strict punishment will be _________ (F) under existing laws. The government has also directed railways and aviation authorities to step up security measures and verify all suspicious communications without delay. While no actual explosives have been discovered, the gravity of the threats cannot be ignored. Passengers are advised to remain calm and cooperate with security checks, as the government reiterated its commitment to ensuring safety and penalizing those spreading fake threats.",
-          "directionImage": "ibps-images/2025_p3_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -771,7 +771,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following is most suitable to fill the blank E?",
           "direction": "In the following question, a passage is provided with few blanks. Choose the most suitable word from the given options to fill the respective blank. The nation has recently _________ (A) a surge in fake bomb threats targeting trains and flights, creating panic among passengers and disrupting essential travel services. Anonymous calls and messages falsely claimed the _________ (B) of explosives, forcing authorities to carry out emergency checks. These incidents led to delays, cancellations, and inconvenience for thousands of travelers. Union government ministers confirmed that detailed information about the threats had been _________ (C) and stressed that such false alarms are treated as serious crimes. They noted that spreading fake information not only causes fear but also _________ (D) security resources and diverts attention from genuine concerns. Investigations are underway to _________ (E) the sources of these false alerts. Early indications point to organized attempts to spread chaos. Officials assured that once the responsible organization is identified, strict punishment will be _________ (F) under existing laws. The government has also directed railways and aviation authorities to step up security measures and verify all suspicious communications without delay. While no actual explosives have been discovered, the gravity of the threats cannot be ignored. Passengers are advised to remain calm and cooperate with security checks, as the government reiterated its commitment to ensuring safety and penalizing those spreading fake threats.",
-          "directionImage": "ibps-images/2025_p3_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -809,7 +809,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following is most suitable to fill the blank F?",
           "direction": "In the following question, a passage is provided with few blanks. Choose the most suitable word from the given options to fill the respective blank. The nation has recently _________ (A) a surge in fake bomb threats targeting trains and flights, creating panic among passengers and disrupting essential travel services. Anonymous calls and messages falsely claimed the _________ (B) of explosives, forcing authorities to carry out emergency checks. These incidents led to delays, cancellations, and inconvenience for thousands of travelers. Union government ministers confirmed that detailed information about the threats had been _________ (C) and stressed that such false alarms are treated as serious crimes. They noted that spreading fake information not only causes fear but also _________ (D) security resources and diverts attention from genuine concerns. Investigations are underway to _________ (E) the sources of these false alerts. Early indications point to organized attempts to spread chaos. Officials assured that once the responsible organization is identified, strict punishment will be _________ (F) under existing laws. The government has also directed railways and aviation authorities to step up security measures and verify all suspicious communications without delay. While no actual explosives have been discovered, the gravity of the threats cannot be ignored. Passengers are advised to remain calm and cooperate with security checks, as the government reiterated its commitment to ensuring safety and penalizing those spreading fake threats.",
-          "directionImage": "ibps-images/2025_p3_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -847,7 +847,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "(I) She saved money for several months; (II) She finally bought a new laptop.",
           "direction": "In the question given below two sentences are given which are grammatically correct and meaningful. Connect them with the most suitable word given below the statements in the best possible way without changing the intended meaning. Choose the answer accordingly from the options to form a correct coherent sentence.",
-          "directionImage": "ibps-images/2025_p3_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -885,7 +885,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "(I) He prepared well for the interview; (II) He did not get selected for the job.",
           "direction": "In the question given below two sentences are given which are grammatically correct and meaningful. Connect them with the most suitable word given below the statements in the best possible way without changing the intended meaning. Choose the answer accordingly from the options to form a correct coherent sentence.",
-          "directionImage": "ibps-images/2025_p3_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -923,7 +923,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "(I) The shop was closed; (II) We could not buy any groceries.",
           "direction": "In the question given below two sentences are given which are grammatically correct and meaningful. Connect them with the most suitable word given below the statements in the best possible way without changing the intended meaning. Choose the answer accordingly from the options to form a correct coherent sentence.",
-          "directionImage": "ibps-images/2025_p3_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -961,7 +961,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "(A) The development of the electronic computer began in the 20th century, with machines like ENIAC marking a significant leap.",
           "direction": "Rearrange the following five sentences (A), (B), (C), (D) and (E) in the proper sequence to form a meaningful paragraph and then answer the question given below.",
-          "directionImage": "ibps-images/2025_p3_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -999,7 +999,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "(A) Glucose, commonly referred to as blood sugar, is the primary source of energy for the body's cells.",
           "direction": "Rearrange the following five sentences (A), (B), (C), (D) and (E) in the proper sequence to form a meaningful paragraph and then answer the question given below.",
-          "directionImage": "ibps-images/2025_p3_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -1037,7 +1037,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "(A) Wheat thrives on a cool growing season, followed by a warm, dry period for harvest.",
           "direction": "In the given question, few sentences are given. Also, sentence (D) is fixed as the fourth sentence. Rearrange the remaining four sentences in the proper sequence to form a meaningful paragraph.",
-          "directionImage": "ibps-images/2025_p3_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -1075,7 +1075,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "(A) Technology has become a defining force of modern life, reshaping domains from communication to healthcare and beyond.",
           "direction": "In the given question, few sentences are given. Also, sentence (D) is fixed as the fourth sentence. Rearrange the remaining four sentences in the proper sequence to form a meaningful paragraph.",
-          "directionImage": "ibps-images/2025_p3_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -1227,7 +1227,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "The manager’s missing (A) question about the unexpected (B) report seemed to abash him completely (C), leaving him speechless (D) and visibly uncomfortable (E) in front of colleagues (F).",
           "direction": "In each of the questions given below, six words have been highlighted. These six words may or may not have been placed in their correct positions. The sentence is then followed by options with the correct combination of words that should replace each other in order to make the sentence grammatically and contextually correct. Find the correct combination of the words that should replace each other. If the sentence is correct as it is, then select option “No interchange required” as your choice.",
-          "directionImage": "ibps-images/2025_p3_img2_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -1341,7 +1341,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "The sudden collapse (A) of a strong financial institution (B) was considered (C) an aberration (D), shaking investor confidence (E) and disrupting the otherwise stable (F) market.",
           "direction": "In each of the questions given below, six words have been highlighted. These six words may or may not have been placed in their correct positions. The sentence is then followed by options with the correct combination of words that should replace each other in order to make the sentence grammatically and contextually correct. Find the correct combination of the words that should replace each other. If the sentence is correct as it is, then select option “No interchange required” as your choice.",
-          "directionImage": "ibps-images/2025_p4_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -1607,7 +1607,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Why the effects of phosphorus on lake ecosystems are difficult to reverse?",
           "direction": "Read the following passage and answer the given questions. Lakes are crucial freshwater reserves that support aquatic life, agriculture, and human needs. Their long-term health depends greatly on internal chemical processes. Two significant ones are phosphorus reactions and the chloride + water reaction. Phosphorus, though essential for growth, becomes harmful when it enters lakes in excess through fertilizers, detergents, or untreated sewage. These phosphorus reactions trigger algal blooms that block sunlight and reduce oxygen. As algae decompose, oxygen levels in the lake lower, suffocating fish and disrupting biodiversity. Since phosphorus can remain trapped in sediments for years, its negative effects often persist long after the external supply is reduced. The chloride + water reaction influences lakes differently. Chloride, introduced through road salts, mining, or industrial effluents, steadily raises salinity. This alters water density and circulation, stressing species adapted to freshwater. Over time, plant diversity declines, fish populations shrink, and the water often acquires a taste unsuitable for drinking or irrigation. ---PAGE_10--- 11 Lake water naturally contains several elements vital for ecological balance. Oxygen is essential for aquatic organisms, calcium supports shell-forming species like mollusks, while sodium and magnesium maintain mineral stability. When levels of elements such as chloride or phosphorus rise unnaturally, however, the lake’s chemistry shifts in ways that damage both ecosystems and human use. Monitoring these chemical reactions helps prevent major damage. Tracking phosphorus levels makes it possible to predict algal blooms, while chloride studies guide alternatives to road salt, such as sand or organic compounds. Establishing buffer zones around farms and improving wastewater treatment can also reduce nutrient flow into lakes. Yet, implementing such measures often demands high costs or changes in established practices. Farmers may resist reducing fertilizer use, while cities in snowy regions rely heavily on road salts for safety. Balancing ecological preservation with economic and practical needs remains a challenge. If ignored, these reactions can leave lakes unsuitable for consumption, raising the risk of dehydration in communities dependent on them. Protecting the chemical balance of lakes is therefore vital not only for biodiversity but also for ensuring safe and reliable freshwater for human survival.",
-          "directionImage": "ibps-images/2025_p4_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -1645,7 +1645,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Why is the chloride + water reaction considered particularly disruptive to lake biodiversity?",
           "direction": "Read the following passage and answer the given questions. Lakes are crucial freshwater reserves that support aquatic life, agriculture, and human needs. Their long-term health depends greatly on internal chemical processes. Two significant ones are phosphorus reactions and the chloride + water reaction. Phosphorus, though essential for growth, becomes harmful when it enters lakes in excess through fertilizers, detergents, or untreated sewage. These phosphorus reactions trigger algal blooms that block sunlight and reduce oxygen. As algae decompose, oxygen levels in the lake lower, suffocating fish and disrupting biodiversity. Since phosphorus can remain trapped in sediments for years, its negative effects often persist long after the external supply is reduced. The chloride + water reaction influences lakes differently. Chloride, introduced through road salts, mining, or industrial effluents, steadily raises salinity. This alters water density and circulation, stressing species adapted to freshwater. Over time, plant diversity declines, fish populations shrink, and the water often acquires a taste unsuitable for drinking or irrigation. ---PAGE_10--- 11 Lake water naturally contains several elements vital for ecological balance. Oxygen is essential for aquatic organisms, calcium supports shell-forming species like mollusks, while sodium and magnesium maintain mineral stability. When levels of elements such as chloride or phosphorus rise unnaturally, however, the lake’s chemistry shifts in ways that damage both ecosystems and human use. Monitoring these chemical reactions helps prevent major damage. Tracking phosphorus levels makes it possible to predict algal blooms, while chloride studies guide alternatives to road salt, such as sand or organic compounds. Establishing buffer zones around farms and improving wastewater treatment can also reduce nutrient flow into lakes. Yet, implementing such measures often demands high costs or changes in established practices. Farmers may resist reducing fertilizer use, while cities in snowy regions rely heavily on road salts for safety. Balancing ecological preservation with economic and practical needs remains a challenge. If ignored, these reactions can leave lakes unsuitable for consumption, raising the risk of dehydration in communities dependent on them. Protecting the chemical balance of lakes is therefore vital not only for biodiversity but also for ensuring safe and reliable freshwater for human survival.",
-          "directionImage": "ibps-images/2025_p4_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -1683,7 +1683,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following measures is NOT mentioned as a strategy to mitigate chemical imbalance in lakes?",
           "direction": "Read the following passage and answer the given questions. Lakes are crucial freshwater reserves that support aquatic life, agriculture, and human needs. Their long-term health depends greatly on internal chemical processes. Two significant ones are phosphorus reactions and the chloride + water reaction. Phosphorus, though essential for growth, becomes harmful when it enters lakes in excess through fertilizers, detergents, or untreated sewage. These phosphorus reactions trigger algal blooms that block sunlight and reduce oxygen. As algae decompose, oxygen levels in the lake lower, suffocating fish and disrupting biodiversity. Since phosphorus can remain trapped in sediments for years, its negative effects often persist long after the external supply is reduced. The chloride + water reaction influences lakes differently. Chloride, introduced through road salts, mining, or industrial effluents, steadily raises salinity. This alters water density and circulation, stressing species adapted to freshwater. Over time, plant diversity declines, fish populations shrink, and the water often acquires a taste unsuitable for drinking or irrigation. ---PAGE_10--- 11 Lake water naturally contains several elements vital for ecological balance. Oxygen is essential for aquatic organisms, calcium supports shell-forming species like mollusks, while sodium and magnesium maintain mineral stability. When levels of elements such as chloride or phosphorus rise unnaturally, however, the lake’s chemistry shifts in ways that damage both ecosystems and human use. Monitoring these chemical reactions helps prevent major damage. Tracking phosphorus levels makes it possible to predict algal blooms, while chloride studies guide alternatives to road salt, such as sand or organic compounds. Establishing buffer zones around farms and improving wastewater treatment can also reduce nutrient flow into lakes. Yet, implementing such measures often demands high costs or changes in established practices. Farmers may resist reducing fertilizer use, while cities in snowy regions rely heavily on road salts for safety. Balancing ecological preservation with economic and practical needs remains a challenge. If ignored, these reactions can leave lakes unsuitable for consumption, raising the risk of dehydration in communities dependent on them. Protecting the chemical balance of lakes is therefore vital not only for biodiversity but also for ensuring safe and reliable freshwater for human survival.",
-          "directionImage": "ibps-images/2025_p4_img2_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -1721,7 +1721,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following statements is/are CORRECT based on the passage? (I) The chloride + water reaction can affect the drinkability of lake water. (II) High chloride concentration leads to biodiversity decline and poor irrigation quality. (III) Phosphorus boosts plant diversity in lake ecosystems.",
           "direction": "Read the following passage and answer the given questions. Lakes are crucial freshwater reserves that support aquatic life, agriculture, and human needs. Their long-term health depends greatly on internal chemical processes. Two significant ones are phosphorus reactions and the chloride + water reaction. Phosphorus, though essential for growth, becomes harmful when it enters lakes in excess through fertilizers, detergents, or untreated sewage. These phosphorus reactions trigger algal blooms that block sunlight and reduce oxygen. As algae decompose, oxygen levels in the lake lower, suffocating fish and disrupting biodiversity. Since phosphorus can remain trapped in sediments for years, its negative effects often persist long after the external supply is reduced. The chloride + water reaction influences lakes differently. Chloride, introduced through road salts, mining, or industrial effluents, steadily raises salinity. This alters water density and circulation, stressing species adapted to freshwater. Over time, plant diversity declines, fish populations shrink, and the water often acquires a taste unsuitable for drinking or irrigation. ---PAGE_10--- 11 Lake water naturally contains several elements vital for ecological balance. Oxygen is essential for aquatic organisms, calcium supports shell-forming species like mollusks, while sodium and magnesium maintain mineral stability. When levels of elements such as chloride or phosphorus rise unnaturally, however, the lake’s chemistry shifts in ways that damage both ecosystems and human use. Monitoring these chemical reactions helps prevent major damage. Tracking phosphorus levels makes it possible to predict algal blooms, while chloride studies guide alternatives to road salt, such as sand or organic compounds. Establishing buffer zones around farms and improving wastewater treatment can also reduce nutrient flow into lakes. Yet, implementing such measures often demands high costs or changes in established practices. Farmers may resist reducing fertilizer use, while cities in snowy regions rely heavily on road salts for safety. Balancing ecological preservation with economic and practical needs remains a challenge. If ignored, these reactions can leave lakes unsuitable for consumption, raising the risk of dehydration in communities dependent on them. Protecting the chemical balance of lakes is therefore vital not only for biodiversity but also for ensuring safe and reliable freshwater for human survival.",
-          "directionImage": "ibps-images/2025_p4_img2_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -1759,7 +1759,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following statements is INCORRECT according to the passage?",
           "direction": "Read the following passage and answer the given questions. Lakes are crucial freshwater reserves that support aquatic life, agriculture, and human needs. Their long-term health depends greatly on internal chemical processes. Two significant ones are phosphorus reactions and the chloride + water reaction. Phosphorus, though essential for growth, becomes harmful when it enters lakes in excess through fertilizers, detergents, or untreated sewage. These phosphorus reactions trigger algal blooms that block sunlight and reduce oxygen. As algae decompose, oxygen levels in the lake lower, suffocating fish and disrupting biodiversity. Since phosphorus can remain trapped in sediments for years, its negative effects often persist long after the external supply is reduced. The chloride + water reaction influences lakes differently. Chloride, introduced through road salts, mining, or industrial effluents, steadily raises salinity. This alters water density and circulation, stressing species adapted to freshwater. Over time, plant diversity declines, fish populations shrink, and the water often acquires a taste unsuitable for drinking or irrigation. ---PAGE_10--- 11 Lake water naturally contains several elements vital for ecological balance. Oxygen is essential for aquatic organisms, calcium supports shell-forming species like mollusks, while sodium and magnesium maintain mineral stability. When levels of elements such as chloride or phosphorus rise unnaturally, however, the lake’s chemistry shifts in ways that damage both ecosystems and human use. Monitoring these chemical reactions helps prevent major damage. Tracking phosphorus levels makes it possible to predict algal blooms, while chloride studies guide alternatives to road salt, such as sand or organic compounds. Establishing buffer zones around farms and improving wastewater treatment can also reduce nutrient flow into lakes. Yet, implementing such measures often demands high costs or changes in established practices. Farmers may resist reducing fertilizer use, while cities in snowy regions rely heavily on road salts for safety. Balancing ecological preservation with economic and practical needs remains a challenge. If ignored, these reactions can leave lakes unsuitable for consumption, raising the risk of dehydration in communities dependent on them. Protecting the chemical balance of lakes is therefore vital not only for biodiversity but also for ensuring safe and reliable freshwater for human survival.",
-          "directionImage": "ibps-images/2025_p4_img2_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -1797,7 +1797,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Based on the passage, how does the chemical balance in lakes impact the survival of aquatic plants and animals?",
           "direction": "Read the following passage and answer the given questions. Lakes are crucial freshwater reserves that support aquatic life, agriculture, and human needs. Their long-term health depends greatly on internal chemical processes. Two significant ones are phosphorus reactions and the chloride + water reaction. Phosphorus, though essential for growth, becomes harmful when it enters lakes in excess through fertilizers, detergents, or untreated sewage. These phosphorus reactions trigger algal blooms that block sunlight and reduce oxygen. As algae decompose, oxygen levels in the lake lower, suffocating fish and disrupting biodiversity. Since phosphorus can remain trapped in sediments for years, its negative effects often persist long after the external supply is reduced. The chloride + water reaction influences lakes differently. Chloride, introduced through road salts, mining, or industrial effluents, steadily raises salinity. This alters water density and circulation, stressing species adapted to freshwater. Over time, plant diversity declines, fish populations shrink, and the water often acquires a taste unsuitable for drinking or irrigation. ---PAGE_10--- 11 Lake water naturally contains several elements vital for ecological balance. Oxygen is essential for aquatic organisms, calcium supports shell-forming species like mollusks, while sodium and magnesium maintain mineral stability. When levels of elements such as chloride or phosphorus rise unnaturally, however, the lake’s chemistry shifts in ways that damage both ecosystems and human use. Monitoring these chemical reactions helps prevent major damage. Tracking phosphorus levels makes it possible to predict algal blooms, while chloride studies guide alternatives to road salt, such as sand or organic compounds. Establishing buffer zones around farms and improving wastewater treatment can also reduce nutrient flow into lakes. Yet, implementing such measures often demands high costs or changes in established practices. Farmers may resist reducing fertilizer use, while cities in snowy regions rely heavily on road salts for safety. Balancing ecological preservation with economic and practical needs remains a challenge. If ignored, these reactions can leave lakes unsuitable for consumption, raising the risk of dehydration in communities dependent on them. Protecting the chemical balance of lakes is therefore vital not only for biodiversity but also for ensuring safe and reliable freshwater for human survival.",
-          "directionImage": "ibps-images/2025_p4_img2_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -1835,7 +1835,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "According to the passage, why is it difficult to protect lakes from harmful chemical changes?",
           "direction": "Read the following passage and answer the given questions. Lakes are crucial freshwater reserves that support aquatic life, agriculture, and human needs. Their long-term health depends greatly on internal chemical processes. Two significant ones are phosphorus reactions and the chloride + water reaction. Phosphorus, though essential for growth, becomes harmful when it enters lakes in excess through fertilizers, detergents, or untreated sewage. These phosphorus reactions trigger algal blooms that block sunlight and reduce oxygen. As algae decompose, oxygen levels in the lake lower, suffocating fish and disrupting biodiversity. Since phosphorus can remain trapped in sediments for years, its negative effects often persist long after the external supply is reduced. The chloride + water reaction influences lakes differently. Chloride, introduced through road salts, mining, or industrial effluents, steadily raises salinity. This alters water density and circulation, stressing species adapted to freshwater. Over time, plant diversity declines, fish populations shrink, and the water often acquires a taste unsuitable for drinking or irrigation. ---PAGE_10--- 11 Lake water naturally contains several elements vital for ecological balance. Oxygen is essential for aquatic organisms, calcium supports shell-forming species like mollusks, while sodium and magnesium maintain mineral stability. When levels of elements such as chloride or phosphorus rise unnaturally, however, the lake’s chemistry shifts in ways that damage both ecosystems and human use. Monitoring these chemical reactions helps prevent major damage. Tracking phosphorus levels makes it possible to predict algal blooms, while chloride studies guide alternatives to road salt, such as sand or organic compounds. Establishing buffer zones around farms and improving wastewater treatment can also reduce nutrient flow into lakes. Yet, implementing such measures often demands high costs or changes in established practices. Farmers may resist reducing fertilizer use, while cities in snowy regions rely heavily on road salts for safety. Balancing ecological preservation with economic and practical needs remains a challenge. If ignored, these reactions can leave lakes unsuitable for consumption, raising the risk of dehydration in communities dependent on them. Protecting the chemical balance of lakes is therefore vital not only for biodiversity but also for ensuring safe and reliable freshwater for human survival.",
-          "directionImage": "ibps-images/2025_p4_img2_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -1873,7 +1873,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Choose the word that is opposite in meaning to \"lower\" as used in the passage:",
           "direction": "Read the following passage and answer the given questions. Lakes are crucial freshwater reserves that support aquatic life, agriculture, and human needs. Their long-term health depends greatly on internal chemical processes. Two significant ones are phosphorus reactions and the chloride + water reaction. Phosphorus, though essential for growth, becomes harmful when it enters lakes in excess through fertilizers, detergents, or untreated sewage. These phosphorus reactions trigger algal blooms that block sunlight and reduce oxygen. As algae decompose, oxygen levels in the lake lower, suffocating fish and disrupting biodiversity. Since phosphorus can remain trapped in sediments for years, its negative effects often persist long after the external supply is reduced. The chloride + water reaction influences lakes differently. Chloride, introduced through road salts, mining, or industrial effluents, steadily raises salinity. This alters water density and circulation, stressing species adapted to freshwater. Over time, plant diversity declines, fish populations shrink, and the water often acquires a taste unsuitable for drinking or irrigation. ---PAGE_10--- 11 Lake water naturally contains several elements vital for ecological balance. Oxygen is essential for aquatic organisms, calcium supports shell-forming species like mollusks, while sodium and magnesium maintain mineral stability. When levels of elements such as chloride or phosphorus rise unnaturally, however, the lake’s chemistry shifts in ways that damage both ecosystems and human use. Monitoring these chemical reactions helps prevent major damage. Tracking phosphorus levels makes it possible to predict algal blooms, while chloride studies guide alternatives to road salt, such as sand or organic compounds. Establishing buffer zones around farms and improving wastewater treatment can also reduce nutrient flow into lakes. Yet, implementing such measures often demands high costs or changes in established practices. Farmers may resist reducing fertilizer use, while cities in snowy regions rely heavily on road salts for safety. Balancing ecological preservation with economic and practical needs remains a challenge. If ignored, these reactions can leave lakes unsuitable for consumption, raising the risk of dehydration in communities dependent on them. Protecting the chemical balance of lakes is therefore vital not only for biodiversity but also for ensuring safe and reliable freshwater for human survival.",
-          "directionImage": "ibps-images/2025_p5_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -2215,7 +2215,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Seven people-A, B, C, D, E, F and G-live on different floors of a 7-floor building but not necessarily in the same order. The ground floor is numbered 1, the floor just above it is numbered 2, and so on. Who lives three floors below A. Statement I: A lives on an even-numbered floor. E lives immediately above A. B lives on floor number 4. There are as many persons live above A as below G. Statement II: D lives on a floor immediately above G. F does not live on the topmost floor. C lives on floor number 5 below A.",
           "direction": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement are sufficient to answer the question. Read both the statements and Give answer: (a) If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question. (b) If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question. (c) If the data either in statement I alone or in statement II alone are sufficient to answer the question. (d) If the data even in both statements I and II together are not sufficient to answer the question. (e) If the data in both statements I and II together are necessary to answer the question.",
-          "directionImage": "ibps-images/2025_p5_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -2253,7 +2253,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "In a row of children facing North, where does Rajat stand in the row? Statement I: Jyoti stands 3rd from left end and 2nd to the left of Rajat who stands immediate left of the one who is 10th from the right end of the row. Statement II: There are 19 children between Rajat and Meena, and Meena is 15th from one of the ends of the row.",
           "direction": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement are sufficient to answer the question. Read both the statements and Give answer: (a) If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question. (b) If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question. (c) If the data either in statement I alone or in statement II alone are sufficient to answer the question. (d) If the data even in both statements I and II together are not sufficient to answer the question. (e) If the data in both statements I and II together are necessary to answer the question.",
-          "directionImage": "ibps-images/2025_p5_img2_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -2291,7 +2291,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "In four family members, how is Rohan related to Meena? Statement I: Rohan's father is the only brother of Meena's mother. Statement II: Meena's mother is the sister of the father of Rohan's sister. ---PAGE_14--- 15",
           "direction": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement are sufficient to answer the question. Read both the statements and Give answer: (a) If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question. (b) If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question. (c) If the data either in statement I alone or in statement II alone are sufficient to answer the question. (d) If the data even in both statements I and II together are not sufficient to answer the question. (e) If the data in both statements I and II together are necessary to answer the question.",
-          "directionImage": "ibps-images/2025_p5_img2_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -2329,7 +2329,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Eight boxes-P, Q, R, S, T, U, V, and W-are stacked above each other but not necessarily in the same order. Statement I: Box P is immediately above box Q. Box S is immediately above box R, which is not at the bottommost position. Statement II: Box T is above box U but below box V. Box W is at the bottommost position. Box P is not at the topmost position.",
           "direction": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement are sufficient to answer the question. Read both the statements and Give answer: (a) If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question. (b) If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question. (c) If the data either in statement I alone or in statement II alone are sufficient to answer the question. (d) If the data even in both statements I and II together are not sufficient to answer the question. (e) If the data in both statements I and II together are necessary to answer the question.",
-          "directionImage": "ibps-images/2025_p5_img2_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -5718,7 +5718,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "What is the underlying cause of a spark's occurrence? Read the following passage and answer the following questions. A spark is essentially an electric charge flying in the air between two points, one of which has a large quantity of surplus electrons while the other has too few. This difference in quantities of electrons can happen due to many reasons. Sometimes people have engineered it this way using chemicals: the simplest example is the battery that we use in everything from remote-controls to electric vehicles. A point with a large number of surplus electrons is called the negative terminal (since electrons are negatively charged) and a point that is deficient of electrons is the positive terminal. This is why you see ‘+’ and ‘-’ signs marked on every battery. In most situations – and unlike some people – electrons are extremely equitable in nature and dislike this difference in their quantities. So, given an opportunity, they will travel from a place where they are more in number to a place where they are fewer in number. This is why current flows when we attach a wire between the two ends of a battery, and in the process we make our fans move, or bulbs light up, etc. However, if we don’t attach a wire and the electrons still want to move, what will they do? If the gap between the surplus and the deficiency of electrons becomes too extreme, at some point, these electrons will lose all patience and decide to fly through the air, disrupting everything in between. This is not very dissimilar to human society. Sometimes, you might notice that something upsets people slowly over time, and then suddenly, there is a surprisingly large bit of unrest. To be able to break out like this, electrons first need to break up air molecules mid-air, creating ions (charged atoms). In addition, many electrons inside the atoms are also pulled out, creating free electrons in the air. All this creates a region through which electrons can easily move – as if they have made a wire for themselves in thin air! And when they travel on this path, we see it as a spark. Clouds are charged objects. When they move over large distances and collide with other clouds, they get more and more charged. At some point, this charge becomes too much for the clouds to hold, and breaks out as the lightning that we see (followed by the thunder that we hear).",
           "direction": "",
-          "directionImage": "ibps-images/2024_p1_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -5756,7 +5756,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "How do electrons create a pathway for themselves in thin air without a physical wire? Read the following passage and answer the following questions. A spark is essentially an electric charge flying in the air between two points, one of which has a large quantity of surplus electrons while the other has too few. This difference in quantities of electrons can happen due to many reasons. Sometimes people have engineered it this way using chemicals: the simplest example is the battery that we use in everything from remote-controls to electric vehicles. A point with a large number of surplus electrons is called the negative terminal (since electrons are negatively charged) and a point that is deficient of electrons is the positive terminal. This is why you see ‘+’ and ‘-’ signs marked on every battery. In most situations – and unlike some people – electrons are extremely equitable in nature and dislike this difference in their quantities. So, given an opportunity, they will travel from a place where they are more in number to a place where they are fewer in number. This is why current flows when we attach a wire between the two ends of a battery, and in the process we make our fans move, or bulbs light up, etc. However, if we don’t attach a wire and the electrons still want to move, what will they do? If the gap between the surplus and the deficiency of electrons becomes too extreme, at some point, these electrons will lose all patience and decide to fly through the air, disrupting everything in between. This is not very dissimilar to human society. Sometimes, you might notice that something upsets people slowly over time, and then suddenly, there is a surprisingly large bit of unrest. To be able to break out like this, electrons first need to break up air molecules mid-air, creating ions (charged atoms). In addition, many electrons inside the atoms are also pulled out, creating free electrons in the air. All this creates a region through which electrons can easily move – as if they have made a wire for themselves in thin air! And when they travel on this path, we see it as a spark. ---PAGE_1--- 2 Clouds are charged objects. When they move over large distances and collide with other clouds, they get more and more charged. At some point, this charge becomes too much for the clouds to hold, and breaks out as the lightning that we see (followed by the thunder that we hear).",
           "direction": "",
-          "directionImage": "ibps-images/2024_p1_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -5794,7 +5794,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "When does a spark occur in a battery? Read the following passage and answer the following questions. A spark is essentially an electric charge flying in the air between two points, one of which has a large quantity of surplus electrons while the other has too few. This difference in quantities of electrons can happen due to many reasons. Sometimes people have engineered it this way using chemicals: the simplest example is the battery that we use in everything from remote-controls to electric vehicles. A point with a large number of surplus electrons is called the negative terminal (since electrons are negatively charged) and a point that is deficient of electrons is the positive terminal. This is why you see ‘+’ and ‘-’ signs marked on every battery. In most situations – and unlike some people – electrons are extremely equitable in nature and dislike this difference in their quantities. So, given an opportunity, they will travel from a place where they are more in number to a place where they are fewer in number. This is why current flows when we attach a wire between the two ends of a battery, and in the process we make our fans move, or bulbs light up, etc. However, if we don’t attach a wire and the electrons still want to move, what will they do? If the gap between the surplus and the deficiency of electrons becomes too extreme, at some point, these electrons will lose all patience and decide to fly through the air, disrupting everything in between. This is not very dissimilar to human society. Sometimes, you might notice that something upsets people slowly over time, and then suddenly, there is a surprisingly large bit of unrest. To be able to break out like this, electrons first need to break up air molecules mid-air, creating ions (charged atoms). In addition, many electrons inside the atoms are also pulled out, creating free electrons in the air. All this creates a region through which electrons can easily move – as if they have made a wire for themselves in thin air! And when they travel on this path, we see it as a spark. Clouds are charged objects. When they move over large distances and collide with other clouds, they get more and more charged. At some point, this charge becomes too much for the clouds to hold, and breaks out as the lightning that we see (followed by the thunder that we hear).",
           "direction": "",
-          "directionImage": "ibps-images/2024_p1_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -5832,7 +5832,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "What happens when the gap between electron surplus and deficiency becomes too extreme? Read the following passage and answer the following questions. A spark is essentially an electric charge flying in the air between two points, one of which has a large quantity of surplus electrons while the other has too few. This difference in quantities of electrons can happen due to many reasons. Sometimes people have engineered it this way using chemicals: the simplest example is the battery that we use in everything from remote-controls to electric vehicles. A point with a large number of surplus electrons is called the negative terminal (since electrons are negatively charged) and a point that is deficient of electrons is the positive terminal. This is why you see ‘+’ and ‘-’ signs marked on every battery. In most situations – and unlike some people – electrons are extremely equitable in nature and dislike this difference in their quantities. So, given an opportunity, they will travel from a place where they are more in number to a place where they are fewer in number. This is why current flows when we attach a wire between the two ends of a battery, and in the process we make our fans move, or bulbs light up, etc. However, if we don’t attach a wire and the electrons still want to move, what will they do? If the gap between the surplus and the deficiency of electrons becomes too extreme, at some point, these electrons will lose all patience and decide to fly through the air, disrupting everything in between. This is not very dissimilar to human society. Sometimes, you might notice that something upsets people slowly over time, and then suddenly, there is a surprisingly large bit of unrest. ---PAGE_2--- 3 To be able to break out like this, electrons first need to break up air molecules mid-air, creating ions (charged atoms). In addition, many electrons inside the atoms are also pulled out, creating free electrons in the air. All this creates a region through which electrons can easily move – as if they have made a wire for themselves in thin air! And when they travel on this path, we see it as a spark. Clouds are charged objects. When they move over large distances and collide with other clouds, they get more and more charged. At some point, this charge becomes too much for the clouds to hold, and breaks out as the lightning that we see (followed by the thunder that we hear).",
           "direction": "",
-          "directionImage": "ibps-images/2024_p1_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -5870,7 +5870,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "What is the similarity between a spark's occurrence and human society? Read the following passage and answer the following questions. A spark is essentially an electric charge flying in the air between two points, one of which has a large quantity of surplus electrons while the other has too few. This difference in quantities of electrons can happen due to many reasons. Sometimes people have engineered it this way using chemicals: the simplest example is the battery that we use in everything from remote-controls to electric vehicles. A point with a large number of surplus electrons is called the negative terminal (since electrons are negatively charged) and a point that is deficient of electrons is the positive terminal. This is why you see ‘+’ and ‘-’ signs marked on every battery. In most situations – and unlike some people – electrons are extremely equitable in nature and dislike this difference in their quantities. So, given an opportunity, they will travel from a place where they are more in number to a place where they are fewer in number. This is why current flows when we attach a wire between the two ends of a battery, and in the process we make our fans move, or bulbs light up, etc. However, if we don’t attach a wire and the electrons still want to move, what will they do? If the gap between the surplus and the deficiency of electrons becomes too extreme, at some point, these electrons will lose all patience and decide to fly through the air, disrupting everything in between. This is not very dissimilar to human society. Sometimes, you might notice that something upsets people slowly over time, and then suddenly, there is a surprisingly large bit of unrest. To be able to break out like this, electrons first need to break up air molecules mid-air, creating ions (charged atoms). In addition, many electrons inside the atoms are also pulled out, creating free electrons in the air. All this creates a region through which electrons can easily move – as if they have made a wire for themselves in thin air! And when they travel on this path, we see it as a spark. Clouds are charged objects. When they move over large distances and collide with other clouds, they get more and more charged. At some point, this charge becomes too much for the clouds to hold, and breaks out as the lightning that we see (followed by the thunder that we hear).",
           "direction": "",
-          "directionImage": "ibps-images/2024_p1_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -5908,7 +5908,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "What enables electrons to move easily through the air when a spark occurs? Read the following passage and answer the following questions. A spark is essentially an electric charge flying in the air between two points, one of which has a large quantity of surplus electrons while the other has too few. This difference in quantities of electrons can happen due to many reasons. Sometimes people have engineered it this way using chemicals: the simplest example is the battery that we use in everything from remote-controls to electric vehicles. A point with a large number of surplus electrons is called the negative terminal (since electrons are negatively charged) and a point that is deficient of electrons is the positive terminal. This is why you see ‘+’ and ‘-’ signs marked on every battery. In most situations – and unlike some people – electrons are extremely equitable in nature and dislike this difference in their quantities. So, given an opportunity, they will travel from a place where they are more in number to a place where they are fewer in number. This is why current flows when we attach a wire between the two ends of a battery, and in the process we make our fans move, or bulbs light up, etc. However, if we don’t attach a wire and the electrons still want to move, what will they do? ---PAGE_3--- 4 If the gap between the surplus and the deficiency of electrons becomes too extreme, at some point, these electrons will lose all patience and decide to fly through the air, disrupting everything in between. This is not very dissimilar to human society. Sometimes, you might notice that something upsets people slowly over time, and then suddenly, there is a surprisingly large bit of unrest. To be able to break out like this, electrons first need to break up air molecules mid-air, creating ions (charged atoms). In addition, many electrons inside the atoms are also pulled out, creating free electrons in the air. All this creates a region through which electrons can easily move – as if they have made a wire for themselves in thin air! And when they travel on this path, we see it as a spark. Clouds are charged objects. When they move over large distances and collide with other clouds, they get more and more charged. At some point, this charge becomes too much for the clouds to hold, and breaks out as the lightning that we see (followed by the thunder that we hear).",
           "direction": "",
-          "directionImage": "ibps-images/2024_p1_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -5946,7 +5946,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "What is a synonym for the word \"equitable\" as used in the passage? Read the following passage and answer the following questions. A spark is essentially an electric charge flying in the air between two points, one of which has a large quantity of surplus electrons while the other has too few. This difference in quantities of electrons can happen due to many reasons. Sometimes people have engineered it this way using chemicals: the simplest example is the battery that we use in everything from remote-controls to electric vehicles. A point with a large number of surplus electrons is called the negative terminal (since electrons are negatively charged) and a point that is deficient of electrons is the positive terminal. This is why you see ‘+’ and ‘-’ signs marked on every battery. In most situations – and unlike some people – electrons are extremely equitable in nature and dislike this difference in their quantities. So, given an opportunity, they will travel from a place where they are more in number to a place where they are fewer in number. This is why current flows when we attach a wire between the two ends of a battery, and in the process we make our fans move, or bulbs light up, etc. However, if we don’t attach a wire and the electrons still want to move, what will they do? If the gap between the surplus and the deficiency of electrons becomes too extreme, at some point, these electrons will lose all patience and decide to fly through the air, disrupting everything in between. This is not very dissimilar to human society. Sometimes, you might notice that something upsets people slowly over time, and then suddenly, there is a surprisingly large bit of unrest. To be able to break out like this, electrons first need to break up air molecules mid-air, creating ions (charged atoms). In addition, many electrons inside the atoms are also pulled out, creating free electrons in the air. All this creates a region through which electrons can easily move – as if they have made a wire for themselves in thin air! And when they travel on this path, we see it as a spark. Clouds are charged objects. When they move over large distances and collide with other clouds, they get more and more charged. At some point, this charge becomes too much for the clouds to hold, and breaks out as the lightning that we see (followed by the thunder that we hear).",
           "direction": "",
-          "directionImage": "ibps-images/2024_p1_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -5984,7 +5984,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "What is the antonym of the word \"surplus\" as used in the passage? Read the following passage and answer the following questions. A spark is essentially an electric charge flying in the air between two points, one of which has a large quantity of surplus electrons while the other has too few. This difference in quantities of electrons can happen due to many reasons. Sometimes people have engineered it this way using chemicals: the simplest example is the battery that we use in everything from remote-controls to electric vehicles. ---PAGE_4--- 5 A point with a large number of surplus electrons is called the negative terminal (since electrons are negatively charged) and a point that is deficient of electrons is the positive terminal. This is why you see ‘+’ and ‘-’ signs marked on every battery. In most situations – and unlike some people – electrons are extremely equitable in nature and dislike this difference in their quantities. So, given an opportunity, they will travel from a place where they are more in number to a place where they are fewer in number. This is why current flows when we attach a wire between the two ends of a battery, and in the process we make our fans move, or bulbs light up, etc. However, if we don’t attach a wire and the electrons still want to move, what will they do? If the gap between the surplus and the deficiency of electrons becomes too extreme, at some point, these electrons will lose all patience and decide to fly through the air, disrupting everything in between. This is not very dissimilar to human society. Sometimes, you might notice that something upsets people slowly over time, and then suddenly, there is a surprisingly large bit of unrest. To be able to break out like this, electrons first need to break up air molecules mid-air, creating ions (charged atoms). In addition, many electrons inside the atoms are also pulled out, creating free electrons in the air. All this creates a region through which electrons can easily move – as if they have made a wire for themselves in thin air! And when they travel on this path, we see it as a spark. Clouds are charged objects. When they move over large distances and collide with other clouds, they get more and more charged. At some point, this charge becomes too much for the clouds to hold, and breaks out as the lightning that we see (followed by the thunder that we hear).",
           "direction": "",
-          "directionImage": "ibps-images/2024_p1_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -6022,7 +6022,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": ". What is the antonym of the word \"disrupting\" as used in the passage? Read the following passage and answer the following questions. A spark is essentially an electric charge flying in the air between two points, one of which has a large quantity of surplus electrons while the other has too few. This difference in quantities of electrons can happen due to many reasons. Sometimes people have engineered it this way using chemicals: the simplest example is the battery that we use in everything from remote-controls to electric vehicles. A point with a large number of surplus electrons is called the negative terminal (since electrons are negatively charged) and a point that is deficient of electrons is the positive terminal. This is why you see ‘+’ and ‘-’ signs marked on every battery. In most situations – and unlike some people – electrons are extremely equitable in nature and dislike this difference in their quantities. So, given an opportunity, they will travel from a place where they are more in number to a place where they are fewer in number. This is why current flows when we attach a wire between the two ends of a battery, and in the process we make our fans move, or bulbs light up, etc. However, if we don’t attach a wire and the electrons still want to move, what will they do? If the gap between the surplus and the deficiency of electrons becomes too extreme, at some point, these electrons will lose all patience and decide to fly through the air, disrupting everything in between. This is not very dissimilar to human society. Sometimes, you might notice that something upsets people slowly over time, and then suddenly, there is a surprisingly large bit of unrest. To be able to break out like this, electrons first need to break up air molecules mid-air, creating ions (charged atoms). In addition, many electrons inside the atoms are also pulled out, creating free electrons in the air. All this creates a region through which electrons can easily move – as if they have made a wire for themselves in thin air! And when they travel on this path, we see it as a spark. Clouds are charged objects. When they move over large distances and collide with other clouds, they get more and more charged. At some point, this charge becomes too much for the clouds to hold, and breaks out as the lightning that we see (followed by the thunder that we hear).",
           "direction": "",
-          "directionImage": "ibps-images/2024_p1_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -7124,7 +7124,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": ". Which of the following is the most suitable word for the given blank? Read the following passage and answer the given questions. Monetary policy refers to the actions taken by a central bank to control the money supply and interest rates in an economy to achieve specific goals, such as price stability, and economic growth. Central banks use various tools to implement monetary policy, including open market operations, reserve requirements, and discount rates. One key tool of monetary policy is open market operations, whereby the central bank buys or sells government securities in the open market. When the central bank buys securities, it injects money into the banking system, increasing the money supply and lowering interest rates. Conversely, when it sells securities, it withdraws money from the banking system, reducing the money supply and raising interest rates. ---PAGE_14--- 15 Another tool is reserve requirements, which mandate the amount of reserves banks must hold against their deposits. By adjusting reserve requirements, central banks can influence the amount of money banks can lend out, thereby affecting the money supply and interest rates. Additionally, central banks set the discount rate, which is the interest rate at which banks can borrow funds directly from the central bank. By raising or lowering the discount rate, central banks can influence the cost of borrowing for banks, thus impacting the overall level of lending and economic activity. Monetary policy decisions have significant implications for various __________________of the economy. Lowering interest rates, for example, can stimulate borrowing and investment, leading to increased consumer spending and economic growth. However, it can also lead to inflation if the economy overheats. Conversely, raising interest rates can help control inflation but may also slow down economic activity and increase unemployment. Understanding the intricacies of monetary policy and its implications is crucial for policymakers, businesses, and individuals alike, as it directly influences the overall health and stability of the economy.",
           "direction": "",
-          "directionImage": "ibps-images/2024_p4_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -7390,7 +7390,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Despite facing numerous_______________, the team of dedicated researchers persevered with unwavering ___________________ collaborating data to unravel the complexities of the scientific phenomenon. In the following questions a sentence is given with two blanks. The sentence is then provided with five options which consist of the words that can fill the given blanks. Choose that option as the correct answer which can fill the given blanks in the exact order as given in the option.",
           "direction": "",
-          "directionImage": "ibps-images/2024_p4_img2_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -7428,7 +7428,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "The company's marketing demographics (A) includes advertising (B) specific strategy (C) and using digital platforms for targeting (D). In each of the questions given below, four words have been highlighted. These four words may or may not have been placed in their correct positions. The sentence is then followed by options with the correct combination of words that should replace each other in order to make the sentence grammatically and contextually correct. Find the correct combination of the words that should replace each other.",
           "direction": "",
-          "directionImage": "ibps-images/2024_p4_img2_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -7580,7 +7580,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "The novel depths (A) a fascinating story with explores (B) characters that relatable (C) the provides (D) of human emotion. In each of the questions given below, four words have been highlighted. These four words may or may not have been placed in their correct positions. The sentence is then followed by options with the correct combination of words that should replace each other in order to make the sentence grammatically and contextually correct. Find the correct combination of the words that should replace each other.",
           "direction": "",
-          "directionImage": "ibps-images/2024_p5_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -8188,7 +8188,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "What is the position of the element \"Chair\" in Step VI? A word and number arrangement machine, when given an input line of numbers and words, rearranges them following a particular rule in each step. The following is an illustration of an input and its rearrangement. Input: 45 Close 67 Grip 39 Knife 86 Dove 32 Village 90 Ring Step I: Village 45 Close 67 Grip 39 Knife 86 Dove 32 Ring 90 Step II: Ring Village 45 Close 67 Grip 39 Knife Dove 32 90 86 Step III: Knife Ring Village 45 Close Grip 39 Dove 32 90 86 67 Step IV: Grip Knife Ring Village Close 39 Dove 32 90 86 67 45 Step V: Dove Grip Knife Ring Village Close 32 90 86 67 45 39 Step VI: Close Dove Grip Knife Ring Village 90 86 67 45 39 32 Step VI is the last step of the rearrangement. As per the rules followed in the above steps, find out in each of the following questions the appropriate steps for the given input. Input: 52 Chair 78 Flowers 41 Umbrella 90 Box 48 Table 65 Shelf",
           "direction": "",
-          "directionImage": "ibps-images/2024_p6_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -8226,7 +8226,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Which among the following element is fifth to the right of Flowers in Step V? A word and number arrangement machine, when given an input line of numbers and words, rearranges them following a particular rule in each step. The following is an illustration of an input and its rearrangement. Input: 45 Close 67 Grip 39 Knife 86 Dove 32 Village 90 Ring Step I: Village 45 Close 67 Grip 39 Knife 86 Dove 32 Ring 90 Step II: Ring Village 45 Close 67 Grip 39 Knife Dove 32 90 86 Step III: Knife Ring Village 45 Close Grip 39 Dove 32 90 86 67 Step IV: Grip Knife Ring Village Close 39 Dove 32 90 86 67 45 Step V: Dove Grip Knife Ring Village Close 32 90 86 67 45 39 Step VI: Close Dove Grip Knife Ring Village 90 86 67 45 39 32 Step VI is the last step of the rearrangement. As per the rules followed in the above steps, find out in each of the following questions the appropriate steps for the given input. Input: 52 Chair 78 Flowers 41 Umbrella 90 Box 48 Table 65 Shelf",
           "direction": "",
-          "directionImage": "ibps-images/2024_p6_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -8264,7 +8264,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "What is the sum of third and fifth number from the left end in Step III? A word and number arrangement machine, when given an input line of numbers and words, rearranges them following a particular rule in each step. The following is an illustration of an input and its rearrangement. Input: 45 Close 67 Grip 39 Knife 86 Dove 32 Village 90 Ring Step I: Village 45 Close 67 Grip 39 Knife 86 Dove 32 Ring 90 Step II: Ring Village 45 Close 67 Grip 39 Knife Dove 32 90 86 Step III: Knife Ring Village 45 Close Grip 39 Dove 32 90 86 67 Step IV: Grip Knife Ring Village Close 39 Dove 32 90 86 67 45 Step V: Dove Grip Knife Ring Village Close 32 90 86 67 45 39 Step VI: Close Dove Grip Knife Ring Village 90 86 67 45 39 32 Step VI is the last step of the rearrangement. As per the rules followed in the above steps, find out in each of the following questions the appropriate steps for the given input. Input: 52 Chair 78 Flowers 41 Umbrella 90 Box 48 Table 65 Shelf",
           "direction": "",
-          "directionImage": "ibps-images/2024_p6_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -8302,7 +8302,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": ". Which element is second to the left of seventh element from the right end in Step II? A word and number arrangement machine, when given an input line of numbers and words, rearranges them following a particular rule in each step. The following is an illustration of an input and its rearrangement. Input: 45 Close 67 Grip 39 Knife 86 Dove 32 Village 90 Ring Step I: Village 45 Close 67 Grip 39 Knife 86 Dove 32 Ring 90 Step II: Ring Village 45 Close 67 Grip 39 Knife Dove 32 90 86 Step III: Knife Ring Village 45 Close Grip 39 Dove 32 90 86 67 Step IV: Grip Knife Ring Village Close 39 Dove 32 90 86 67 45 Step V: Dove Grip Knife Ring Village Close 32 90 86 67 45 39 Step VI: Close Dove Grip Knife Ring Village 90 86 67 45 39 32 Step VI is the last step of the rearrangement. As per the rules followed in the above steps, find out in each of the following questions the appropriate steps for the given input. Input: 52 Chair 78 Flowers 41 Umbrella 90 Box 48 Table 65 Shelf",
           "direction": "",
-          "directionImage": "ibps-images/2024_p6_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -8568,7 +8568,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Statement: The rise of artificial intelligence (AI) is transforming industries by automating tasks and improving efficiency. While it creates new opportunities, it also raises concerns about job displacement and ethical usage. Addressing these challenges will be key to harnessing AI’s full potential for societal benefit. Conclusions: I. AI will completely replace human jobs in all industries. II. Ethical considerations are important to ensure responsible AI usage. III. Industries adopting AI will likely see improvements in productivity. IV. Job displacement is inevitable as AI adoption increases. Which of the conclusions logically follow?",
           "direction": "",
-          "directionImage": "ibps-images/2024_p6_img2_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -8682,7 +8682,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Statement: Online education platforms have seen a significant rise in enrollment, driven by the flexibility and accessibility they offer. However, concerns remain about the effectiveness of virtual learning compared to traditional classroom settings. Assumptions: I. The flexibility and accessibility of online education platforms attract more learners. II. Traditional classroom settings are universally considered more effective than online learning. III. The rise in enrollment indicates that online education is becoming the preferred mode of learning for all subjects. Which of the following assumptions logically follow from the given statement?",
           "direction": "",
-          "directionImage": "ibps-images/2024_p6_img2_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -8910,7 +8910,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Eight books– A, B, C, D, E, F, G and H are kept one above another, but not necessarily in the same order. Which among them is kept immediately above book D? Statement I: Only one book is kept above C and only three books are kept between C and G which is immediately below F. Statement II: Only two books are kept between B and E which is immediately above F. As many books are kept above B as below A. The question below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements and answer the following questions:",
           "direction": "",
-          "directionImage": "ibps-images/2024_p7_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -8948,7 +8948,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Cup is in which direction with respect to cooler? Statement I: Table is 5m east of Cup and 4m south of TV, which is 3m east of AC. Cooler is 5m south of AC. Statement II: Cooler is south-west of TV, which is 5m west of Hanger. Hanger is 4m north of Switch board, which is north-east of Cup. The question below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements and answer the following questions:",
           "direction": "",
-          "directionImage": "ibps-images/2024_p7_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -8986,7 +8986,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Seven persons – I, J, K, L, M, N and O are standing in a linear row facing south, but not necessarily in the same order. Who among them stands second from the left end? Statement I: Only two persons stand between I and K where neither of them stands at the end. L stands to the immediate left of N. As many persons stand to the left of I as to the right of L. N doesn’t stand at the extreme end. ---PAGE_28--- 29 Statement II: K stands second to the left of J. Only three persons stand between J and O who does not stand at the end. The number of persons stand to the left of M is one less than the right of K. K doesn’t stand adjacent to M. The question below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements and answer the following questions:",
           "direction": "",
-          "directionImage": "ibps-images/2024_p7_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -9024,7 +9024,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Six children – U, V, W, X, Y and Z have different number of kites with them. Who among them has the second highest number of kites? Statement I: V has more kites than Y who has less kites than W. Z has more kites than W but less kites than V. Statement II: Y has more kites than V. Only three children have less kites than V. Z has more kites than V but not more than Y. The question below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements and answer the following questions:",
           "direction": "",
-          "directionImage": "ibps-images/2024_p7_img1_512x245.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -9518,7 +9518,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "I. x² - 7x + 12 = 0 II. y² - 8y + 12 = 0 In the following two equations questions numbered (I) and (II) are given. You have to solve both equations and Give answer.",
           "direction": "",
-          "directionImage": "",
+          "directionImage": "ibps-images/2024_p34_img4_562x154.png",
           "options": [
             {
               "id": "A",
@@ -9556,7 +9556,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "I. x2 = 81 II. (y-9)2 = 0 In the following two equations questions numbered (I) and (II) are given. You have to solve both equations and Give answer.",
           "direction": "",
-          "directionImage": "",
+          "directionImage": "ibps-images/2024_p34_img4_562x154.png",
           "options": [
             {
               "id": "A",
@@ -9594,7 +9594,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "I. x2-7x-18=0 II. y2-19y+90=0 In each question two equations numbered (I) and (II) are given. Student should solve both the equations and mark appropriate answer.",
           "direction": "",
-          "directionImage": "",
+          "directionImage": "ibps-images/2024_p34_img4_562x154.png",
           "options": [
             {
               "id": "A",
@@ -9632,7 +9632,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "In each of these questions, two equations (i) and (ii) are given, you have to solve both the equations and give answer accordingly.",
           "direction": "",
-          "directionImage": "",
+          "directionImage": "ibps-images/2024_p34_img4_562x154.png",
           "options": [
             {
               "id": "A",
@@ -9670,7 +9670,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "I. x² – 15x + 56 = 0 II. y = ∛512 In each question two equations numbered (I) and (II) are given. Student should solve both the equations and mark appropriate answer.",
           "direction": "",
-          "directionImage": "",
+          "directionImage": "ibps-images/2024_p34_img4_562x154.png",
           "options": [
             {
               "id": "A",
@@ -9708,7 +9708,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "The ratio of the discount percentage on article A to the markup percentage on article E is 4:5. Find the difference between the discount allowed on article E and the profit earned on article A (in Rs). Read the following table carefully and answer the questions given below. The table shows the cost price, markup percentage, and profit or loss percentage of five different articles. Note: (i) The negative percentage shows the loss suffered on the article. (ii) Few values are missing in the table. A candidate is expected to calculate the missing value, if it is required to answer the given question on the basis of the given data.",
           "direction": "",
-          "directionImage": "ibps-images/2024_p8_img2_834x719.png",
+          "directionImage": "ibps-images/2024_p35_img4_562x154.png",
           "options": [
             {
               "id": "A",
@@ -9746,7 +9746,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "If the average selling price of articles C, D, and E is Rs 830 2/3 and the profit percentage of article D is one-third of the markup percentage of article B, then find which of the following option is correct about the article D. Read the following table carefully and answer the questions given below. The table shows the cost price, markup percentage, and profit or loss percentage of five different articles. Note: (i) The negative percentage shows the loss suffered on the article. (ii) Few values are missing in the table. A candidate is expected to calculate the missing value, if it is required to answer the given question on the basis of the given data.",
           "direction": "",
-          "directionImage": "ibps-images/2024_p8_img2_834x719.png",
+          "directionImage": "ibps-images/2024_p35_img4_562x154.png",
           "options": [
             {
               "id": "A",
@@ -9784,7 +9784,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "If the discount allowed on the article C is 36% and the marked price of the article C is 33.33% less than that of article B, then find the selling price of the article B (in Rs). Read the following table carefully and answer the questions given below. The table shows the cost price, markup percentage, and profit or loss percentage of five different articles. Note: (i) The negative percentage shows the loss suffered on the article. ---PAGE_33--- 34 (ii) Few values are missing in the table. A candidate is expected to calculate the missing value, if it is required to answer the given question on the basis of the given data.",
           "direction": "",
-          "directionImage": "ibps-images/2024_p8_img2_834x719.png",
+          "directionImage": "ibps-images/2024_p35_img4_562x154.png",
           "options": [
             {
               "id": "A",
@@ -9822,7 +9822,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "Find which of the following statement/s is /are incorrect. I. The discount percentage on the article A is more than 25% II. The difference between the selling price of the article C and E more than the half of the selling price of the article A. III. The loss suffered on the article C is equal to two-third of loss suffered article C. Read the following table carefully and answer the questions given below. The table shows the cost price, markup percentage, and profit or loss percentage of five different articles. Note: (i) The negative percentage shows the loss suffered on the article. (ii) Few values are missing in the table. A candidate is expected to calculate the missing value, if it is required to answer the given question on the basis of the given data.",
           "direction": "",
-          "directionImage": "ibps-images/2024_p8_img2_834x719.png",
+          "directionImage": "ibps-images/2024_p35_img4_562x154.png",
           "options": [
             {
               "id": "A",
@@ -9860,7 +9860,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": ". The cost price of article D is 80% of that of article A, and the discount allowed on article D is 10%. If the profit % on article D is equal to the markup percentage of article E, then find the discount percentage of article E. Read the following table carefully and answer the questions given below. The table shows the cost price, markup percentage, and profit or loss percentage of five different articles. Note: (i) The negative percentage shows the loss suffered on the article. (ii) Few values are missing in the table. A candidate is expected to calculate the missing value, if it is required to answer the given question on the basis of the given data.",
           "direction": "",
-          "directionImage": "ibps-images/2024_p9_img0_299x204.png",
+          "directionImage": "ibps-images/2024_p35_img4_562x154.png",
           "options": [
             {
               "id": "A",
@@ -9898,7 +9898,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "Find the difference between the total analog watches sold by A and B together and the total digital watches sold by C. Read the following pie charts carefully and answer the questions given below. Pie chart I shows the percentage distribution of the total number of watches sold and pie chart II shows the percentage or number of the total digital watches sold by four different shops. Note: (i) Total watches sold = Digital watches sold + Analog watches sold (ii) X+11 = Y",
           "direction": "",
-          "directionImage": "ibps-images/2024_p9_img0_299x204.png",
+          "directionImage": "ibps-images/2024_p36_img4_579x253.png",
           "options": [
             {
               "id": "A",
@@ -9936,7 +9936,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "Find the ratio of the total analog watches sold by C to the total digital watches sold by B. Read the following pie charts carefully and answer the questions given below. Pie chart I shows the percentage distribution of the total number of watches sold and pie chart II shows the percentage or number of the total digital watches sold by four different shops. Note: (i) Total watches sold = Digital watches sold + Analog watches sold (ii) X+11 = Y",
           "direction": "",
-          "directionImage": "ibps-images/2024_p9_img0_299x204.png",
+          "directionImage": "ibps-images/2024_p36_img4_579x253.png",
           "options": [
             {
               "id": "A",
@@ -9974,7 +9974,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "If the price of each digital and analog watch sold by D is Rs (Y+4) and Rs Z and the total revenue generated by D by selling all the watches is Rs 11210, then find Z. Read the following pie charts carefully and answer the questions given below. Pie chart I shows the percentage distribution of the total number of watches sold and pie chart II shows the percentage or number of the total digital watches sold by four different shops. Note: (i) Total watches sold = Digital watches sold + Analog watches sold ---PAGE_35--- 36 (ii) X+11 = Y",
           "direction": "",
-          "directionImage": "ibps-images/2024_p9_img0_299x204.png",
+          "directionImage": "ibps-images/2024_p36_img4_579x253.png",
           "options": [
             {
               "id": "A",
@@ -10012,7 +10012,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "If the total analog watches sold by E is 4X and the total digital watches sold by B is Y/9 less than that of E, then the total watches sold by E is what percentage of the total analog watches sold by A, B, C and D? Read the following pie charts carefully and answer the questions given below. Pie chart I shows the percentage distribution of the total number of watches sold and pie chart II shows the percentage or number of the total digital watches sold by four different shops. Note: (i) Total watches sold = Digital watches sold + Analog watches sold (ii) X+11 = Y",
           "direction": "",
-          "directionImage": "ibps-images/2024_p9_img0_299x204.png",
+          "directionImage": "ibps-images/2024_p36_img4_579x253.png",
           "options": [
             {
               "id": "A",
@@ -10050,7 +10050,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "Total analog watches sold by C and D together is what percentage more or less than the total digital watches sold by A (approx.)? Read the following pie charts carefully and answer the questions given below. Pie chart I shows the percentage distribution of the total number of watches sold and pie chart II shows the percentage or number of the total digital watches sold by four different shops. Note: (i) Total watches sold = Digital watches sold + Analog watches sold (ii) X+11 = Y ---PAGE_36--- 37",
           "direction": "",
-          "directionImage": "ibps-images/2024_p9_img1_512x245.png",
+          "directionImage": "ibps-images/2024_p36_img4_579x253.png",
           "options": [
             {
               "id": "A",
@@ -10088,7 +10088,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "Quantity I: A container has 60 liters of a mixture of milk and water in the ratio 3:2. 20 liters of this mixture is replaced with pure water. If the mixture is sold for Rs 20 per liter and cost of pure milk is Rs 35 per liter then find the profit (in Rs) Quantity II: A shopkeeper has two varieties(A & B) of tea worth ₹200/kg and ₹300/kg. He mixes variety A & B in the ratio 2:3 respectively. Find the price(in Rs) per kg of the resulting mixture. In the given question, two quantities are given, one as ‘Quantity I’ and another as ‘Quantity II’. You have to determine relationship between two quantities and choose the appropriate option. (Compare only numeric values)",
           "direction": "",
-          "directionImage": "",
+          "directionImage": "ibps-images/2024_p37_img4_579x253.png",
           "options": [
             {
               "id": "A",
@@ -10126,7 +10126,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "What is the ratio of the total number of students in section A of class Q to section B of class R? Read the data carefully and answer the following questions. There are three classes: P, Q, and R in a school. Each class has two sections – A and B. For classes P and R, the ratio of students in section A to section B is 5:3. In class Q, half of the total students are in section A. The average number of students in classes P and R together is 144. The total number of students in class Q is 40 more than in class P. The total number of students in class P is 32 less than in class R. Note: Total students in any class = students in section A + students in section B.",
           "direction": "",
-          "directionImage": "ibps-images/2024_p9_img1_512x245.png",
+          "directionImage": "ibps-images/2024_p37_img4_579x253.png",
           "options": [
             {
               "id": "A",
@@ -10164,7 +10164,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "The total number of students in section B of class P is what percent of the total number of students in section B of class R? Read the data carefully and answer the following questions. There are three classes: P, Q, and R in a school. Each class has two sections – A and B. For classes P and R, the ratio of students in section A to section B is 5:3. In class Q, half of the total students are in section A. The average number of students in classes P and R together is 144. The total number of students in class Q is 40 more than in class P. ---PAGE_37--- 38 The total number of students in class P is 32 less than in class R. Note: Total students in any class = students in section A + students in section B.",
           "direction": "",
-          "directionImage": "ibps-images/2024_p9_img1_512x245.png",
+          "directionImage": "ibps-images/2024_p37_img4_579x253.png",
           "options": [
             {
               "id": "A",
@@ -10202,7 +10202,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "If the total number of students in classes P, Q, R, and S is 712, then what is the difference between the number of students in section A of class P and the total number of students in class S? Read the data carefully and answer the following questions. There are three classes: P, Q, and R in a school. Each class has two sections – A and B. For classes P and R, the ratio of students in section A to section B is 5:3. In class Q, half of the total students are in section A. The average number of students in classes P and R together is 144. The total number of students in class Q is 40 more than in class P. The total number of students in class P is 32 less than in class R. Note: Total students in any class = students in section A + students in section B.",
           "direction": "",
-          "directionImage": "ibps-images/2024_p9_img1_512x245.png",
+          "directionImage": "ibps-images/2024_p37_img4_579x253.png",
           "options": [
             {
               "id": "A",
@@ -10240,7 +10240,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "What is the average number of students in section A of class Q and section B of class R? Read the data carefully and answer the following questions. There are three classes: P, Q, and R in a school. Each class has two sections – A and B. For classes P and R, the ratio of students in section A to section B is 5:3. In class Q, half of the total students are in section A. The average number of students in classes P and R together is 144. The total number of students in class Q is 40 more than in class P. The total number of students in class P is 32 less than in class R. Note: Total students in any class = students in section A + students in section B.",
           "direction": "",
-          "directionImage": "ibps-images/2024_p9_img2_834x719.png",
+          "directionImage": "ibps-images/2024_p37_img4_579x253.png",
           "options": [
             {
               "id": "A",
@@ -10278,7 +10278,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "What is the difference between the total number of students in section B and section A across all classes P, Q, and R? Read the data carefully and answer the following questions. There are three classes: P, Q, and R in a school. Each class has two sections – A and B. For classes P and R, the ratio of students in section A to section B is 5:3. In class Q, half of the total students are in section A. The average number of students in classes P and R together is 144. The total number of students in class Q is 40 more than in class P. The total number of students in class P is 32 less than in class R. Note: Total students in any class = students in section A + students in section B.",
           "direction": "",
-          "directionImage": "ibps-images/2024_p9_img2_834x719.png",
+          "directionImage": "ibps-images/2024_p38_img4_579x253.png",
           "options": [
             {
               "id": "A",
@@ -10316,7 +10316,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "29, 31, 33, 42, 69, 150, 393 Find the wrong term in the following number series.",
           "direction": "",
-          "directionImage": "",
+          "directionImage": "ibps-images/2024_p38_img4_579x253.png",
           "options": [
             {
               "id": "A",
@@ -10354,7 +10354,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "8, 30, 140, 690, ?, 17190 Find the missing number in the following number series.",
           "direction": "",
-          "directionImage": "",
+          "directionImage": "ibps-images/2024_p38_img4_579x253.png",
           "options": [
             {
               "id": "A",
@@ -10392,7 +10392,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "108, 216, 162, 40.5, 202.5, 33.75, 236.25 In the question a number series is given and only one number is wrong. Find out the wrong number.",
           "direction": "",
-          "directionImage": "",
+          "directionImage": "ibps-images/2024_p38_img4_579x253.png",
           "options": [
             {
               "id": "A",
@@ -10430,7 +10430,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "10, 27, 83, 169, 509, 1021 Find the wrong term in the following number series.",
           "direction": "",
-          "directionImage": "",
+          "directionImage": "ibps-images/2024_p38_img4_579x253.png",
           "options": [
             {
               "id": "A",
@@ -11000,7 +11000,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "P, Q, and R can complete a piece of work in 24, 36, and 48 days respectively. They started working together, but after 8 days, P left. After another 2 days, Q also left and R continued working alone. Find the time taken by R to complete the remaining work.",
           "direction": "",
-          "directionImage": "ibps-images/2024_p11_img0_299x204.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -11038,7 +11038,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "A barrel contains 56 liters of kerosene. It has two taps. One tap (A) draws 500 ml every 6 minutes. After first 5 liters are drawn from the barrel, the second tap (B) also starts, it draws 1 liter in every 5 minutes. How many hours will be taken in all to empty the tank?",
           "direction": "",
-          "directionImage": "",
+          "directionImage": "ibps-images/2024_p44_img4_600x367.png",
           "options": [
             {
               "id": "A",
@@ -11076,7 +11076,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "A and B started a business with investments of Rs 8000 and Rs 12000. After four months, A withdrew two-fifths of his investment, and B added Rs 2000 more. If at the end of the year, the profit share of A is Rs 11000, then find the total profit (in Rs).",
           "direction": "",
-          "directionImage": "",
+          "directionImage": "ibps-images/2024_p44_img4_600x367.png",
           "options": [
             {
               "id": "A",
@@ -11114,7 +11114,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "B is x more than C and A is x more than B. If A = 1000. If average of A and C is 960, then what is the value of x?",
           "direction": "",
-          "directionImage": "",
+          "directionImage": "ibps-images/2024_p44_img4_600x367.png",
           "options": [
             {
               "id": "A",
@@ -11152,7 +11152,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "The cost price of the article is 33.33% less than the selling price of the article. If the marked price of the article is 120% more than the cost price of the article and the discount given on the article is Rs 490, then find the markup price of the article (in Rs).",
           "direction": "",
-          "directionImage": "",
+          "directionImage": "ibps-images/2024_p44_img4_600x367.png",
           "options": [
             {
               "id": "A",
@@ -11190,7 +11190,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "Total number of employees working in A is what percentage of average number of female employees working in B and D? The line graph shows the total employees (male + female) and total male employees working in five different companies. ---PAGE_42--- 43 Read the information and answer the following questions.",
           "direction": "",
-          "directionImage": "ibps-images/2024_p11_img1_512x245.png",
+          "directionImage": "ibps-images/2024_p44_img4_600x367.png",
           "options": [
             {
               "id": "A",
@@ -11228,7 +11228,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "Find the ratio of the total female employees working in B and C together and the total male employees working in D and A. The line graph shows the total employees (male + female) and total male employees working in five different companies. Read the information and answer the following questions.",
           "direction": "",
-          "directionImage": "ibps-images/2024_p11_img1_512x245.png",
+          "directionImage": "ibps-images/2024_p45_img4_600x367.png",
           "options": [
             {
               "id": "A",
@@ -11266,7 +11266,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "Find the difference between the maximum number of female employees and the minimum number of male employees working in the given companies. The line graph shows the total employees (male + female) and total male employees working in five different companies. Read the information and answer the following questions.",
           "direction": "",
-          "directionImage": "ibps-images/2024_p11_img1_512x245.png",
+          "directionImage": "ibps-images/2024_p45_img4_600x367.png",
           "options": [
             {
               "id": "A",
@@ -11304,7 +11304,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "The ratio of total employees working in F to E is 2:1 and the male employees are 1/3 of females in F. Find the difference between the female employees working in F and A. The line graph shows the total employees (male + female) and total male employees working in five different companies. Read the information and answer the following questions.",
           "direction": "",
-          "directionImage": "ibps-images/2024_p11_img1_512x245.png",
+          "directionImage": "ibps-images/2024_p45_img4_600x367.png",
           "options": [
             {
               "id": "A",
@@ -11342,7 +11342,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "20% of employees working in D are interns and the ratio of males to females interns are 1:3. Find the number of male employees who are not interns. The line graph shows the total employees (male + female) and total male employees working in five different companies. Read the information and answer the following questions.",
           "direction": "",
-          "directionImage": "ibps-images/2024_p11_img1_512x245.png",
+          "directionImage": "ibps-images/2024_p45_img4_600x367.png",
           "options": [
             {
               "id": "A",
@@ -11380,7 +11380,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "Total number of female employees working in E and D is what percent more or less than total employees working in A (approx.). The line graph shows the total employees (male + female) and total male employees working in five different companies. Read the information and answer the following questions.",
           "direction": "",
-          "directionImage": "ibps-images/2024_p11_img2_834x719.png",
+          "directionImage": "ibps-images/2024_p45_img4_600x367.png",
           "options": [
             {
               "id": "A",
@@ -11425,7 +11425,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "As mentioned in the passage, what makes India a mentor of the world to become a biodiversity champion?",
           "direction": "Read the following passage carefully and answer the questions given below them. The sum and variation of our biological wealth, known as biodiversity, is essential to the future of this planet. The importance of our planet’s biodiversity was strongly ____________________ at the United Nations Biodiversity Conference in Montreal, Canada. 188 country representatives adopted an agreement to “halt and reverse” biodiversity loss by conserving 30% of the world’s land and 30% of the world’s oceans, known as the 30×30 pledge. India currently hosts 17% of the planet’s human population and 17% of the global area in biodiversity hotspots, placing it at the helm to guide the planet in becoming biodiversity champions. In response to this call, the Union Budget 2023 mentioned “Green Growth” as one of the seven priorities or Saptarishis. The emphasis on green growth is welcome news for India’s biological wealth as the country is facing serious losses of natural assets such as soils, land, water, and biodiversity. The National Mission for a Green India aims to increase forest cover and protect existing forested lands. The Mangrove Initiative for Shoreline Habitats & Tangible Incomes (MISHTI) is particularly significant because of the extraordinary importance of mangroves and coastal ecosystems in mitigating climate change. Finally, the Amrit Dharohar scheme directly mentions our biological wealth and is expected to “encourage optimal use of wetlands, and enhance biodiversity, carbon stock, eco-tourism opportunities and income generation for local communities”. If implemented in letter and spirit, Amrit Dharohar, with its emphasis on sustainability by balancing competing demands, will benefit aquatic biodiversity and ecosystem services. It is critical that these programmes respond to the current state of the country’s biodiversity with evidence-based implementation. A science-based and inclusive monitoring programme is critical for the success of these efforts. Finally, each of these efforts must be inclusive of local and nomadic communities where these initiatives will be implemented. Traditional knowledge of these communities should be integrated into the implementation plans.",
-          "directionImage": "ibps-images/2023_p1_img0_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -11463,7 +11463,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Why is there a need to pursue green growth in India, as mentioned in the passage?",
           "direction": "Read the following passage carefully and answer the questions given below them. The sum and variation of our biological wealth, known as biodiversity, is essential to the future of this planet. The importance of our planet’s biodiversity was strongly ____________________ at the United Nations Biodiversity Conference in Montreal, Canada. 188 country representatives adopted an agreement to “halt and reverse” biodiversity loss by conserving 30% of the world’s land and 30% of the world’s oceans, known as the 30×30 pledge. India currently hosts 17% of the planet’s human population and 17% of the global area in biodiversity hotspots, placing it at the helm to guide the planet in becoming biodiversity champions. In response to this call, the Union Budget 2023 mentioned “Green Growth” as one of the seven priorities or Saptarishis. The emphasis on green growth is welcome news for India’s biological wealth as the country is facing serious losses of natural assets such as soils, land, water, and biodiversity. The National Mission for a Green India aims to increase forest cover and protect existing forested lands. The Mangrove Initiative for Shoreline Habitats & Tangible Incomes (MISHTI) is particularly significant because of the extraordinary importance of mangroves and coastal ecosystems in mitigating climate change. Finally, the Amrit Dharohar scheme directly mentions our biological wealth and is expected to “encourage optimal use of wetlands, and enhance biodiversity, carbon stock, eco-tourism opportunities and income generation for local communities”. If implemented in letter and spirit, Amrit Dharohar, with its emphasis on sustainability by balancing competing demands, will benefit aquatic biodiversity and ecosystem services. It is critical that these programmes respond to the current state of the country’s biodiversity with evidence-based implementation. A science-based and inclusive monitoring programme is critical for the success of these efforts. Finally, each of these efforts must be inclusive of local and nomadic communities where these initiatives will be implemented. Traditional knowledge of these communities should be integrated into the implementation plans.",
-          "directionImage": "ibps-images/2023_p1_img0_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -11501,7 +11501,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "As suggested by the author in the passage, what is the target set under National Mission for Green India?",
           "direction": "Read the following passage carefully and answer the questions given below them. The sum and variation of our biological wealth, known as biodiversity, is essential to the future of this planet. The importance of our planet’s biodiversity was strongly ____________________ at the United Nations Biodiversity Conference in Montreal, Canada. 188 country representatives adopted an agreement to “halt and reverse” biodiversity loss by conserving 30% of the world’s land and 30% of the world’s oceans, known as the 30×30 pledge. India currently hosts 17% of the planet’s human population and 17% of the global area in biodiversity hotspots, placing it at the helm to guide the planet in becoming biodiversity champions. In response to this call, the Union Budget 2023 mentioned “Green Growth” as one of the seven priorities or Saptarishis. The emphasis on green growth is welcome news for India’s biological wealth as the country is facing serious losses of natural assets such as soils, land, water, and biodiversity. The National Mission for a Green India aims to increase forest cover and protect existing forested lands. The Mangrove Initiative for Shoreline Habitats & Tangible Incomes (MISHTI) is particularly significant because of the extraordinary importance of mangroves and coastal ecosystems in mitigating climate change. Finally, the Amrit Dharohar scheme directly mentions our biological wealth and is expected to “encourage optimal use of wetlands, and enhance biodiversity, carbon stock, eco-tourism opportunities and income generation for local communities”. If implemented in letter and spirit, Amrit Dharohar, with its emphasis on sustainability by balancing competing demands, will benefit aquatic biodiversity and ecosystem services. It is critical that these programmes respond to the current state of the country’s biodiversity with evidence-based implementation. A science-based and inclusive monitoring programme is critical for the success of these efforts. Finally, each of these efforts must be inclusive of local and nomadic communities where these initiatives will be implemented. Traditional knowledge of these communities should be integrated into the implementation plans.",
-          "directionImage": "ibps-images/2023_p1_img0_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -11539,7 +11539,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following measures is crucial for ensuring success of the government programmes, as mentioned by the author?",
           "direction": "Read the following passage carefully and answer the questions given below them. The sum and variation of our biological wealth, known as biodiversity, is essential to the future of this planet. The importance of our planet’s biodiversity was strongly ____________________ at the United Nations Biodiversity Conference in Montreal, Canada. 188 country representatives adopted an agreement to “halt and reverse” biodiversity loss by conserving 30% of the world’s land and 30% of the world’s oceans, known as the 30×30 pledge. India currently hosts 17% of the planet’s human population and 17% of the global area in biodiversity hotspots, placing it at the helm to guide the planet in becoming biodiversity champions. In response to this call, the Union Budget 2023 mentioned “Green Growth” as one of the seven priorities or Saptarishis. The emphasis on green growth is welcome news for India’s biological wealth as the country is facing serious losses of natural assets such as soils, land, water, and biodiversity. The National Mission for a Green India aims to increase forest cover and protect existing forested lands. The Mangrove Initiative for Shoreline Habitats & Tangible Incomes (MISHTI) is particularly significant because of the extraordinary importance of mangroves and coastal ecosystems in mitigating climate change. Finally, the Amrit Dharohar scheme directly mentions our biological wealth and is expected to “encourage optimal use of wetlands, and enhance biodiversity, carbon stock, eco-tourism opportunities and income generation for local communities”. If implemented in letter and spirit, Amrit Dharohar, with its emphasis on sustainability by balancing competing demands, will benefit aquatic biodiversity and ecosystem services. It is critical that these programmes respond to the current state of the country’s biodiversity with evidence-based implementation. A science-based and inclusive monitoring programme is critical for the success of these efforts. Finally, each of these efforts must be inclusive of local and nomadic communities where these initiatives will be implemented. Traditional knowledge of these communities should be integrated into the implementation plans.",
-          "directionImage": "ibps-images/2023_p1_img1_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -11577,7 +11577,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following words is a synonym of ‘EMPHASIS’ as highlighted in the passage?",
           "direction": "Read the following passage carefully and answer the questions given below them. The sum and variation of our biological wealth, known as biodiversity, is essential to the future of this planet. The importance of our planet’s biodiversity was strongly ____________________ at the United Nations Biodiversity Conference in Montreal, Canada. 188 country representatives adopted an agreement to “halt and reverse” biodiversity loss by conserving 30% of the world’s land and 30% of the world’s oceans, known as the 30×30 pledge. India currently hosts 17% of the planet’s human population and 17% of the global area in biodiversity hotspots, placing it at the helm to guide the planet in becoming biodiversity champions. In response to this call, the Union Budget 2023 mentioned “Green Growth” as one of the seven priorities or Saptarishis. The emphasis on green growth is welcome news for India’s biological wealth as the country is facing serious losses of natural assets such as soils, land, water, and biodiversity. The National Mission for a Green India aims to increase forest cover and protect existing forested lands. The Mangrove Initiative for Shoreline Habitats & Tangible Incomes (MISHTI) is particularly significant because of the extraordinary importance of mangroves and coastal ecosystems in mitigating climate change. Finally, the Amrit Dharohar scheme directly mentions our biological wealth and is expected to “encourage optimal use of wetlands, and enhance biodiversity, carbon stock, eco-tourism opportunities and income generation for local communities”. If implemented in letter and spirit, Amrit Dharohar, with its emphasis on sustainability by balancing competing demands, will benefit aquatic biodiversity and ecosystem services. It is critical that these programmes respond to the current state of the country’s biodiversity with evidence-based implementation. A science-based and inclusive monitoring programme is critical for the success of these efforts. Finally, each of these efforts must be inclusive of local and nomadic communities where these initiatives will be implemented. Traditional knowledge of these communities should be integrated into the implementation plans.",
-          "directionImage": "ibps-images/2023_p1_img1_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -11615,7 +11615,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following words is an antonym of ‘PROTECT’ as highlighted in the passage?",
           "direction": "Read the following passage carefully and answer the questions given below them. The sum and variation of our biological wealth, known as biodiversity, is essential to the future of this planet. The importance of our planet’s biodiversity was strongly ____________________ at the United Nations Biodiversity Conference in Montreal, Canada. 188 country representatives adopted an agreement to “halt and reverse” biodiversity loss by conserving 30% of the world’s land and 30% of the world’s oceans, known as the 30×30 pledge. India currently hosts 17% of the planet’s human population and 17% of the global area in biodiversity hotspots, placing it at the helm to guide the planet in becoming biodiversity champions. In response to this call, the Union Budget 2023 mentioned “Green Growth” as one of the seven priorities or Saptarishis. The emphasis on green growth is welcome news for India’s biological wealth as the country is facing serious losses of natural assets such as soils, land, water, and biodiversity. The National Mission for a Green India aims to increase forest cover and protect existing forested lands. The Mangrove Initiative for Shoreline Habitats & Tangible Incomes (MISHTI) is particularly significant because of the extraordinary importance of mangroves and coastal ecosystems in mitigating climate change. Finally, the Amrit Dharohar scheme directly mentions our biological wealth and is expected to “encourage optimal use of wetlands, and enhance biodiversity, carbon stock, eco-tourism opportunities and income generation for local communities”. If implemented in letter and spirit, Amrit Dharohar, with its emphasis on sustainability by balancing competing demands, will benefit aquatic biodiversity and ecosystem services. It is critical that these programmes respond to the current state of the country’s biodiversity with evidence-based implementation. A science-based and inclusive monitoring programme is critical for the success of these efforts. Finally, each of these efforts must be inclusive of local and nomadic communities where these initiatives will be implemented. Traditional knowledge of these communities should be integrated into the implementation plans.",
-          "directionImage": "ibps-images/2023_p1_img1_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -11653,7 +11653,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following statements is INCORRECT with respect to the information given in the passage?",
           "direction": "Read the following passage carefully and answer the questions given below them. The sum and variation of our biological wealth, known as biodiversity, is essential to the future of this planet. The importance of our planet’s biodiversity was strongly ____________________ at the United Nations Biodiversity Conference in Montreal, Canada. 188 country representatives adopted an agreement to “halt and reverse” biodiversity loss by conserving 30% of the world’s land and 30% of the world’s oceans, known as the 30×30 pledge. India currently hosts 17% of the planet’s human population and 17% of the global area in biodiversity hotspots, placing it at the helm to guide the planet in becoming biodiversity champions. In response to this call, the Union Budget 2023 mentioned “Green Growth” as one of the seven priorities or Saptarishis. The emphasis on green growth is welcome news for India’s biological wealth as the country is facing serious losses of natural assets such as soils, land, water, and biodiversity. The National Mission for a Green India aims to increase forest cover and protect existing forested lands. The Mangrove Initiative for Shoreline Habitats & Tangible Incomes (MISHTI) is particularly significant because of the extraordinary importance of mangroves and coastal ecosystems in mitigating climate change. Finally, the Amrit Dharohar scheme directly mentions our biological wealth and is expected to “encourage optimal use of wetlands, and enhance biodiversity, carbon stock, eco-tourism opportunities and income generation for local communities”. If implemented in letter and spirit, Amrit Dharohar, with its emphasis on sustainability by balancing competing demands, will benefit aquatic biodiversity and ecosystem services. It is critical that these programmes respond to the current state of the country’s biodiversity with evidence-based implementation. A science-based and inclusive monitoring programme is critical for the success of these efforts. Finally, each of these efforts must be inclusive of local and nomadic communities where these initiatives will be implemented. Traditional knowledge of these communities should be integrated into the implementation plans.",
-          "directionImage": "ibps-images/2023_p1_img1_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -11691,7 +11691,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following words is the most suitable word for the blank given in the passage?",
           "direction": "Read the following passage carefully and answer the questions given below them. The sum and variation of our biological wealth, known as biodiversity, is essential to the future of this planet. The importance of our planet’s biodiversity was strongly ____________________ at the United Nations Biodiversity Conference in Montreal, Canada. 188 country representatives adopted an agreement to “halt and reverse” biodiversity loss by conserving 30% of the world’s land and 30% of the world’s oceans, known as the 30×30 pledge. India currently hosts 17% of the planet’s human population and 17% of the global area in biodiversity hotspots, placing it at the helm to guide the planet in becoming biodiversity champions. In response to this call, the Union Budget 2023 mentioned “Green Growth” as one of the seven priorities or Saptarishis. The emphasis on green growth is welcome news for India’s biological wealth as the country is facing serious losses of natural assets such as soils, land, water, and biodiversity. The National Mission for a Green India aims to increase forest cover and protect existing forested lands. The Mangrove Initiative for Shoreline Habitats & Tangible Incomes (MISHTI) is particularly significant because of the extraordinary importance of mangroves and coastal ecosystems in mitigating climate change. Finally, the Amrit Dharohar scheme directly mentions our biological wealth and is expected to “encourage optimal use of wetlands, and enhance biodiversity, carbon stock, eco-tourism opportunities and income generation for local communities”. If implemented in letter and spirit, Amrit Dharohar, with its emphasis on sustainability by balancing competing demands, will benefit aquatic biodiversity and ecosystem services. It is critical that these programmes respond to the current state of the country’s biodiversity with evidence-based implementation. A science-based and inclusive monitoring programme is critical for the success of these efforts. Finally, each of these efforts must be inclusive of local and nomadic communities where these initiatives will be implemented. Traditional knowledge of these communities should be integrated into the implementation plans.",
-          "directionImage": "ibps-images/2023_p1_img1_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -11729,7 +11729,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following words is a synonym of ‘integrated’?",
           "direction": "Read the following passage carefully and answer the questions given below them. The sum and variation of our biological wealth, known as biodiversity, is essential to the future of this planet. The importance of our planet’s biodiversity was strongly ____________________ at the United Nations Biodiversity Conference in Montreal, Canada. 188 country representatives adopted an agreement to “halt and reverse” biodiversity loss by conserving 30% of the world’s land and 30% of the world’s oceans, known as the 30×30 pledge. India currently hosts 17% of the planet’s human population and 17% of the global area in biodiversity hotspots, placing it at the helm to guide the planet in becoming biodiversity champions. In response to this call, the Union Budget 2023 mentioned “Green Growth” as one of the seven priorities or Saptarishis. The emphasis on green growth is welcome news for India’s biological wealth as the country is facing serious losses of natural assets such as soils, land, water, and biodiversity. The National Mission for a Green India aims to increase forest cover and protect existing forested lands. The Mangrove Initiative for Shoreline Habitats & Tangible Incomes (MISHTI) is particularly significant because of the extraordinary importance of mangroves and coastal ecosystems in mitigating climate change. Finally, the Amrit Dharohar scheme directly mentions our biological wealth and is expected to “encourage optimal use of wetlands, and enhance biodiversity, carbon stock, eco-tourism opportunities and income generation for local communities”. If implemented in letter and spirit, Amrit Dharohar, with its emphasis on sustainability by balancing competing demands, will benefit aquatic biodiversity and ecosystem services. It is critical that these programmes respond to the current state of the country’s biodiversity with evidence-based implementation. A science-based and inclusive monitoring programme is critical for the success of these efforts. Finally, each of these efforts must be inclusive of local and nomadic communities where these initiatives will be implemented. Traditional knowledge of these communities should be integrated into the implementation plans.",
-          "directionImage": "ibps-images/2023_p1_img2_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -11767,7 +11767,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "What, according to the author, does the term ‘Vostro account’ imply?",
           "direction": "Read the following passage and answer the given questions based on the information provided in the passage. A vostro account is an account that domestic banks hold for foreign banks in the former’s domestic currency, in this case, the rupee. Domestic banks use it to provide international banking services to their clients who have global banking needs. It is an integral offshoot of correspondent banking that entails a bank (or an intermediary) to facilitate wire transfers, conduct business transactions, accept deposits and gather documents on behalf of the other bank. It helps domestic banks gain wider access to foreign financial markets and serve international clients without having to be physically present abroad. The SRVA is an additional arrangement to the existing system that uses freely convertible currencies and works as a complimentary system. For perspective, freely convertible currencies refer to currencies permitted by rules and regulations of the concerned country to be converted to major reserve currencies (like the U.S. dollar or pound sterling) and for which a fairly active market exists for dealings against major currencies. The existing systems thus require maintaining balances and positions in such currencies. The framework entails three important components, namely, invoicing, exchange rate and settlement. Invoicing entails that all exports and imports must be denominated and invoiced in INR. The exchange rate between the currencies of the trading partner countries would be market-determined. To conclude, the final settlement also takes place in Indian National Rupee (INR). The authorised domestic dealer banks (those authorised to deal in foreign currencies) are required to open SRVA accounts for correspondent banks of the partner trading country. Domestic importers are required to make payment (in INR) into the SRVA account of the correspondent bank against the invoices for the supply of goods or services from the overseas seller/supplier. Similarly, domestic exporters are to be paid the export proceeds (in INR) from the balances in the designated account of the correspondent bank of the partner country. As for availing an advance against exports, it would be the responsibility of the domestic bank to accord foremost priority to ensure that the available funds are used to meet existing payment obligations, that is, from the already ___________(I)___________ export orders or export payments in the pipeline. All reporting of cross-border transactions is to be done in accordance with the extant guidelines under the Foreign Exchange Management Act (FEMA), 1999. ---PAGE_4--- 4 adda247.com/defence | www.sscadda.com |",
-          "directionImage": "ibps-images/2023_p1_img2_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -11805,7 +11805,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "How are exchange rates determined in the framework mentioned in the passage?",
           "direction": "Read the following passage and answer the given questions based on the information provided in the passage. A vostro account is an account that domestic banks hold for foreign banks in the former’s domestic currency, in this case, the rupee. Domestic banks use it to provide international banking services to their clients who have global banking needs. It is an integral offshoot of correspondent banking that entails a bank (or an intermediary) to facilitate wire transfers, conduct business transactions, accept deposits and gather documents on behalf of the other bank. It helps domestic banks gain wider access to foreign financial markets and serve international clients without having to be physically present abroad. The SRVA is an additional arrangement to the existing system that uses freely convertible currencies and works as a complimentary system. For perspective, freely convertible currencies refer to currencies permitted by rules and regulations of the concerned country to be converted to major reserve currencies (like the U.S. dollar or pound sterling) and for which a fairly active market exists for dealings against major currencies. The existing systems thus require maintaining balances and positions in such currencies. The framework entails three important components, namely, invoicing, exchange rate and settlement. Invoicing entails that all exports and imports must be denominated and invoiced in INR. The exchange rate between the currencies of the trading partner countries would be market-determined. To conclude, the final settlement also takes place in Indian National Rupee (INR). The authorised domestic dealer banks (those authorised to deal in foreign currencies) are required to open SRVA accounts for correspondent banks of the partner trading country. Domestic importers are required to make payment (in INR) into the SRVA account of the correspondent bank against the invoices for the supply of goods or services from the overseas seller/supplier. Similarly, domestic exporters are to be paid the export proceeds (in INR) from the balances in the designated account of the correspondent bank of the partner country. As for availing an advance against exports, it would be the responsibility of the domestic bank to accord foremost priority to ensure that the available funds are used to meet existing payment obligations, that is, from the already ___________(I)___________ export orders or export payments in the pipeline. All reporting of cross-border transactions is to be done in accordance with the extant guidelines under the Foreign Exchange Management Act (FEMA), 1999. ---PAGE_4--- 4 adda247.com/defence | www.sscadda.com |",
-          "directionImage": "ibps-images/2023_p1_img2_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -11843,7 +11843,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following statements signifies SRVA account, as the passage suggests?",
           "direction": "Read the following passage and answer the given questions based on the information provided in the passage. A vostro account is an account that domestic banks hold for foreign banks in the former’s domestic currency, in this case, the rupee. Domestic banks use it to provide international banking services to their clients who have global banking needs. It is an integral offshoot of correspondent banking that entails a bank (or an intermediary) to facilitate wire transfers, conduct business transactions, accept deposits and gather documents on behalf of the other bank. It helps domestic banks gain wider access to foreign financial markets and serve international clients without having to be physically present abroad. The SRVA is an additional arrangement to the existing system that uses freely convertible currencies and works as a complimentary system. For perspective, freely convertible currencies refer to currencies permitted by rules and regulations of the concerned country to be converted to major reserve currencies (like the U.S. dollar or pound sterling) and for which a fairly active market exists for dealings against major currencies. The existing systems thus require maintaining balances and positions in such currencies. The framework entails three important components, namely, invoicing, exchange rate and settlement. Invoicing entails that all exports and imports must be denominated and invoiced in INR. The exchange rate between the currencies of the trading partner countries would be market-determined. To conclude, the final settlement also takes place in Indian National Rupee (INR). The authorised domestic dealer banks (those authorised to deal in foreign currencies) are required to open SRVA accounts for correspondent banks of the partner trading country. Domestic importers are required to make payment (in INR) into the SRVA account of the correspondent bank against the invoices for the supply of goods or services from the overseas seller/supplier. Similarly, domestic exporters are to be paid the export proceeds (in INR) from the balances in the designated account of the correspondent bank of the partner country. As for availing an advance against exports, it would be the responsibility of the domestic bank to accord foremost priority to ensure that the available funds are used to meet existing payment obligations, that is, from the already ___________(I)___________ export orders or export payments in the pipeline. All reporting of cross-border transactions is to be done in accordance with the extant guidelines under the Foreign Exchange Management Act (FEMA), 1999. ---PAGE_4--- 4 adda247.com/defence | www.sscadda.com |",
-          "directionImage": "ibps-images/2023_p1_img2_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -11881,7 +11881,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following statements with reference to the Vostro account is/are correct?",
           "direction": "Read the following passage and answer the given questions based on the information provided in the passage. A vostro account is an account that domestic banks hold for foreign banks in the former’s domestic currency, in this case, the rupee. Domestic banks use it to provide international banking services to their clients who have global banking needs. It is an integral offshoot of correspondent banking that entails a bank (or an intermediary) to facilitate wire transfers, conduct business transactions, accept deposits and gather documents on behalf of the other bank. It helps domestic banks gain wider access to foreign financial markets and serve international clients without having to be physically present abroad. The SRVA is an additional arrangement to the existing system that uses freely convertible currencies and works as a complimentary system. For perspective, freely convertible currencies refer to currencies permitted by rules and regulations of the concerned country to be converted to major reserve currencies (like the U.S. dollar or pound sterling) and for which a fairly active market exists for dealings against major currencies. The existing systems thus require maintaining balances and positions in such currencies. The framework entails three important components, namely, invoicing, exchange rate and settlement. Invoicing entails that all exports and imports must be denominated and invoiced in INR. The exchange rate between the currencies of the trading partner countries would be market-determined. To conclude, the final settlement also takes place in Indian National Rupee (INR). The authorised domestic dealer banks (those authorised to deal in foreign currencies) are required to open SRVA accounts for correspondent banks of the partner trading country. Domestic importers are required to make payment (in INR) into the SRVA account of the correspondent bank against the invoices for the supply of goods or services from the overseas seller/supplier. Similarly, domestic exporters are to be paid the export proceeds (in INR) from the balances in the designated account of the correspondent bank of the partner country. As for availing an advance against exports, it would be the responsibility of the domestic bank to accord foremost priority to ensure that the available funds are used to meet existing payment obligations, that is, from the already ___________(I)___________ export orders or export payments in the pipeline. All reporting of cross-border transactions is to be done in accordance with the extant guidelines under the Foreign Exchange Management Act (FEMA), 1999. ---PAGE_4--- 4 adda247.com/defence | www.sscadda.com |",
-          "directionImage": "ibps-images/2023_p1_img2_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -11919,7 +11919,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Choose the most appropriate antonym of the word ‘permitted’, as highlighted in the given passage.",
           "direction": "Read the following passage and answer the given questions based on the information provided in the passage. A vostro account is an account that domestic banks hold for foreign banks in the former’s domestic currency, in this case, the rupee. Domestic banks use it to provide international banking services to their clients who have global banking needs. It is an integral offshoot of correspondent banking that entails a bank (or an intermediary) to facilitate wire transfers, conduct business transactions, accept deposits and gather documents on behalf of the other bank. It helps domestic banks gain wider access to foreign financial markets and serve international clients without having to be physically present abroad. The SRVA is an additional arrangement to the existing system that uses freely convertible currencies and works as a complimentary system. For perspective, freely convertible currencies refer to currencies permitted by rules and regulations of the concerned country to be converted to major reserve currencies (like the U.S. dollar or pound sterling) and for which a fairly active market exists for dealings against major currencies. The existing systems thus require maintaining balances and positions in such currencies. The framework entails three important components, namely, invoicing, exchange rate and settlement. Invoicing entails that all exports and imports must be denominated and invoiced in INR. The exchange rate between the currencies of the trading partner countries would be market-determined. To conclude, the final settlement also takes place in Indian National Rupee (INR). The authorised domestic dealer banks (those authorised to deal in foreign currencies) are required to open SRVA accounts for correspondent banks of the partner trading country. Domestic importers are required to make payment (in INR) into the SRVA account of the correspondent bank against the invoices for the supply of goods or services from the overseas seller/supplier. Similarly, domestic exporters are to be paid the export proceeds (in INR) from the balances in the designated account of the correspondent bank of the partner country. As for availing an advance against exports, it would be the responsibility of the domestic bank to accord foremost priority to ensure that the available funds are used to meet existing payment obligations, that is, from the already ___________(I)___________ export orders or export payments in the pipeline. All reporting of cross-border transactions is to be done in accordance with the extant guidelines under the Foreign Exchange Management Act (FEMA), 1999. ---PAGE_4--- 4 adda247.com/defence | www.sscadda.com |",
-          "directionImage": "ibps-images/2023_p2_img0_1023x1537.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -11957,7 +11957,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Choose the most appropriate synonym of the word ‘conduct’, as highlighted in the given passage.",
           "direction": "Read the following passage and answer the given questions based on the information provided in the passage. A vostro account is an account that domestic banks hold for foreign banks in the former’s domestic currency, in this case, the rupee. Domestic banks use it to provide international banking services to their clients who have global banking needs. It is an integral offshoot of correspondent banking that entails a bank (or an intermediary) to facilitate wire transfers, conduct business transactions, accept deposits and gather documents on behalf of the other bank. It helps domestic banks gain wider access to foreign financial markets and serve international clients without having to be physically present abroad. The SRVA is an additional arrangement to the existing system that uses freely convertible currencies and works as a complimentary system. For perspective, freely convertible currencies refer to currencies permitted by rules and regulations of the concerned country to be converted to major reserve currencies (like the U.S. dollar or pound sterling) and for which a fairly active market exists for dealings against major currencies. The existing systems thus require maintaining balances and positions in such currencies. The framework entails three important components, namely, invoicing, exchange rate and settlement. Invoicing entails that all exports and imports must be denominated and invoiced in INR. The exchange rate between the currencies of the trading partner countries would be market-determined. To conclude, the final settlement also takes place in Indian National Rupee (INR). The authorised domestic dealer banks (those authorised to deal in foreign currencies) are required to open SRVA accounts for correspondent banks of the partner trading country. Domestic importers are required to make payment (in INR) into the SRVA account of the correspondent bank against the invoices for the supply of goods or services from the overseas seller/supplier. Similarly, domestic exporters are to be paid the export proceeds (in INR) from the balances in the designated account of the correspondent bank of the partner country. As for availing an advance against exports, it would be the responsibility of the domestic bank to accord foremost priority to ensure that the available funds are used to meet existing payment obligations, that is, from the already ___________(I)___________ export orders or export payments in the pipeline. All reporting of cross-border transactions is to be done in accordance with the extant guidelines under the Foreign Exchange Management Act (FEMA), 1999. ---PAGE_4--- 4 adda247.com/defence | www.sscadda.com |",
-          "directionImage": "ibps-images/2023_p2_img0_1023x1537.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -11995,7 +11995,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following statements with reference to the domestic bank is/are correct?",
           "direction": "Read the following passage and answer the given questions based on the information provided in the passage. A vostro account is an account that domestic banks hold for foreign banks in the former’s domestic currency, in this case, the rupee. Domestic banks use it to provide international banking services to their clients who have global banking needs. It is an integral offshoot of correspondent banking that entails a bank (or an intermediary) to facilitate wire transfers, conduct business transactions, accept deposits and gather documents on behalf of the other bank. It helps domestic banks gain wider access to foreign financial markets and serve international clients without having to be physically present abroad. The SRVA is an additional arrangement to the existing system that uses freely convertible currencies and works as a complimentary system. For perspective, freely convertible currencies refer to currencies permitted by rules and regulations of the concerned country to be converted to major reserve currencies (like the U.S. dollar or pound sterling) and for which a fairly active market exists for dealings against major currencies. The existing systems thus require maintaining balances and positions in such currencies. The framework entails three important components, namely, invoicing, exchange rate and settlement. Invoicing entails that all exports and imports must be denominated and invoiced in INR. The exchange rate between the currencies of the trading partner countries would be market-determined. To conclude, the final settlement also takes place in Indian National Rupee (INR). The authorised domestic dealer banks (those authorised to deal in foreign currencies) are required to open SRVA accounts for correspondent banks of the partner trading country. Domestic importers are required to make payment (in INR) into the SRVA account of the correspondent bank against the invoices for the supply of goods or services from the overseas seller/supplier. Similarly, domestic exporters are to be paid the export proceeds (in INR) from the balances in the designated account of the correspondent bank of the partner country. As for availing an advance against exports, it would be the responsibility of the domestic bank to accord foremost priority to ensure that the available funds are used to meet existing payment obligations, that is, from the already ___________(I)___________ export orders or export payments in the pipeline. All reporting of cross-border transactions is to be done in accordance with the extant guidelines under the Foreign Exchange Management Act (FEMA), 1999. ---PAGE_4--- 4 adda247.com/defence | www.sscadda.com |",
-          "directionImage": "ibps-images/2023_p2_img0_1023x1537.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -12033,7 +12033,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Choose the most appropriate Synonym of the word ‘designated’, as highlighted in the given passage.",
           "direction": "Read the following passage and answer the given questions based on the information provided in the passage. A vostro account is an account that domestic banks hold for foreign banks in the former’s domestic currency, in this case, the rupee. Domestic banks use it to provide international banking services to their clients who have global banking needs. It is an integral offshoot of correspondent banking that entails a bank (or an intermediary) to facilitate wire transfers, conduct business transactions, accept deposits and gather documents on behalf of the other bank. It helps domestic banks gain wider access to foreign financial markets and serve international clients without having to be physically present abroad. The SRVA is an additional arrangement to the existing system that uses freely convertible currencies and works as a complimentary system. For perspective, freely convertible currencies refer to currencies permitted by rules and regulations of the concerned country to be converted to major reserve currencies (like the U.S. dollar or pound sterling) and for which a fairly active market exists for dealings against major currencies. The existing systems thus require maintaining balances and positions in such currencies. The framework entails three important components, namely, invoicing, exchange rate and settlement. Invoicing entails that all exports and imports must be denominated and invoiced in INR. The exchange rate between the currencies of the trading partner countries would be market-determined. To conclude, the final settlement also takes place in Indian National Rupee (INR). The authorised domestic dealer banks (those authorised to deal in foreign currencies) are required to open SRVA accounts for correspondent banks of the partner trading country. Domestic importers are required to make payment (in INR) into the SRVA account of the correspondent bank against the invoices for the supply of goods or services from the overseas seller/supplier. Similarly, domestic exporters are to be paid the export proceeds (in INR) from the balances in the designated account of the correspondent bank of the partner country. As for availing an advance against exports, it would be the responsibility of the domestic bank to accord foremost priority to ensure that the available funds are used to meet existing payment obligations, that is, from the already ___________(I)___________ export orders or export payments in the pipeline. All reporting of cross-border transactions is to be done in accordance with the extant guidelines under the Foreign Exchange Management Act (FEMA), 1999. ---PAGE_4--- 4 adda247.com/defence | www.sscadda.com |",
-          "directionImage": "ibps-images/2023_p2_img0_1023x1537.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -12071,7 +12071,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Choose the most appropriate antonym of the word ‘conclude’ , as highlighted in the given passage.",
           "direction": "Read the following passage and answer the given questions based on the information provided in the passage. A vostro account is an account that domestic banks hold for foreign banks in the former’s domestic currency, in this case, the rupee. Domestic banks use it to provide international banking services to their clients who have global banking needs. It is an integral offshoot of correspondent banking that entails a bank (or an intermediary) to facilitate wire transfers, conduct business transactions, accept deposits and gather documents on behalf of the other bank. It helps domestic banks gain wider access to foreign financial markets and serve international clients without having to be physically present abroad. The SRVA is an additional arrangement to the existing system that uses freely convertible currencies and works as a complimentary system. For perspective, freely convertible currencies refer to currencies permitted by rules and regulations of the concerned country to be converted to major reserve currencies (like the U.S. dollar or pound sterling) and for which a fairly active market exists for dealings against major currencies. The existing systems thus require maintaining balances and positions in such currencies. The framework entails three important components, namely, invoicing, exchange rate and settlement. Invoicing entails that all exports and imports must be denominated and invoiced in INR. The exchange rate between the currencies of the trading partner countries would be market-determined. To conclude, the final settlement also takes place in Indian National Rupee (INR). The authorised domestic dealer banks (those authorised to deal in foreign currencies) are required to open SRVA accounts for correspondent banks of the partner trading country. Domestic importers are required to make payment (in INR) into the SRVA account of the correspondent bank against the invoices for the supply of goods or services from the overseas seller/supplier. Similarly, domestic exporters are to be paid the export proceeds (in INR) from the balances in the designated account of the correspondent bank of the partner country. As for availing an advance against exports, it would be the responsibility of the domestic bank to accord foremost priority to ensure that the available funds are used to meet existing payment obligations, that is, from the already ___________(I)___________ export orders or export payments in the pipeline. All reporting of cross-border transactions is to be done in accordance with the extant guidelines under the Foreign Exchange Management Act (FEMA), 1999. ---PAGE_4--- 4 adda247.com/defence | www.sscadda.com |",
-          "directionImage": "ibps-images/2023_p2_img0_1023x1537.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -12109,7 +12109,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Choose the most appropriate filler from the following words to fill in the blank (I), as highlighted in the given passage.",
           "direction": "Read the following passage and answer the given questions based on the information provided in the passage. A vostro account is an account that domestic banks hold for foreign banks in the former’s domestic currency, in this case, the rupee. Domestic banks use it to provide international banking services to their clients who have global banking needs. It is an integral offshoot of correspondent banking that entails a bank (or an intermediary) to facilitate wire transfers, conduct business transactions, accept deposits and gather documents on behalf of the other bank. It helps domestic banks gain wider access to foreign financial markets and serve international clients without having to be physically present abroad. The SRVA is an additional arrangement to the existing system that uses freely convertible currencies and works as a complimentary system. For perspective, freely convertible currencies refer to currencies permitted by rules and regulations of the concerned country to be converted to major reserve currencies (like the U.S. dollar or pound sterling) and for which a fairly active market exists for dealings against major currencies. The existing systems thus require maintaining balances and positions in such currencies. The framework entails three important components, namely, invoicing, exchange rate and settlement. Invoicing entails that all exports and imports must be denominated and invoiced in INR. The exchange rate between the currencies of the trading partner countries would be market-determined. To conclude, the final settlement also takes place in Indian National Rupee (INR). The authorised domestic dealer banks (those authorised to deal in foreign currencies) are required to open SRVA accounts for correspondent banks of the partner trading country. Domestic importers are required to make payment (in INR) into the SRVA account of the correspondent bank against the invoices for the supply of goods or services from the overseas seller/supplier. Similarly, domestic exporters are to be paid the export proceeds (in INR) from the balances in the designated account of the correspondent bank of the partner country. As for availing an advance against exports, it would be the responsibility of the domestic bank to accord foremost priority to ensure that the available funds are used to meet existing payment obligations, that is, from the already ___________(I)___________ export orders or export payments in the pipeline. All reporting of cross-border transactions is to be done in accordance with the extant guidelines under the Foreign Exchange Management Act (FEMA), 1999. ---PAGE_4--- 4 adda247.com/defence | www.sscadda.com |",
-          "directionImage": "ibps-images/2023_p3_img0_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -12527,7 +12527,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following words will fit in the given blank (A)?",
           "direction": "In the following passage there are blanks, each of which has been denoted by letters. For each blank, five options are given. Choose the most appropriate word from the options that fits the blank appropriately. Ransomwares have emerged as the most _________________ (A) of malicious cyberattacks. Here, the _______________ (B) demand hefty payments for the release of withheld data. There are other malwares that could ______________ (C) all kinds of computer systems. With the lines between the physical and digital realms blurring rapidly, every critical infrastructure, from transportation, power and banking systems, would become extremely _____________ (D) to the assaults from hostile state and non-state actors. With cyber threats capable of undermining our critical infrastructure, industry and security, a ________________ (E) cyber security policy is the need of the hour. ---PAGE_8--- 8 adda247.com/defence | www.sscadda.com |",
-          "directionImage": "ibps-images/2023_p3_img2_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -12565,7 +12565,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following words will fit in the given blank (B)?",
           "direction": "In the following passage there are blanks, each of which has been denoted by letters. For each blank, five options are given. Choose the most appropriate word from the options that fits the blank appropriately. Ransomwares have emerged as the most _________________ (A) of malicious cyberattacks. Here, the _______________ (B) demand hefty payments for the release of withheld data. There are other malwares that could ______________ (C) all kinds of computer systems. With the lines between the physical and digital realms blurring rapidly, every critical infrastructure, from transportation, power and banking systems, would become extremely _____________ (D) to the assaults from hostile state and non-state actors. With cyber threats capable of undermining our critical infrastructure, industry and security, a ________________ (E) cyber security policy is the need of the hour. ---PAGE_8--- 8 adda247.com/defence | www.sscadda.com |",
-          "directionImage": "ibps-images/2023_p3_img2_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -12603,7 +12603,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following words will fit in the given blank (C)?",
           "direction": "In the following passage there are blanks, each of which has been denoted by letters. For each blank, five options are given. Choose the most appropriate word from the options that fits the blank appropriately. Ransomwares have emerged as the most _________________ (A) of malicious cyberattacks. Here, the _______________ (B) demand hefty payments for the release of withheld data. There are other malwares that could ______________ (C) all kinds of computer systems. With the lines between the physical and digital realms blurring rapidly, every critical infrastructure, from transportation, power and banking systems, would become extremely _____________ (D) to the assaults from hostile state and non-state actors. With cyber threats capable of undermining our critical infrastructure, industry and security, a ________________ (E) cyber security policy is the need of the hour. ---PAGE_8--- 8 adda247.com/defence | www.sscadda.com |",
-          "directionImage": "ibps-images/2023_p3_img2_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -12641,7 +12641,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following words will fit in the given blank (D)?",
           "direction": "In the following passage there are blanks, each of which has been denoted by letters. For each blank, five options are given. Choose the most appropriate word from the options that fits the blank appropriately. Ransomwares have emerged as the most _________________ (A) of malicious cyberattacks. Here, the _______________ (B) demand hefty payments for the release of withheld data. There are other malwares that could ______________ (C) all kinds of computer systems. With the lines between the physical and digital realms blurring rapidly, every critical infrastructure, from transportation, power and banking systems, would become extremely _____________ (D) to the assaults from hostile state and non-state actors. With cyber threats capable of undermining our critical infrastructure, industry and security, a ________________ (E) cyber security policy is the need of the hour. ---PAGE_8--- 8 adda247.com/defence | www.sscadda.com |",
-          "directionImage": "ibps-images/2023_p3_img2_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -12679,7 +12679,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following words will fit in the given blank (E)?",
           "direction": "In the following passage there are blanks, each of which has been denoted by letters. For each blank, five options are given. Choose the most appropriate word from the options that fits the blank appropriately. Ransomwares have emerged as the most _________________ (A) of malicious cyberattacks. Here, the _______________ (B) demand hefty payments for the release of withheld data. There are other malwares that could ______________ (C) all kinds of computer systems. With the lines between the physical and digital realms blurring rapidly, every critical infrastructure, from transportation, power and banking systems, would become extremely _____________ (D) to the assaults from hostile state and non-state actors. With cyber threats capable of undermining our critical infrastructure, industry and security, a ________________ (E) cyber security policy is the need of the hour. ---PAGE_8--- 8 adda247.com/defence | www.sscadda.com |",
-          "directionImage": "ibps-images/2023_p4_img0_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -13705,7 +13705,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "How many numbers of persons sit in the row?",
           "direction": "Study the following information carefully and answer the questions given below: A certain number of persons sit in a linear row and all of them face north direction. Three persons sit between N and M. M is the only neighbour of Q. As many persons sit between M and N as between N and R. S sits second to the left of R. More than one person sits between N and S. P sits exactly between S and V. Three persons sit between R and P. The number of persons sit to the right of M is one less than the number of persons sit to the left of V. O sits second from one of the ends.",
-          "directionImage": "ibps-images/2023_p5_img2_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -13743,7 +13743,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Who among the following person sits fifth to the right of O?",
           "direction": "Study the following information carefully and answer the questions given below: A certain number of persons sit in a linear row and all of them face north direction. Three persons sit between N and M. M is the only neighbour of Q. As many persons sit between M and N as between N and R. S sits second to the left of R. More than one person sits between N and S. P sits exactly between S and V. Three persons sit between R and P. The number of persons sit to the right of M is one less than the number of persons sit to the left of V. O sits second from one of the ends.",
-          "directionImage": "ibps-images/2023_p5_img2_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -13781,7 +13781,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "How many persons sit between M and V?",
           "direction": "Study the following information carefully and answer the questions given below: A certain number of persons sit in a linear row and all of them face north direction. Three persons sit between N and M. M is the only neighbour of Q. As many persons sit between M and N as between N and R. S sits second to the left of R. More than one person sits between N and S. P sits exactly between S and V. Three persons sit between R and P. The number of persons sit to the right of M is one less than the number of persons sit to the left of V. O sits second from one of the ends.",
-          "directionImage": "ibps-images/2023_p5_img2_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -13819,7 +13819,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Which of the following statement is true?",
           "direction": "Study the following information carefully and answer the questions given below: A certain number of persons sit in a linear row and all of them face north direction. Three persons sit between N and M. M is the only neighbour of Q. As many persons sit between M and N as between N and R. S sits second to the left of R. More than one person sits between N and S. P sits exactly between S and V. Three persons sit between R and P. The number of persons sit to the right of M is one less than the number of persons sit to the left of V. O sits second from one of the ends.",
-          "directionImage": "ibps-images/2023_p6_img0_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -13857,7 +13857,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "If A sits second to the left of Q, then what will be the difference between the number of persons sits to the right of A and the number of persons sit to the left of S?",
           "direction": "Study the following information carefully and answer the questions given below: A certain number of persons sit in a linear row and all of them face north direction. Three persons sit between N and M. M is the only neighbour of Q. As many persons sit between M and N as between N and R. S sits second to the left of R. More than one person sits between N and S. P sits exactly between S and V. Three persons sit between R and P. The number of persons sit to the right of M is one less than the number of persons sit to the left of V. O sits second from one of the ends.",
-          "directionImage": "ibps-images/2023_p6_img0_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -13895,7 +13895,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Eight persons sit around a square table. Four persons sit at the corner and four persons sit at the middle of the sides of the table. All of them are facing towards the table. Who among the following persons sits immediate right of U? Statements: I. Two persons sit between U and T. One person sits between T and R. A and B sits adjacent to each other. One person sits between B and T. II. Two person sits between T and A. B sits opposite to A. T does not sit at the corner. One person sits between B and W. T sits immediately left of U.",
           "direction": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read both statements and answer the question given below.",
-          "directionImage": "ibps-images/2023_p6_img0_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -13933,7 +13933,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Seven persons are going to attend the music class on different days of the same week starting from Tuesday but not necessarily in the same order. Who among the following persons attends music class on Thursday? Statements: I. Two persons attend the music class between X and A. A either attends the music class on Tuesday or on Friday. X does not attend class on Monday. One person attends class between X and U. II. B attends the class just before R. Two students attend the class between U and B. V attends class before M and after X.",
           "direction": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read both statements and answer the question given below.",
-          "directionImage": "ibps-images/2023_p6_img0_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -13971,7 +13971,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Five persons i.e., Y, N, G, H and I visit to different countries i.e., USA, India, Australia, Japan and China but not necessarily in the same order. Who among the following persons visits to Australia? I. H does not visit to India. I do not visit to the USA and Japan. G does not visit to Japan. Y does not visit to China. II. G does not visit to Australia. N does not visit to USA and Japan. H visits to India. Y does not visit the USA.",
           "direction": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read both statements and answer the question given below.",
-          "directionImage": "ibps-images/2023_p6_img0_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -14009,7 +14009,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Seven persons i.e., D-J are sitting in a row facing north but not necessarily in the same order. Who among the following persons sits immediate right of H? I. No one sits to the right of I. Two persons sit between I and F. One person sits between F and G II. Two persons sit between F and the person who sits immediately right of I. One person sits between I and D. E sits third to the right of D.",
           "direction": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read both statements and answer the question given below.",
-          "directionImage": "ibps-images/2023_p6_img1_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -14199,7 +14199,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Which of the following statement is true as per the final arrangement?",
           "direction": "Answer the following questions based on the information given below. Eight people A, B, C, D, P, Q, R and S sit around a circular table facing towards the center. Some of them are men and some of them are women. Not more than two same gender persons sit adjacent to each other. B sits 2nd to the right of A and both of them are of different gender. One person sits between B and R who is not a woman. A man sits 2nd to the right of R. Q sits opposite to B and both are of same gender. C is an immediate neighbour of both Q and A. Immediate neighbours of B are of same gender. S sits opposite to one of the men. None of the immediate neighbours of D are of opposite gender.",
-          "directionImage": "ibps-images/2023_p6_img2_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -14237,7 +14237,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Who among the following sits to the immediate left of S?",
           "direction": "Answer the following questions based on the information given below. Eight people A, B, C, D, P, Q, R and S sit around a circular table facing towards the center. Some of them are men and some of them are women. Not more than two same gender persons sit adjacent to each other. B sits 2nd to the right of A and both of them are of different gender. One person sits between B and R who is not a woman. A man sits 2nd to the right of R. Q sits opposite to B and both are of same gender. C is an immediate neighbour of both Q and A. Immediate neighbours of B are of same gender. S sits opposite to one of the men. None of the immediate neighbours of D are of opposite gender.",
-          "directionImage": "ibps-images/2023_p6_img2_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -14275,7 +14275,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "What is the position of P with respect to C?",
           "direction": "Answer the following questions based on the information given below. Eight people A, B, C, D, P, Q, R and S sit around a circular table facing towards the center. Some of them are men and some of them are women. Not more than two same gender persons sit adjacent to each other. B sits 2nd to the right of A and both of them are of different gender. One person sits between B and R who is not a woman. A man sits 2nd to the right of R. Q sits opposite to B and both are of same gender. C is an immediate neighbour of both Q and A. Immediate neighbours of B are of same gender. S sits opposite to one of the men. None of the immediate neighbours of D are of opposite gender.",
-          "directionImage": "ibps-images/2023_p6_img2_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -14313,7 +14313,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Which of the following pair of persons are of the same gender?",
           "direction": "Answer the following questions based on the information given below. Eight people A, B, C, D, P, Q, R and S sit around a circular table facing towards the center. Some of them are men and some of them are women. Not more than two same gender persons sit adjacent to each other. B sits 2nd to the right of A and both of them are of different gender. One person sits between B and R who is not a woman. A man sits 2nd to the right of R. Q sits opposite to B and both are of same gender. C is an immediate neighbour of both Q and A. Immediate neighbours of B are of same gender. S sits opposite to one of the men. None of the immediate neighbours of D are of opposite gender.",
-          "directionImage": "ibps-images/2023_p6_img2_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -14351,7 +14351,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Four of the following five are alike in a certain way and thus forms a group, then who among the following doesn’t belong to that group?",
           "direction": "Answer the following questions based on the information given below. Eight people A, B, C, D, P, Q, R and S sit around a circular table facing towards the center. Some of them are men and some of them are women. Not more than two same gender persons sit adjacent to each other. B sits 2nd to the right of A and both of them are of different gender. One person sits between B and R who is not a woman. A man sits 2nd to the right of R. Q sits opposite to B and both are of same gender. C is an immediate neighbour of both Q and A. Immediate neighbours of B are of same gender. S sits opposite to one of the men. None of the immediate neighbours of D are of opposite gender.",
-          "directionImage": "ibps-images/2023_p7_img0_834x719.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -15149,7 +15149,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "Total wooden chairs sold by A and E together is what percentage more or less than the total plastic chairs sold by B and C together?",
           "direction": "Read the following line graph carefully and answer the questions given below. The line graph shows the total number of wooden and plastic chairs sold by five different shops.",
-          "directionImage": "ibps-images/2023_p8_img1_464x137.png",
+          "directionImage": "ibps-images/2023_p24_img0_561x363.png",
           "options": [
             {
               "id": "A",
@@ -15187,7 +15187,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "The total plastic chairs sold by X is 20% less than the total wooden chairs sold by D. If the average of total wooden chairs sold by X, A and B is 390, then find the sum of the total plastic and wooden chairs sold by X.",
           "direction": "Read the following line graph carefully and answer the questions given below. The line graph shows the total number of wooden and plastic chairs sold by five different shops.",
-          "directionImage": "ibps-images/2023_p8_img1_464x137.png",
+          "directionImage": "ibps-images/2023_p24_img0_561x363.png",
           "options": [
             {
               "id": "A",
@@ -15225,7 +15225,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "If the price of each wooden and plastic chair sold by C is Rs 120 and Rs 200, respectively, then find the total revenue generated by C by selling all the wooden and plastic chairs.",
           "direction": "Read the following line graph carefully and answer the questions given below. The line graph shows the total number of wooden and plastic chairs sold by five different shops.",
-          "directionImage": "ibps-images/2023_p8_img1_464x137.png",
+          "directionImage": "ibps-images/2023_p24_img0_561x363.png",
           "options": [
             {
               "id": "A",
@@ -15263,7 +15263,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "Find the difference between the total plastic chairs sold by E and the sum of the plastic and wooden chairs sold by B.",
           "direction": "Read the following line graph carefully and answer the questions given below. The line graph shows the total number of wooden and plastic chairs sold by five different shops.",
-          "directionImage": "ibps-images/2023_p8_img1_464x137.png",
+          "directionImage": "ibps-images/2023_p24_img0_561x363.png",
           "options": [
             {
               "id": "A",
@@ -15301,7 +15301,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "40% and 45% of the wooden and plastic chairs sold by D are defective. Find the ratio of the sum of the total non-defective wooden and plastic chairs sold by D to the sum of the total wooden chairs sold by B and C.",
           "direction": "Read the following line graph carefully and answer the questions given below. The line graph shows the total number of wooden and plastic chairs sold by five different shops.",
-          "directionImage": "ibps-images/2023_p8_img2_2022x423.png",
+          "directionImage": "ibps-images/2023_p24_img0_561x363.png",
           "options": [
             {
               "id": "A",
@@ -15909,7 +15909,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "Find the ratio of the total duet song downloaded by B and E together to the total solo song downloaded by A and C together.",
           "direction": "Read the following table carefully and answer the questions given below. The table shows the total songs downloaded by five persons in the year 2020. The table also shows the fraction of solo songs downloaded out of the total songs downloaded by these persons in the given year. Note: Total songs downloaded = solo songs + duet songs.",
-          "directionImage": "ibps-images/2023_p9_img2_2022x423.png",
+          "directionImage": "ibps-images/2023_p28_img0_463x149.png",
           "options": [
             {
               "id": "A",
@@ -15947,7 +15947,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "The total duet song downloaded by D and A together is what percentage more or less than the total songs downloaded B?",
           "direction": "Read the following table carefully and answer the questions given below. The table shows the total songs downloaded by five persons in the year 2020. The table also shows the fraction of solo songs downloaded out of the total songs downloaded by these persons in the given year. Note: Total songs downloaded = solo songs + duet songs.",
-          "directionImage": "ibps-images/2023_p9_img2_2022x423.png",
+          "directionImage": "ibps-images/2023_p28_img0_463x149.png",
           "options": [
             {
               "id": "A",
@@ -15985,7 +15985,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "The total songs downloaded by F are 25% more than that of E. If the ratio of the total duet songs downloaded by F to B is 13:25, respectively, then find the difference between the total solo songs downloaded by C and F.",
           "direction": "Read the following table carefully and answer the questions given below. The table shows the total songs downloaded by five persons in the year 2020. The table also shows the fraction of solo songs downloaded out of the total songs downloaded by these persons in the given year. Note: Total songs downloaded = solo songs + duet songs.",
-          "directionImage": "ibps-images/2023_p9_img2_2022x423.png",
+          "directionImage": "ibps-images/2023_p28_img0_463x149.png",
           "options": [
             {
               "id": "A",
@@ -16023,7 +16023,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "The total classic songs downloaded by A are one-third of the total solo songs downloaded by E. Find the average number of classic songs downloaded by A and duet songs downloaded by D.",
           "direction": "Read the following table carefully and answer the questions given below. The table shows the total songs downloaded by five persons in the year 2020. The table also shows the fraction of solo songs downloaded out of the total songs downloaded by these persons in the given year. Note: Total songs downloaded = solo songs + duet songs.",
-          "directionImage": "ibps-images/2023_p9_img2_2022x423.png",
+          "directionImage": "ibps-images/2023_p28_img0_463x149.png",
           "options": [
             {
               "id": "A",
@@ -16061,7 +16061,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "The difference between the total duet songs downloaded by E and total solo songs downloaded by C is what percentage of the total songs downloaded by A?",
           "direction": "Read the following table carefully and answer the questions given below. The table shows the total songs downloaded by five persons in the year 2020. The table also shows the fraction of solo songs downloaded out of the total songs downloaded by these persons in the given year. Note: Total songs downloaded = solo songs + duet songs.",
-          "directionImage": "ibps-images/2023_p10_img0_834x719.png",
+          "directionImage": "ibps-images/2023_p28_img0_463x149.png",
           "options": [
             {
               "id": "A",
@@ -16669,7 +16669,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "Total vehicles manufactured in February is how many more or less than the total vehicles manufactured in March.",
           "direction": "Read the following pie chart carefully and answer the questions given below. The pie chart shows the percentage distribution of the total vehicles manufactured by a company in five different months. Note: Total vehicles manufactured in April = 96. ---PAGE_32--- 32 adda247.com/defence | www.sscadda.com |",
-          "directionImage": "ibps-images/2023_p11_img0_834x719.png",
+          "directionImage": "ibps-images/2023_p32_img0_388x324.png",
           "options": [
             {
               "id": "A",
@@ -16707,7 +16707,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "If the total vehicles manufactured in June are 37.5% less than that in March, then find the average number of vehicles manufactured in June and January.",
           "direction": "Read the following pie chart carefully and answer the questions given below. The pie chart shows the percentage distribution of the total vehicles manufactured by a company in five different months. Note: Total vehicles manufactured in April = 96. ---PAGE_32--- 32 adda247.com/defence | www.sscadda.com |",
-          "directionImage": "ibps-images/2023_p11_img0_834x719.png",
+          "directionImage": "ibps-images/2023_p32_img0_388x324.png",
           "options": [
             {
               "id": "A",
@@ -16745,7 +16745,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "40% of the total vehicles manufactured in January are four-wheeler, and the rest are two- wheelers and three-wheelers, in the ratio of 5:3, respectively. Find the ratio between the total three-wheeler vehicles manufactured in January and the total vehicles manufactured in April.",
           "direction": "Read the following pie chart carefully and answer the questions given below. The pie chart shows the percentage distribution of the total vehicles manufactured by a company in five different months. Note: Total vehicles manufactured in April = 96. ---PAGE_32--- 32 adda247.com/defence | www.sscadda.com |",
-          "directionImage": "ibps-images/2023_p11_img0_834x719.png",
+          "directionImage": "ibps-images/2023_p32_img0_388x324.png",
           "options": [
             {
               "id": "A",
@@ -16783,7 +16783,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "Find the central angle of the average number of vehicles manufactured in May and February (in degree).",
           "direction": "Read the following pie chart carefully and answer the questions given below. The pie chart shows the percentage distribution of the total vehicles manufactured by a company in five different months. Note: Total vehicles manufactured in April = 96. ---PAGE_32--- 32 adda247.com/defence | www.sscadda.com |",
-          "directionImage": "ibps-images/2023_p11_img0_834x719.png",
+          "directionImage": "ibps-images/2023_p32_img0_388x324.png",
           "options": [
             {
               "id": "A",
@@ -16821,7 +16821,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "If 50% and two-third of the total vehicles manufactured in February and April, respectively, are sold, then the total vehicles unsold in April is what percentage of total unsold vehicle in February.",
           "direction": "Read the following pie chart carefully and answer the questions given below. The pie chart shows the percentage distribution of the total vehicles manufactured by a company in five different months. Note: Total vehicles manufactured in April = 96. ---PAGE_32--- 32 adda247.com/defence | www.sscadda.com |",
-          "directionImage": "ibps-images/2023_p11_img1_464x137.png",
+          "directionImage": "ibps-images/2023_p32_img0_388x324.png",
           "options": [
             {
               "id": "A",
@@ -17011,7 +17011,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "21 men can do a piece of work in 15 days and 35 women can do a piece of work in 11 days. With the same efficiency 18 men and 20 women can do another piece of work in ‘(Y – 4)’ days and ‘Y’ days respectively. Find the value of Y?",
           "direction": "",
-          "directionImage": "ibps-images/2023_p11_img2_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -17322,7 +17322,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following is not in line with Fabians’ observations?",
           "direction": "Read the following passage and answer the following questions. Some words are highlighted to help you answer some of the questions. Until recently most astronomers believed that the space between the galaxies in our universe was a near- perfect vacuum. This orthodox view of the universe is now being challenged by astronomers who believe that a heavy “rain” of gas is falling into many galaxies from the supposedly empty space around them. The gas apparently condenses into a collection of small stars, each a little larger than the planet Jupiter. These stars vastly outnumber the other stars in a given galaxy. The amount of “intergalactic rainfall” into some of these galaxies has been enough to double their mass in the time since they formed. Scientists have begun to suspect that this intergalactic gas is probably a mixture of gases left over from the “big bang” when the galaxies were formed and gas was forced out of galaxies by supernova explosions. It is well known that when gas is cooled at a constant pressure its volume decreases. Thus, the physicist Fabian reasoned that as intergalactic gas cools, the cooler gas shrinks inward toward the center of the galaxy. Meanwhile its place is taken by hotter intergalactic gas from farther out on the edge of the galaxy, which cools as it is compressed and flows into the galaxy. The net result is a continuous flow of gas, starting as hot gases in intergalactic space and ending as a drizzle of cool gas called a “cooling flow,” _________________ into the central galaxy. A fairly heretical idea in the 1970’s, the cooling-flow theory gained support when Fabian observed a cluster of galaxies in the constellation Perseus and found the central galaxy, NGC 1275, to be a strange-looking object with irregular, thin strands of gas radiating from it. According to previous speculation, these strands were gases that had been blown out by an explosion in the galaxy. Fabian, however, disagreed. Because the strands of gas radiating from NGC 1275 are visible in optical photographs, Fabian suggested that such strands consisted not of gas blown out of the galaxy but of cooling flows of gas streaming inward. He noted that the wavelengths of the radiation emitted by a gas would changes as the gas cooled, so that as the gas flowed into the galaxy and became cooler, it would emit not x-rays, but visible light, like that which was captured in the photographs. Fabian’s hypothesis was supported by Canizares’ determination in 1982 that most of the gas in the Perseus cluster was at a temperature of 80 million degrees Kelvin, whereas the gas immediately surrounding NGC 1275 was at one-tenth this temperature.",
-          "directionImage": "ibps-images/2021_p1_img1_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -17360,7 +17360,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following best define the purpose of the passage?",
           "direction": "Read the following passage and answer the following questions. Some words are highlighted to help you answer some of the questions. Until recently most astronomers believed that the space between the galaxies in our universe was a near- perfect vacuum. This orthodox view of the universe is now being challenged by astronomers who believe that a heavy “rain” of gas is falling into many galaxies from the supposedly empty space around them. The gas apparently condenses into a collection of small stars, each a little larger than the planet Jupiter. These stars vastly outnumber the other stars in a given galaxy. The amount of “intergalactic rainfall” into some of these galaxies has been enough to double their mass in the time since they formed. Scientists have begun to suspect that this intergalactic gas is probably a mixture of gases left over from the “big bang” when the galaxies were formed and gas was forced out of galaxies by supernova explosions. It is well known that when gas is cooled at a constant pressure its volume decreases. Thus, the physicist Fabian reasoned that as intergalactic gas cools, the cooler gas shrinks inward toward the center of the galaxy. Meanwhile its place is taken by hotter intergalactic gas from farther out on the edge of the galaxy, which cools as it is compressed and flows into the galaxy. The net result is a continuous flow of gas, starting as hot gases in intergalactic space and ending as a drizzle of cool gas called a “cooling flow,” _________________ into the central galaxy. A fairly heretical idea in the 1970’s, the cooling-flow theory gained support when Fabian observed a cluster of galaxies in the constellation Perseus and found the central galaxy, NGC 1275, to be a strange-looking object with irregular, thin strands of gas radiating from it. According to previous speculation, these strands were gases that had been blown out by an explosion in the galaxy. Fabian, however, disagreed. Because the strands of gas radiating from NGC 1275 are visible in optical photographs, Fabian suggested that such strands consisted not of gas blown out of the galaxy but of cooling flows of gas streaming inward. He noted that the wavelengths of the radiation emitted by a gas would changes as the gas cooled, so that as the gas flowed into the galaxy and became cooler, it would emit not x-rays, but visible light, like that which was captured in the photographs. Fabian’s hypothesis was supported by Canizares’ determination in 1982 that most of the gas in the Perseus cluster was at a temperature of 80 million degrees Kelvin, whereas the gas immediately surrounding NGC 1275 was at one-tenth this temperature.",
-          "directionImage": "ibps-images/2021_p1_img1_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -17398,7 +17398,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Select the appropriate filler for the blank given in the passage.",
           "direction": "Read the following passage and answer the following questions. Some words are highlighted to help you answer some of the questions. Until recently most astronomers believed that the space between the galaxies in our universe was a near- perfect vacuum. This orthodox view of the universe is now being challenged by astronomers who believe that a heavy “rain” of gas is falling into many galaxies from the supposedly empty space around them. The gas apparently condenses into a collection of small stars, each a little larger than the planet Jupiter. These stars vastly outnumber the other stars in a given galaxy. The amount of “intergalactic rainfall” into some of these galaxies has been enough to double their mass in the time since they formed. Scientists have begun to suspect that this intergalactic gas is probably a mixture of gases left over from the “big bang” when the galaxies were formed and gas was forced out of galaxies by supernova explosions. It is well known that when gas is cooled at a constant pressure its volume decreases. Thus, the physicist Fabian reasoned that as intergalactic gas cools, the cooler gas shrinks inward toward the center of the galaxy. Meanwhile its place is taken by hotter intergalactic gas from farther out on the edge of the galaxy, which cools as it is compressed and flows into the galaxy. The net result is a continuous flow of gas, starting as hot gases in intergalactic space and ending as a drizzle of cool gas called a “cooling flow,” _________________ into the central galaxy. A fairly heretical idea in the 1970’s, the cooling-flow theory gained support when Fabian observed a cluster of galaxies in the constellation Perseus and found the central galaxy, NGC 1275, to be a strange-looking object with irregular, thin strands of gas radiating from it. According to previous speculation, these strands were gases that had been blown out by an explosion in the galaxy. Fabian, however, disagreed. Because the strands of gas radiating from NGC 1275 are visible in optical photographs, Fabian suggested that such strands consisted not of gas blown out of the galaxy but of cooling flows of gas streaming inward. He noted that the wavelengths of the radiation emitted by a gas would changes as the gas cooled, so that as the gas flowed into the galaxy and became cooler, it would emit not x-rays, but visible light, like that which was captured in the photographs. Fabian’s hypothesis was supported by Canizares’ determination in 1982 that most of the gas in the Perseus cluster was at a temperature of 80 million degrees Kelvin, whereas the gas immediately surrounding NGC 1275 was at one-tenth this temperature.",
-          "directionImage": "ibps-images/2021_p2_img0_1023x1537.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -17436,7 +17436,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following statement(s) is/are true with respect to given passage?",
           "direction": "Read the following passage and answer the following questions. Some words are highlighted to help you answer some of the questions. Until recently most astronomers believed that the space between the galaxies in our universe was a near- perfect vacuum. This orthodox view of the universe is now being challenged by astronomers who believe that a heavy “rain” of gas is falling into many galaxies from the supposedly empty space around them. The gas apparently condenses into a collection of small stars, each a little larger than the planet Jupiter. These stars vastly outnumber the other stars in a given galaxy. The amount of “intergalactic rainfall” into some of these galaxies has been enough to double their mass in the time since they formed. Scientists have begun to suspect that this intergalactic gas is probably a mixture of gases left over from the “big bang” when the galaxies were formed and gas was forced out of galaxies by supernova explosions. It is well known that when gas is cooled at a constant pressure its volume decreases. Thus, the physicist Fabian reasoned that as intergalactic gas cools, the cooler gas shrinks inward toward the center of the galaxy. Meanwhile its place is taken by hotter intergalactic gas from farther out on the edge of the galaxy, which cools as it is compressed and flows into the galaxy. The net result is a continuous flow of gas, starting as hot gases in intergalactic space and ending as a drizzle of cool gas called a “cooling flow,” _________________ into the central galaxy. A fairly heretical idea in the 1970’s, the cooling-flow theory gained support when Fabian observed a cluster of galaxies in the constellation Perseus and found the central galaxy, NGC 1275, to be a strange-looking object with irregular, thin strands of gas radiating from it. According to previous speculation, these strands were gases that had been blown out by an explosion in the galaxy. Fabian, however, disagreed. Because the strands of gas radiating from NGC 1275 are visible in optical photographs, Fabian suggested that such strands consisted not of gas blown out of the galaxy but of cooling flows of gas streaming inward. He noted that the wavelengths of the radiation emitted by a gas would changes as the gas cooled, so that as the gas flowed into the galaxy and became cooler, it would emit not x-rays, but visible light, like that which was captured in the photographs. Fabian’s hypothesis was supported by Canizares’ determination in 1982 that most of the gas in the Perseus cluster was at a temperature of 80 million degrees Kelvin, whereas the gas immediately surrounding NGC 1275 was at one-tenth this temperature.",
-          "directionImage": "ibps-images/2021_p2_img0_1023x1537.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -17474,7 +17474,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "As per the passage ‘intergalactic rainfall’ is defined as",
           "direction": "Read the following passage and answer the following questions. Some words are highlighted to help you answer some of the questions. Until recently most astronomers believed that the space between the galaxies in our universe was a near- perfect vacuum. This orthodox view of the universe is now being challenged by astronomers who believe that a heavy “rain” of gas is falling into many galaxies from the supposedly empty space around them. The gas apparently condenses into a collection of small stars, each a little larger than the planet Jupiter. These stars vastly outnumber the other stars in a given galaxy. The amount of “intergalactic rainfall” into some of these galaxies has been enough to double their mass in the time since they formed. Scientists have begun to suspect that this intergalactic gas is probably a mixture of gases left over from the “big bang” when the galaxies were formed and gas was forced out of galaxies by supernova explosions. It is well known that when gas is cooled at a constant pressure its volume decreases. Thus, the physicist Fabian reasoned that as intergalactic gas cools, the cooler gas shrinks inward toward the center of the galaxy. Meanwhile its place is taken by hotter intergalactic gas from farther out on the edge of the galaxy, which cools as it is compressed and flows into the galaxy. The net result is a continuous flow of gas, starting as hot gases in intergalactic space and ending as a drizzle of cool gas called a “cooling flow,” _________________ into the central galaxy. A fairly heretical idea in the 1970’s, the cooling-flow theory gained support when Fabian observed a cluster of galaxies in the constellation Perseus and found the central galaxy, NGC 1275, to be a strange-looking object with irregular, thin strands of gas radiating from it. According to previous speculation, these strands were gases that had been blown out by an explosion in the galaxy. Fabian, however, disagreed. Because the strands of gas radiating from NGC 1275 are visible in optical photographs, Fabian suggested that such strands consisted not of gas blown out of the galaxy but of cooling flows of gas streaming inward. He noted that the wavelengths of the radiation emitted by a gas would changes as the gas cooled, so that as the gas flowed into the galaxy and became cooler, it would emit not x-rays, but visible light, like that which was captured in the photographs. Fabian’s hypothesis was supported by Canizares’ determination in 1982 that most of the gas in the Perseus cluster was at a temperature of 80 million degrees Kelvin, whereas the gas immediately surrounding NGC 1275 was at one-tenth this temperature.",
-          "directionImage": "ibps-images/2021_p2_img0_1023x1537.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -17512,7 +17512,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "How has nurturing a constructive relationship with the suppliers, helped OV?",
           "direction": "Read the given passage carefully and answer the questions following the passage. The Chinese market accounted for a third of worldwide smartphone sales in 2016, with about half a billion units sold. However, the size of this market didn't offer much protection to market leaders. As recently as last year, newcomers were still muscling in and snatching market share from under the noses of more well known, established brands. In the early stages of this market’s development, after the launch of the iPhone in 2007, Apple and Samsung dominated. Then in 2015, two Chinese brands, Xiaomi and Huawei, crashed on to the scene and changed the story. By the end of that year, they had pushed Apple into third position and squeezed Samsung out of the top five. Just one year later, OPPO and VIVO (together known as OV), two unfamiliar Chinese brands that had nevertheless been cultivating the market for years, overturned the ranking again. OV took first and third positions in 2016, pushing Apple to fourth place. Samsung’s market share shrank to just one third of that of the new market leader OPPO. ---PAGE_5--- 5 Adda247 | No. 1 APP for Banking & SSC Preparation Website: bankersadda.com | sscadda.com | adda247.com | Email: blogger@adda247.com And what happened to Xiaomi, briefly the market leader? Well, its business model was built around outsourcing most of its value chain and managing only retail, customer experience and brand image. It sold its products exclusively online and offered extremely competitive prices. However, the strategy later proved to be a huge drawback. In 2016, the Chinese mobile market was booming, and every player was seeking to expand production to meet growing demand. This resulted in a shortage of key components and fierce competition among brands to obtain them. The fully outsourced model meant Xiaomi had less bargaining power than its competitors. Because of a shortage of processors and DRAM, Xiaomi suffered a shipment shortage of 8 million units and its market share plunged. In this market, it would seem, the business model really matters. OV have worked hard on cultivating fruitful and respectful relationships with suppliers including Sony for cameras, Samsung for displays and Qualcomm for processors. It’s well known in supplier circles, for example, that OV will pay for suppliers’ dinner and offer free accommodation to technical staff sent from suppliers. The support from high quality global suppliers not only helps OV to implement their product strategy but also secures delivery support for OV during the peak season, when component shortages are common with competitors. This helps OV overcome their smaller supplier penetration compared with the global volumes of the competition. Then let’s move on to their manufacturing. Unlike Xiaomi or Apple, OV built up their manufacturing capability from the outset. In fact, OV source every one of their mobile phones from their own factories. There are a number of advantages to this strategy. It ensures product quality, planning and capacity control. Plus, by developing and investing in their own efficient manufacturing, OV are better equipped to respond to increased demand without competing for precious capacity at outsourcers. Next, there’s the distribution strategy. OV, for now, appear happy to let the other big players battle it out for the sophisticated city consumers’ Renminbi. OV, on the other hand, target the smaller cities, towns and rural areas, so-called ‘tier 3 and 4’ locations. They back this up with sponsorship deals with pop stars, soccer clubs and TV dramas to appeal to this market. The smartphones themselves are sleek, simple and fast-charging. And most of them are sold via an enviably wide-reaching network of 200,000 reseller retail stores – bigger than that of any of their competitors – supported by warehouses at a local level. And finally, OV are willing to share profits with their distributors, forming a foundation for a long-term cooperation. The rebate that OV provides to distributors is very high for the industry, ranging from 5% to 10%. This is a powerful motivator for distributors and retailers to promote OV devices. However, OV’s strategy of building up ______(I)________ production capacities poses risks. OV has already doubled their businesses in just one year; but such dramatic growth in the future could challenge their 100% in-house production strategy. This could mean they need to collaborate with outsourcers. Furthermore, should business growth slow down or decline, the cost of investing in production overcapacity might be difficult to absorb.",
-          "directionImage": "ibps-images/2021_p2_img0_1023x1537.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -17550,7 +17550,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following has been the approach followed by OV to attain a wider consumer base?",
           "direction": "Read the given passage carefully and answer the questions following the passage. The Chinese market accounted for a third of worldwide smartphone sales in 2016, with about half a billion units sold. However, the size of this market didn't offer much protection to market leaders. As recently as last year, newcomers were still muscling in and snatching market share from under the noses of more well known, established brands. In the early stages of this market’s development, after the launch of the iPhone in 2007, Apple and Samsung dominated. Then in 2015, two Chinese brands, Xiaomi and Huawei, crashed on to the scene and changed the story. By the end of that year, they had pushed Apple into third position and squeezed Samsung out of the top five. Just one year later, OPPO and VIVO (together known as OV), two unfamiliar Chinese brands that had nevertheless been cultivating the market for years, overturned the ranking again. OV took first and third positions in 2016, pushing Apple to fourth place. Samsung’s market share shrank to just one third of that of the new market leader OPPO. ---PAGE_5--- 5 Adda247 | No. 1 APP for Banking & SSC Preparation Website: bankersadda.com | sscadda.com | adda247.com | Email: blogger@adda247.com And what happened to Xiaomi, briefly the market leader? Well, its business model was built around outsourcing most of its value chain and managing only retail, customer experience and brand image. It sold its products exclusively online and offered extremely competitive prices. However, the strategy later proved to be a huge drawback. In 2016, the Chinese mobile market was booming, and every player was seeking to expand production to meet growing demand. This resulted in a shortage of key components and fierce competition among brands to obtain them. The fully outsourced model meant Xiaomi had less bargaining power than its competitors. Because of a shortage of processors and DRAM, Xiaomi suffered a shipment shortage of 8 million units and its market share plunged. In this market, it would seem, the business model really matters. OV have worked hard on cultivating fruitful and respectful relationships with suppliers including Sony for cameras, Samsung for displays and Qualcomm for processors. It’s well known in supplier circles, for example, that OV will pay for suppliers’ dinner and offer free accommodation to technical staff sent from suppliers. The support from high quality global suppliers not only helps OV to implement their product strategy but also secures delivery support for OV during the peak season, when component shortages are common with competitors. This helps OV overcome their smaller supplier penetration compared with the global volumes of the competition. Then let’s move on to their manufacturing. Unlike Xiaomi or Apple, OV built up their manufacturing capability from the outset. In fact, OV source every one of their mobile phones from their own factories. There are a number of advantages to this strategy. It ensures product quality, planning and capacity control. Plus, by developing and investing in their own efficient manufacturing, OV are better equipped to respond to increased demand without competing for precious capacity at outsourcers. Next, there’s the distribution strategy. OV, for now, appear happy to let the other big players battle it out for the sophisticated city consumers’ Renminbi. OV, on the other hand, target the smaller cities, towns and rural areas, so-called ‘tier 3 and 4’ locations. They back this up with sponsorship deals with pop stars, soccer clubs and TV dramas to appeal to this market. The smartphones themselves are sleek, simple and fast-charging. And most of them are sold via an enviably wide-reaching network of 200,000 reseller retail stores – bigger than that of any of their competitors – supported by warehouses at a local level. And finally, OV are willing to share profits with their distributors, forming a foundation for a long-term cooperation. The rebate that OV provides to distributors is very high for the industry, ranging from 5% to 10%. This is a powerful motivator for distributors and retailers to promote OV devices. However, OV’s strategy of building up ______(I)________ production capacities poses risks. OV has already doubled their businesses in just one year; but such dramatic growth in the future could challenge their 100% in-house production strategy. This could mean they need to collaborate with outsourcers. Furthermore, should business growth slow down or decline, the cost of investing in production overcapacity might be difficult to absorb.",
-          "directionImage": "ibps-images/2021_p2_img0_1023x1537.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -17588,7 +17588,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "How has the coming in of the new smartphone manufacturers affected the position of trailblazers within the market?",
           "direction": "Read the given passage carefully and answer the questions following the passage. The Chinese market accounted for a third of worldwide smartphone sales in 2016, with about half a billion units sold. However, the size of this market didn't offer much protection to market leaders. As recently as last year, newcomers were still muscling in and snatching market share from under the noses of more well known, established brands. In the early stages of this market’s development, after the launch of the iPhone in 2007, Apple and Samsung dominated. Then in 2015, two Chinese brands, Xiaomi and Huawei, crashed on to the scene and changed the story. By the end of that year, they had pushed Apple into third position and squeezed Samsung out of the top five. Just one year later, OPPO and VIVO (together known as OV), two unfamiliar Chinese brands that had nevertheless been cultivating the market for years, overturned the ranking again. OV took first and third positions in 2016, pushing Apple to fourth place. Samsung’s market share shrank to just one third of that of the new market leader OPPO. ---PAGE_5--- 5 Adda247 | No. 1 APP for Banking & SSC Preparation Website: bankersadda.com | sscadda.com | adda247.com | Email: blogger@adda247.com And what happened to Xiaomi, briefly the market leader? Well, its business model was built around outsourcing most of its value chain and managing only retail, customer experience and brand image. It sold its products exclusively online and offered extremely competitive prices. However, the strategy later proved to be a huge drawback. In 2016, the Chinese mobile market was booming, and every player was seeking to expand production to meet growing demand. This resulted in a shortage of key components and fierce competition among brands to obtain them. The fully outsourced model meant Xiaomi had less bargaining power than its competitors. Because of a shortage of processors and DRAM, Xiaomi suffered a shipment shortage of 8 million units and its market share plunged. In this market, it would seem, the business model really matters. OV have worked hard on cultivating fruitful and respectful relationships with suppliers including Sony for cameras, Samsung for displays and Qualcomm for processors. It’s well known in supplier circles, for example, that OV will pay for suppliers’ dinner and offer free accommodation to technical staff sent from suppliers. The support from high quality global suppliers not only helps OV to implement their product strategy but also secures delivery support for OV during the peak season, when component shortages are common with competitors. This helps OV overcome their smaller supplier penetration compared with the global volumes of the competition. Then let’s move on to their manufacturing. Unlike Xiaomi or Apple, OV built up their manufacturing capability from the outset. In fact, OV source every one of their mobile phones from their own factories. There are a number of advantages to this strategy. It ensures product quality, planning and capacity control. Plus, by developing and investing in their own efficient manufacturing, OV are better equipped to respond to increased demand without competing for precious capacity at outsourcers. Next, there’s the distribution strategy. OV, for now, appear happy to let the other big players battle it out for the sophisticated city consumers’ Renminbi. OV, on the other hand, target the smaller cities, towns and rural areas, so-called ‘tier 3 and 4’ locations. They back this up with sponsorship deals with pop stars, soccer clubs and TV dramas to appeal to this market. The smartphones themselves are sleek, simple and fast-charging. And most of them are sold via an enviably wide-reaching network of 200,000 reseller retail stores – bigger than that of any of their competitors – supported by warehouses at a local level. And finally, OV are willing to share profits with their distributors, forming a foundation for a long-term cooperation. The rebate that OV provides to distributors is very high for the industry, ranging from 5% to 10%. This is a powerful motivator for distributors and retailers to promote OV devices. However, OV’s strategy of building up ______(I)________ production capacities poses risks. OV has already doubled their businesses in just one year; but such dramatic growth in the future could challenge their 100% in-house production strategy. This could mean they need to collaborate with outsourcers. Furthermore, should business growth slow down or decline, the cost of investing in production overcapacity might be difficult to absorb.",
-          "directionImage": "ibps-images/2021_p3_img0_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -17626,7 +17626,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "What have been the consequences faced by Xiaomi against its strategy of outsourcing most of its value chain? (i) The company had to compromise with the bargaining power which its competitors would otherwise have. (ii) The company had to undergo shortage of supply of major components (iii) They would produce limited quantity of smart phones, that made it difficult for the company to have a wider reach (a) only (ii) (b) both (i) & (ii) (c) both (ii) and (iii) (d) all (i), (ii), (iii)",
           "direction": "Read the given passage carefully and answer the questions following the passage. The Chinese market accounted for a third of worldwide smartphone sales in 2016, with about half a billion units sold. However, the size of this market didn't offer much protection to market leaders. As recently as last year, newcomers were still muscling in and snatching market share from under the noses of more well known, established brands. In the early stages of this market’s development, after the launch of the iPhone in 2007, Apple and Samsung dominated. Then in 2015, two Chinese brands, Xiaomi and Huawei, crashed on to the scene and changed the story. By the end of that year, they had pushed Apple into third position and squeezed Samsung out of the top five. Just one year later, OPPO and VIVO (together known as OV), two unfamiliar Chinese brands that had nevertheless been cultivating the market for years, overturned the ranking again. OV took first and third positions in 2016, pushing Apple to fourth place. Samsung’s market share shrank to just one third of that of the new market leader OPPO. ---PAGE_5--- 5 Adda247 | No. 1 APP for Banking & SSC Preparation Website: bankersadda.com | sscadda.com | adda247.com | Email: blogger@adda247.com And what happened to Xiaomi, briefly the market leader? Well, its business model was built around outsourcing most of its value chain and managing only retail, customer experience and brand image. It sold its products exclusively online and offered extremely competitive prices. However, the strategy later proved to be a huge drawback. In 2016, the Chinese mobile market was booming, and every player was seeking to expand production to meet growing demand. This resulted in a shortage of key components and fierce competition among brands to obtain them. The fully outsourced model meant Xiaomi had less bargaining power than its competitors. Because of a shortage of processors and DRAM, Xiaomi suffered a shipment shortage of 8 million units and its market share plunged. In this market, it would seem, the business model really matters. OV have worked hard on cultivating fruitful and respectful relationships with suppliers including Sony for cameras, Samsung for displays and Qualcomm for processors. It’s well known in supplier circles, for example, that OV will pay for suppliers’ dinner and offer free accommodation to technical staff sent from suppliers. The support from high quality global suppliers not only helps OV to implement their product strategy but also secures delivery support for OV during the peak season, when component shortages are common with competitors. This helps OV overcome their smaller supplier penetration compared with the global volumes of the competition. Then let’s move on to their manufacturing. Unlike Xiaomi or Apple, OV built up their manufacturing capability from the outset. In fact, OV source every one of their mobile phones from their own factories. There are a number of advantages to this strategy. It ensures product quality, planning and capacity control. Plus, by developing and investing in their own efficient manufacturing, OV are better equipped to respond to increased demand without competing for precious capacity at outsourcers. Next, there’s the distribution strategy. OV, for now, appear happy to let the other big players battle it out for the sophisticated city consumers’ Renminbi. OV, on the other hand, target the smaller cities, towns and rural areas, so-called ‘tier 3 and 4’ locations. They back this up with sponsorship deals with pop stars, soccer clubs and TV dramas to appeal to this market. The smartphones themselves are sleek, simple and fast-charging. And most of them are sold via an enviably wide-reaching network of 200,000 reseller retail stores – bigger than that of any of their competitors – supported by warehouses at a local level. And finally, OV are willing to share profits with their distributors, forming a foundation for a long-term cooperation. The rebate that OV provides to distributors is very high for the industry, ranging from 5% to 10%. This is a powerful motivator for distributors and retailers to promote OV devices. However, OV’s strategy of building up ______(I)________ production capacities poses risks. OV has already doubled their businesses in just one year; but such dramatic growth in the future could challenge their 100% in-house production strategy. This could mean they need to collaborate with outsourcers. Furthermore, should business growth slow down or decline, the cost of investing in production overcapacity might be difficult to absorb.",
-          "directionImage": "ibps-images/2021_p3_img0_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -17664,7 +17664,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following has meaning opposite to SHORTAGE, as highlighted in the above passage?",
           "direction": "Read the given passage carefully and answer the questions following the passage. The Chinese market accounted for a third of worldwide smartphone sales in 2016, with about half a billion units sold. However, the size of this market didn't offer much protection to market leaders. As recently as last year, newcomers were still muscling in and snatching market share from under the noses of more well known, established brands. In the early stages of this market’s development, after the launch of the iPhone in 2007, Apple and Samsung dominated. Then in 2015, two Chinese brands, Xiaomi and Huawei, crashed on to the scene and changed the story. By the end of that year, they had pushed Apple into third position and squeezed Samsung out of the top five. Just one year later, OPPO and VIVO (together known as OV), two unfamiliar Chinese brands that had nevertheless been cultivating the market for years, overturned the ranking again. OV took first and third positions in 2016, pushing Apple to fourth place. Samsung’s market share shrank to just one third of that of the new market leader OPPO. ---PAGE_5--- 5 Adda247 | No. 1 APP for Banking & SSC Preparation Website: bankersadda.com | sscadda.com | adda247.com | Email: blogger@adda247.com And what happened to Xiaomi, briefly the market leader? Well, its business model was built around outsourcing most of its value chain and managing only retail, customer experience and brand image. It sold its products exclusively online and offered extremely competitive prices. However, the strategy later proved to be a huge drawback. In 2016, the Chinese mobile market was booming, and every player was seeking to expand production to meet growing demand. This resulted in a shortage of key components and fierce competition among brands to obtain them. The fully outsourced model meant Xiaomi had less bargaining power than its competitors. Because of a shortage of processors and DRAM, Xiaomi suffered a shipment shortage of 8 million units and its market share plunged. In this market, it would seem, the business model really matters. OV have worked hard on cultivating fruitful and respectful relationships with suppliers including Sony for cameras, Samsung for displays and Qualcomm for processors. It’s well known in supplier circles, for example, that OV will pay for suppliers’ dinner and offer free accommodation to technical staff sent from suppliers. The support from high quality global suppliers not only helps OV to implement their product strategy but also secures delivery support for OV during the peak season, when component shortages are common with competitors. This helps OV overcome their smaller supplier penetration compared with the global volumes of the competition. Then let’s move on to their manufacturing. Unlike Xiaomi or Apple, OV built up their manufacturing capability from the outset. In fact, OV source every one of their mobile phones from their own factories. There are a number of advantages to this strategy. It ensures product quality, planning and capacity control. Plus, by developing and investing in their own efficient manufacturing, OV are better equipped to respond to increased demand without competing for precious capacity at outsourcers. Next, there’s the distribution strategy. OV, for now, appear happy to let the other big players battle it out for the sophisticated city consumers’ Renminbi. OV, on the other hand, target the smaller cities, towns and rural areas, so-called ‘tier 3 and 4’ locations. They back this up with sponsorship deals with pop stars, soccer clubs and TV dramas to appeal to this market. The smartphones themselves are sleek, simple and fast-charging. And most of them are sold via an enviably wide-reaching network of 200,000 reseller retail stores – bigger than that of any of their competitors – supported by warehouses at a local level. And finally, OV are willing to share profits with their distributors, forming a foundation for a long-term cooperation. The rebate that OV provides to distributors is very high for the industry, ranging from 5% to 10%. This is a powerful motivator for distributors and retailers to promote OV devices. However, OV’s strategy of building up ______(I)________ production capacities poses risks. OV has already doubled their businesses in just one year; but such dramatic growth in the future could challenge their 100% in-house production strategy. This could mean they need to collaborate with outsourcers. Furthermore, should business growth slow down or decline, the cost of investing in production overcapacity might be difficult to absorb.",
-          "directionImage": "ibps-images/2021_p3_img0_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -17702,7 +17702,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following words is similar to “RESPECTFUL”, as highlighted in the above passage?",
           "direction": "Read the given passage carefully and answer the questions following the passage. The Chinese market accounted for a third of worldwide smartphone sales in 2016, with about half a billion units sold. However, the size of this market didn't offer much protection to market leaders. As recently as last year, newcomers were still muscling in and snatching market share from under the noses of more well known, established brands. In the early stages of this market’s development, after the launch of the iPhone in 2007, Apple and Samsung dominated. Then in 2015, two Chinese brands, Xiaomi and Huawei, crashed on to the scene and changed the story. By the end of that year, they had pushed Apple into third position and squeezed Samsung out of the top five. Just one year later, OPPO and VIVO (together known as OV), two unfamiliar Chinese brands that had nevertheless been cultivating the market for years, overturned the ranking again. OV took first and third positions in 2016, pushing Apple to fourth place. Samsung’s market share shrank to just one third of that of the new market leader OPPO. ---PAGE_5--- 5 Adda247 | No. 1 APP for Banking & SSC Preparation Website: bankersadda.com | sscadda.com | adda247.com | Email: blogger@adda247.com And what happened to Xiaomi, briefly the market leader? Well, its business model was built around outsourcing most of its value chain and managing only retail, customer experience and brand image. It sold its products exclusively online and offered extremely competitive prices. However, the strategy later proved to be a huge drawback. In 2016, the Chinese mobile market was booming, and every player was seeking to expand production to meet growing demand. This resulted in a shortage of key components and fierce competition among brands to obtain them. The fully outsourced model meant Xiaomi had less bargaining power than its competitors. Because of a shortage of processors and DRAM, Xiaomi suffered a shipment shortage of 8 million units and its market share plunged. In this market, it would seem, the business model really matters. OV have worked hard on cultivating fruitful and respectful relationships with suppliers including Sony for cameras, Samsung for displays and Qualcomm for processors. It’s well known in supplier circles, for example, that OV will pay for suppliers’ dinner and offer free accommodation to technical staff sent from suppliers. The support from high quality global suppliers not only helps OV to implement their product strategy but also secures delivery support for OV during the peak season, when component shortages are common with competitors. This helps OV overcome their smaller supplier penetration compared with the global volumes of the competition. Then let’s move on to their manufacturing. Unlike Xiaomi or Apple, OV built up their manufacturing capability from the outset. In fact, OV source every one of their mobile phones from their own factories. There are a number of advantages to this strategy. It ensures product quality, planning and capacity control. Plus, by developing and investing in their own efficient manufacturing, OV are better equipped to respond to increased demand without competing for precious capacity at outsourcers. Next, there’s the distribution strategy. OV, for now, appear happy to let the other big players battle it out for the sophisticated city consumers’ Renminbi. OV, on the other hand, target the smaller cities, towns and rural areas, so-called ‘tier 3 and 4’ locations. They back this up with sponsorship deals with pop stars, soccer clubs and TV dramas to appeal to this market. The smartphones themselves are sleek, simple and fast-charging. And most of them are sold via an enviably wide-reaching network of 200,000 reseller retail stores – bigger than that of any of their competitors – supported by warehouses at a local level. And finally, OV are willing to share profits with their distributors, forming a foundation for a long-term cooperation. The rebate that OV provides to distributors is very high for the industry, ranging from 5% to 10%. This is a powerful motivator for distributors and retailers to promote OV devices. However, OV’s strategy of building up ______(I)________ production capacities poses risks. OV has already doubled their businesses in just one year; but such dramatic growth in the future could challenge their 100% in-house production strategy. This could mean they need to collaborate with outsourcers. Furthermore, should business growth slow down or decline, the cost of investing in production overcapacity might be difficult to absorb.",
-          "directionImage": "ibps-images/2021_p3_img0_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -17740,7 +17740,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Which of the following can fill in the blank (I), to make the statement grammatically and contextually correct. Also, the word must fit in the sentences given below, following the question. (A) Daniel Matuszewski, former head of Circle Trade, an over-the-counter (OTC) trading desk of cryptocurrency firm Circle, has jointly set up a new _____________ trading firm called CMS Holdings.",
           "direction": "Read the given passage carefully and answer the questions following the passage. The Chinese market accounted for a third of worldwide smartphone sales in 2016, with about half a billion units sold. However, the size of this market didn't offer much protection to market leaders. As recently as last year, newcomers were still muscling in and snatching market share from under the noses of more well known, established brands. In the early stages of this market’s development, after the launch of the iPhone in 2007, Apple and Samsung dominated. Then in 2015, two Chinese brands, Xiaomi and Huawei, crashed on to the scene and changed the story. By the end of that year, they had pushed Apple into third position and squeezed Samsung out of the top five. Just one year later, OPPO and VIVO (together known as OV), two unfamiliar Chinese brands that had nevertheless been cultivating the market for years, overturned the ranking again. OV took first and third positions in 2016, pushing Apple to fourth place. Samsung’s market share shrank to just one third of that of the new market leader OPPO. ---PAGE_5--- 5 Adda247 | No. 1 APP for Banking & SSC Preparation Website: bankersadda.com | sscadda.com | adda247.com | Email: blogger@adda247.com And what happened to Xiaomi, briefly the market leader? Well, its business model was built around outsourcing most of its value chain and managing only retail, customer experience and brand image. It sold its products exclusively online and offered extremely competitive prices. However, the strategy later proved to be a huge drawback. In 2016, the Chinese mobile market was booming, and every player was seeking to expand production to meet growing demand. This resulted in a shortage of key components and fierce competition among brands to obtain them. The fully outsourced model meant Xiaomi had less bargaining power than its competitors. Because of a shortage of processors and DRAM, Xiaomi suffered a shipment shortage of 8 million units and its market share plunged. In this market, it would seem, the business model really matters. OV have worked hard on cultivating fruitful and respectful relationships with suppliers including Sony for cameras, Samsung for displays and Qualcomm for processors. It’s well known in supplier circles, for example, that OV will pay for suppliers’ dinner and offer free accommodation to technical staff sent from suppliers. The support from high quality global suppliers not only helps OV to implement their product strategy but also secures delivery support for OV during the peak season, when component shortages are common with competitors. This helps OV overcome their smaller supplier penetration compared with the global volumes of the competition. Then let’s move on to their manufacturing. Unlike Xiaomi or Apple, OV built up their manufacturing capability from the outset. In fact, OV source every one of their mobile phones from their own factories. There are a number of advantages to this strategy. It ensures product quality, planning and capacity control. Plus, by developing and investing in their own efficient manufacturing, OV are better equipped to respond to increased demand without competing for precious capacity at outsourcers. Next, there’s the distribution strategy. OV, for now, appear happy to let the other big players battle it out for the sophisticated city consumers’ Renminbi. OV, on the other hand, target the smaller cities, towns and rural areas, so-called ‘tier 3 and 4’ locations. They back this up with sponsorship deals with pop stars, soccer clubs and TV dramas to appeal to this market. The smartphones themselves are sleek, simple and fast-charging. And most of them are sold via an enviably wide-reaching network of 200,000 reseller retail stores – bigger than that of any of their competitors – supported by warehouses at a local level. And finally, OV are willing to share profits with their distributors, forming a foundation for a long-term cooperation. The rebate that OV provides to distributors is very high for the industry, ranging from 5% to 10%. This is a powerful motivator for distributors and retailers to promote OV devices. However, OV’s strategy of building up ______(I)________ production capacities poses risks. OV has already doubled their businesses in just one year; but such dramatic growth in the future could challenge their 100% in-house production strategy. This could mean they need to collaborate with outsourcers. Furthermore, should business growth slow down or decline, the cost of investing in production overcapacity might be difficult to absorb.",
-          "directionImage": "ibps-images/2021_p3_img0_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -17892,7 +17892,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Despite what Houston (A) diplomacy for the two leaders, a line may have been (B) crossed in the mixing of partisan (C) national politics with international (D) achieved.",
           "direction": "In each of the questions given below four words are given in bold. These four words may or may not be in their correct position. The sentence is then followed by options with the correct combination of words that should replace each other in order to make the sentence grammatically and contextually correct. Find the correct combination of the words that replace each other. If the sentence is correct as it then select option (e) as your choice.",
-          "directionImage": "ibps-images/2021_p3_img1_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -18538,7 +18538,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "Column (1) (A) Equitas Holdings Ltd. (EHL) has sought extension (B) The Reserve Bank of India (RBI) has imposed a (C) The RBI has come out with guidelines on Column (2)",
           "direction": "In the following questions two columns are given containing three sentences/phrases each. In first column, sentences/phrases are A, B and C and in the second column the sentences/phrases are D, E and F. A sentence/phrase from the first column may or may not connect with another sentence/phrase from the second column to make a grammatically and contextually correct sentence. Each question has five options which display the sequence(s) in which the sentences/phrases can be joined to form a grammatically and contextually correct sentence. Choose the pair(s) which make(s) a grammatically meaningful sentence.",
-          "directionImage": "ibps-images/2021_p5_img1_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -18766,7 +18766,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "(1) The stark statistics jump out at anyone trying to understand why ___________ infrastructure is so important in the world (2) The online networks formed by hate groups may not be as _____________ as previously thought but still receive huge funding. (I) strong (II) building (III) resilient",
           "direction": "In the following questions, there are two statements with a missing word in each. There are three words given below each question which can be used to fill up the blanks with the same word in each sentence to make a meaningful sentence. Choose the correct alternative among the five options given below which can fill the given blank to make a meaningful sentence. If all three words are feasible, choose option (e) i.e., “All (I), (II) and (III)” as your answer.",
-          "directionImage": "ibps-images/2021_p6_img0_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -18804,7 +18804,7 @@ const ibpsQuestionsData = {
           "section": "English Language",
           "question": "(1) The researchers developed a ____________ model that allowed them to track online hate and study how people adapted to bans since 2017 (2) According to the state-run news service China Daily, the telecom major Huawei is planning to come up with its ____________ service called Map Kit. (I) scholar (II) mapping (III) reduced",
           "direction": "In the following questions, there are two statements with a missing word in each. There are three words given below each question which can be used to fill up the blanks with the same word in each sentence to make a meaningful sentence. Choose the correct alternative among the five options given below which can fill the given blank to make a meaningful sentence. If all three words are feasible, choose option (e) i.e., “All (I), (II) and (III)” as your answer.",
-          "directionImage": "ibps-images/2021_p6_img0_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -19146,7 +19146,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "How many steps would be needed to complete the arrangement?",
           "direction": "A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule. The following is an illustration of input and rearrangement. Input: 62 89 Water Drink 45 Juice 22 Daily Step I: 22 62 water drink 45 juice daily 89 Step II: 22 45 water drink juice daily 62 89 Step III: 22 45 daily water drink juice 62 89 Step IV: 22 45 daily drink water juice 62 89 Step V: 22 45 daily drink juice water 62 89 Step V: is the last step of the rearrangement. As per the rules followed in the above steps, find out in each of following questions the appropriate steps for the given input. Input: 64 crown 24 prince 84 gold 55 leader",
-          "directionImage": "ibps-images/2021_p7_img0_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -19184,7 +19184,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Which Step number would be the following output? “24 55 crown gold prince leader 64 84”",
           "direction": "A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule. The following is an illustration of input and rearrangement. Input: 62 89 Water Drink 45 Juice 22 Daily Step I: 22 62 water drink 45 juice daily 89 Step II: 22 45 water drink juice daily 62 89 Step III: 22 45 daily water drink juice 62 89 Step IV: 22 45 daily drink water juice 62 89 Step V: 22 45 daily drink juice water 62 89 Step V: is the last step of the rearrangement. As per the rules followed in the above steps, find out in each of following questions the appropriate steps for the given input. Input: 64 crown 24 prince 84 gold 55 leader",
-          "directionImage": "ibps-images/2021_p7_img0_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -19222,7 +19222,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Which of the following would be the Step I?",
           "direction": "A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule. The following is an illustration of input and rearrangement. Input: 62 89 Water Drink 45 Juice 22 Daily Step I: 22 62 water drink 45 juice daily 89 Step II: 22 45 water drink juice daily 62 89 Step III: 22 45 daily water drink juice 62 89 Step IV: 22 45 daily drink water juice 62 89 Step V: 22 45 daily drink juice water 62 89 Step V: is the last step of the rearrangement. As per the rules followed in the above steps, find out in each of following questions the appropriate steps for the given input. Input: 64 crown 24 prince 84 gold 55 leader",
-          "directionImage": "ibps-images/2021_p7_img0_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -19260,7 +19260,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "What is the sum of the numbers 3rd from the left in Step III and 2nd from the right in step I?",
           "direction": "A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule. The following is an illustration of input and rearrangement. Input: 62 89 Water Drink 45 Juice 22 Daily Step I: 22 62 water drink 45 juice daily 89 Step II: 22 45 water drink juice daily 62 89 Step III: 22 45 daily water drink juice 62 89 Step IV: 22 45 daily drink water juice 62 89 Step V: 22 45 daily drink juice water 62 89 Step V: is the last step of the rearrangement. As per the rules followed in the above steps, find out in each of following questions the appropriate steps for the given input. Input: 64 crown 24 prince 84 gold 55 leader",
-          "directionImage": "ibps-images/2021_p7_img0_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -19450,7 +19450,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "What does ‘ra’ mean in the code language? I. ‘st qm ra’ means ‘Look wrong question’ and ‘qm ms st rt’ means ‘correct look wrong word’ in that code language. II. ‘ka tv ne ra’ means ‘take question and solve’ and ‘vw wx si ra’ means ‘either question or answer’ in that code language.",
           "direction": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement are sufficient to answer the question. Read both the statements and Give answer: (a) If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question. (b) If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question. (c) If the data either in statement I alone or in statement II alone are sufficient to answer the question. (d) If the data even in both statements I and II together are not sufficient to answer the question. (e) If the data in both statements I and II together are necessary to answer the question.",
-          "directionImage": "ibps-images/2021_p7_img1_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -19488,7 +19488,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Point Y is in which direction with respect to point X? I. Point A is east of point B and point X is north of point A. Point Y is north-west of point A. II. Point X is east of point B and north of point A. Point Y is north of point A.",
           "direction": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement are sufficient to answer the question. Read both the statements and Give answer: (a) If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question. (b) If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question. (c) If the data either in statement I alone or in statement II alone are sufficient to answer the question. (d) If the data even in both statements I and II together are not sufficient to answer the question. (e) If the data in both statements I and II together are necessary to answer the question.",
-          "directionImage": "ibps-images/2021_p8_img0_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -20058,7 +20058,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Who among the following sits third to the right of O?",
           "direction": "Study the information carefully and answer the questions given below. Eight persons are sitting around a circular table. Some of them are facing towards the centre of the table and some of them are facing outside the centre of the table. N sits third to right of T. Only one person sits between N and Q. Three persons sit between Q and M. R sits second to the right of M. P sits second to the right of S. P does not sit adjacent to N. Immediate neighbours of M faces the opposite direction. Q sits immediate right of P. Immediate neighbours of T face opposite direction. S sits immediate right of N. S faces T. Q faces the opposite direction as O.",
-          "directionImage": "ibps-images/2021_p9_img1_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -20096,7 +20096,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Who among the following faces R?",
           "direction": "Study the information carefully and answer the questions given below. Eight persons are sitting around a circular table. Some of them are facing towards the centre of the table and some of them are facing outside the centre of the table. N sits third to right of T. Only one person sits between N and Q. Three persons sit between Q and M. R sits second to the right of M. P sits second to the right of S. P does not sit adjacent to N. Immediate neighbours of M faces the opposite direction. Q sits immediate right of P. Immediate neighbours of T face opposite direction. S sits immediate right of N. S faces T. Q faces the opposite direction as O.",
-          "directionImage": "ibps-images/2021_p9_img1_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -20134,7 +20134,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "How many persons sit between P and M, when counted right of P?",
           "direction": "Study the information carefully and answer the questions given below. Eight persons are sitting around a circular table. Some of them are facing towards the centre of the table and some of them are facing outside the centre of the table. N sits third to right of T. Only one person sits between N and Q. Three persons sit between Q and M. R sits second to the right of M. P sits second to the right of S. P does not sit adjacent to N. Immediate neighbours of M faces the opposite direction. Q sits immediate right of P. Immediate neighbours of T face opposite direction. S sits immediate right of N. S faces T. Q faces the opposite direction as O.",
-          "directionImage": "ibps-images/2021_p9_img1_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -20172,7 +20172,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Which of the following statement is true about N?",
           "direction": "Study the information carefully and answer the questions given below. Eight persons are sitting around a circular table. Some of them are facing towards the centre of the table and some of them are facing outside the centre of the table. N sits third to right of T. Only one person sits between N and Q. Three persons sit between Q and M. R sits second to the right of M. P sits second to the right of S. P does not sit adjacent to N. Immediate neighbours of M faces the opposite direction. Q sits immediate right of P. Immediate neighbours of T face opposite direction. S sits immediate right of N. S faces T. Q faces the opposite direction as O.",
-          "directionImage": "ibps-images/2021_p9_img1_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -20210,7 +20210,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Who among the following sits immediate right of the one who sits third to the left of Q?",
           "direction": "Study the information carefully and answer the questions given below. Eight persons are sitting around a circular table. Some of them are facing towards the centre of the table and some of them are facing outside the centre of the table. N sits third to right of T. Only one person sits between N and Q. Three persons sit between Q and M. R sits second to the right of M. P sits second to the right of S. P does not sit adjacent to N. Immediate neighbours of M faces the opposite direction. Q sits immediate right of P. Immediate neighbours of T face opposite direction. S sits immediate right of N. S faces T. Q faces the opposite direction as O.",
-          "directionImage": "ibps-images/2021_p9_img1_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -20400,7 +20400,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "In a row, a certain number of persons are sitting. What is the total number of persons in the row? I. Position of Riya is 21st from the left end and the position of Shiv is 29th from the right end. II. Shivani is 23rd from the left end and 14th from the right end.",
           "direction": "Each of the questions below consists of a question and two statements numbered I, and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read all the two statements and Give answer: (a) If the data in Statement I is sufficient to answer the question while the data in Statement II is not required to answer the question (b) If the data in Statement II is sufficient to answer the question, while the data in Statement I is not required to answer the question (c) If the data in either Statement I alone or Statement II alone is sufficient to answer the question (d) If the data neither in Statement I nor in Statement II together are sufficient to answer the question (e) If the data in the Statement I and II together are necessary to answer the question",
-          "directionImage": "ibps-images/2021_p10_img0_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -20438,7 +20438,7 @@ const ibpsQuestionsData = {
           "section": "Reasoning Ability",
           "question": "Among six friends K, L, M, N, O and P who is the heaviest, if all are having different weights? I. L is heavier than O. P is heavier than L and N. O is not the lightest. II. K is heavier than P but not the heaviest.",
           "direction": "Each of the questions below consists of a question and two statements numbered I, and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read all the two statements and Give answer: (a) If the data in Statement I is sufficient to answer the question while the data in Statement II is not required to answer the question (b) If the data in Statement II is sufficient to answer the question, while the data in Statement I is not required to answer the question (c) If the data in either Statement I alone or Statement II alone is sufficient to answer the question (d) If the data neither in Statement I nor in Statement II together are sufficient to answer the question (e) If the data in the Statement I and II together are necessary to answer the question",
-          "directionImage": "ibps-images/2021_p10_img1_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -21464,7 +21464,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "X men can do a piece of work in 21 days working 8 hours each day. The number of days taken by X men is 70% of number of days taken by (x – 1) men, working 6 hours a day. Find the value of X.",
           "direction": "",
-          "directionImage": "ibps-images/2021_p13_img0_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -22186,7 +22186,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "What is the difference between the average no. of HP laptop sold by Hemant on Wednesday, Thursday and Friday and that of Dell laptop on Tuesday, Wednesday and Thursday?",
           "direction": "The line graph given below shows the no. of laptops (HP and Dell) sold by Hemant in five days. Read the Line graph given below carefully and answer the following questions. 30 50 70 90 110 130 Monday Tuesday Wednesday Thursday Friday HP Dell ---PAGE_34--- 34 Adda247 | No. 1 APP for Banking & SSC Preparation Website: bankersadda.com | sscadda.com | adda247.com | Email: blogger@adda247.com",
-          "directionImage": "ibps-images/2021_p15_img0_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -22224,7 +22224,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "If price of HP laptop is 20% more than that of Dell laptop, then find the amount he earned on Wednesday is what percentage of amount he earned on Thursday.",
           "direction": "The line graph given below shows the no. of laptops (HP and Dell) sold by Hemant in five days. Read the Line graph given below carefully and answer the following questions. 30 50 70 90 110 130 Monday Tuesday Wednesday Thursday Friday HP Dell ---PAGE_34--- 34 Adda247 | No. 1 APP for Banking & SSC Preparation Website: bankersadda.com | sscadda.com | adda247.com | Email: blogger@adda247.com",
-          "directionImage": "ibps-images/2021_p15_img0_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -22262,7 +22262,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "Total laptops sold on Tuesday is what percentage more/less than that on Monday.",
           "direction": "The line graph given below shows the no. of laptops (HP and Dell) sold by Hemant in five days. Read the Line graph given below carefully and answer the following questions. 30 50 70 90 110 130 Monday Tuesday Wednesday Thursday Friday HP Dell ---PAGE_34--- 34 Adda247 | No. 1 APP for Banking & SSC Preparation Website: bankersadda.com | sscadda.com | adda247.com | Email: blogger@adda247.com",
-          "directionImage": "ibps-images/2021_p15_img0_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -22300,7 +22300,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "From Monday to Friday, 20% of total Dell laptops found defective while 60% of remaining remains unsold. Find the total no. of Dell laptops.",
           "direction": "The line graph given below shows the no. of laptops (HP and Dell) sold by Hemant in five days. Read the Line graph given below carefully and answer the following questions. 30 50 70 90 110 130 Monday Tuesday Wednesday Thursday Friday HP Dell ---PAGE_34--- 34 Adda247 | No. 1 APP for Banking & SSC Preparation Website: bankersadda.com | sscadda.com | adda247.com | Email: blogger@adda247.com",
-          "directionImage": "ibps-images/2021_p15_img0_464x137.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",
@@ -22338,7 +22338,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "If the ratio of no. of HP and Apple laptops sold by shopkeeper on Wednesday, Thursday and Friday is 4: 7, 5: 3 and 4: 5 respectively, then find the apple laptop sold by shopkeeper on same days.",
           "direction": "The line graph given below shows the no. of laptops (HP and Dell) sold by Hemant in five days. Read the Line graph given below carefully and answer the following questions. 30 50 70 90 110 130 Monday Tuesday Wednesday Thursday Friday HP Dell ---PAGE_34--- 34 Adda247 | No. 1 APP for Banking & SSC Preparation Website: bankersadda.com | sscadda.com | adda247.com | Email: blogger@adda247.com",
-          "directionImage": "ibps-images/2021_p15_img1_2022x423.png",
+          "directionImage": "",
           "options": [
             {
               "id": "A",

@@ -5,7 +5,7 @@ import sys
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-BASE_DIR = r"c:\Users\91800\Desktop\TCS IPA\TCS_IPA Practice Website"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 JS_FILE = os.path.join(BASE_DIR, "ibps-questions.js")
 
 def test_simulation_engine():

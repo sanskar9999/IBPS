@@ -100,6 +100,20 @@ def normalize_options(options, correct_ans, q_num=0):
     return formatted
 
 def extract_images_from_pdf(pdf_path, paper_id):
+    GENUINE_IMAGES = {
+        "2023_p24_img0_561x363.png",
+        "2023_p28_img0_463x149.png",
+        "2023_p32_img0_388x324.png",
+        "2024_p34_img4_562x154.png",
+        "2024_p35_img4_562x154.png",
+        "2024_p36_img4_579x253.png",
+        "2024_p37_img4_579x253.png",
+        "2024_p38_img4_579x253.png",
+        "2024_p44_img4_600x367.png",
+        "2024_p45_img4_600x367.png",
+        "2024_p47_img4_600x367.png",
+        "2024_p47_img5_600x367.png"
+    }
     image_map = {}
     if not os.path.exists(pdf_path):
         return image_map
@@ -110,17 +124,17 @@ def extract_images_from_pdf(pdf_path, paper_id):
         for idx, img in enumerate(images):
             xref = img[0]
             pix = fitz.Pixmap(doc, xref)
-            if pix.width > 120 and pix.height > 120:
+            img_filename = f"{paper_id}_p{page_idx+1}_img{idx}_{pix.width}x{pix.height}.png"
+            if img_filename in GENUINE_IMAGES:
                 if pix.n >= 4:
                     pix = fitz.Pixmap(fitz.csRGB, pix)
-                img_filename = f"{paper_id}_p{page_idx+1}_img{idx}_{pix.width}x{pix.height}.png"
                 img_filepath = os.path.join(IMAGES_DIR, img_filename)
                 pix.save(img_filepath)
                 img_count += 1
                 if page_idx not in image_map:
                     image_map[page_idx] = []
                 image_map[page_idx].append(f"ibps-images/{img_filename}")
-    print(f"[{paper_id}] Extracted {img_count} chart/diagram images.")
+    print(f"[{paper_id}] Preserved {img_count} genuine chart/diagram images.")
     return image_map
 
 def parse_general_paper(paper_info):
@@ -218,11 +232,31 @@ def parse_general_paper(paper_info):
                 break
             
         direction_image = ""
-        if any(w in (direction_text + question_text).lower() for w in ["chart", "graph", "pie", "line", "table", "data"]):
-            all_imgs = [img for sub in image_map.values() for img in sub]
-            if all_imgs:
-                idx_sel = (q_num // 5) % len(all_imgs)
-                direction_image = all_imgs[idx_sel]
+        # Explicit mapping for genuine Data Interpretation chart diagrams
+        GENUINE_DI_MAP = {
+            "2023": [
+                ((101, 105), "ibps-images/2023_p24_img0_561x363.png"),
+                ((121, 125), "ibps-images/2023_p28_img0_463x149.png"),
+                ((141, 145), "ibps-images/2023_p32_img0_388x324.png")
+            ],
+            "2024": [
+                ((101, 105), "ibps-images/2024_p34_img4_562x154.png"),
+                ((106, 110), "ibps-images/2024_p35_img4_562x154.png"),
+                ((111, 115), "ibps-images/2024_p36_img4_579x253.png"),
+                ((116, 120), "ibps-images/2024_p37_img4_579x253.png"),
+                ((121, 125), "ibps-images/2024_p38_img4_579x253.png"),
+                ((141, 145), "ibps-images/2024_p44_img4_600x367.png"),
+                ((146, 150), "ibps-images/2024_p45_img4_600x367.png")
+            ]
+        }
+
+        paper_di_list = GENUINE_DI_MAP.get(str(paper_info["id"]), [])
+        for (q_start, q_end), img_rel_path in paper_di_list:
+            if q_start <= q_num <= q_end:
+                full_img_p = os.path.join(BASE_DIR, img_rel_path)
+                if os.path.exists(full_img_p):
+                    direction_image = img_rel_path
+                break
 
         q_obj = {
             "id": f"{paper_info['id']}_Q{q_num}",
