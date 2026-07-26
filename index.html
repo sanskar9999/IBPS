@@ -23,15 +23,23 @@
                 <div class="logo-container">
                     <div class="logo-icon"></div>
                     <h1>TCS IPA Practice</h1>
+                <div class="exam-selector-container">
+                    <select id="exam-mode-select" class="exam-select" aria-label="Select Exam Practice Mode">
+                        <option value="tcs">TCS IPA Practice</option>
+                        <option value="ibps">IBPS SO IT Officer (Prelims)</option>
+                    </select>
                 </div>
                 <div class="filter-container">
                     <select id="category-filter" class="category-select" aria-label="Filter questions by category">
                         <option value="all">All Categories</option>
                     </select>
                 </div>
-                <a href="coding.html" class="btn-coding-link" aria-label="Coding Practice">
+                <a href="coding.html" id="btn-coding-link" class="btn-coding-link" aria-label="Coding Practice">
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
                     Coding
+                </a>
+                <a href="exam.html" id="btn-exam-simulation-link" class="btn-exam-link" aria-label="Exam Simulation">
+                    ⚡ Mock Exam
                 </a>
                 <button id="btn-settings" class="btn-settings" aria-label="Open Settings">
                     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-settings"><path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.1a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"/><circle cx="12" cy="12" r="3"/></svg>
@@ -53,6 +61,16 @@
 
         <main class="quiz-container">
             <div id="quiz-content" class="quiz-content">
+                <div id="passage-card" class="passage-card hidden">
+                    <div class="passage-header">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+                        <span>Directions & Data Study</span>
+                    </div>
+                    <div id="passage-text" class="passage-text"></div>
+                    <div id="passage-image-container" class="passage-image-container hidden">
+                        <img id="passage-image" src="" alt="Data Interpretation Diagram / Chart" class="di-diagram-image">
+                    </div>
+                </div>
                 <div class="question-header">
                     <div id="question-category" class="question-category">General</div>
                     <h2 id="question-text">Loading question...</h2>
@@ -177,6 +195,13 @@
                         </div>
                         <button class="keybinding-btn" data-option="D">4</button>
                     </div>
+                    <div class="settings-control-row">
+                        <div class="settings-control-label">
+                            <span class="settings-control-title">Option E Key</span>
+                            <span class="settings-control-desc">Key to select Option E</span>
+                        </div>
+                        <button class="keybinding-btn" data-option="E">5</button>
+                    </div>
                     <div class="settings-control-row" style="border: none; background: transparent; padding: 4px 0; justify-content: flex-end; margin-top: 8px;">
                         <button id="btn-reset-keybindings" class="btn btn-secondary" style="font-size: 0.85rem; padding: 6px 12px; border-radius: var(--border-radius-sm);">Reset Keybindings</button>
                     </div>
@@ -187,6 +212,7 @@
 
     <!-- Load the questions data -->
     <script src="questions.js"></script>
+    <script src="ibps-questions.js"></script>
     <!-- Load the application logic -->
     <script src="app.js"></script>
 </body>

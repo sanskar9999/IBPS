@@ -1169,3 +1169,121 @@ body.theme-light .option-btn:hover:not(:disabled) .option-key-badge {
     background: var(--btn-secondary-bg-hover);
     border-color: var(--accent-primary);
 }
+
+/* ==========================================
+   IBPS SO IT Officer Exam Support Styles
+   ========================================== */
+
+/* Exam Switcher Dropdown & Mock Button */
+.exam-selector-container {
+    margin-left: 8px;
+}
+.exam-select {
+    appearance: none;
+    background: linear-gradient(135deg, rgba(59, 130, 246, 0.25), rgba(147, 51, 234, 0.25));
+    border: 1px solid var(--accent-primary);
+    border-radius: var(--border-radius-md);
+    color: var(--text-primary);
+    font-size: 0.85rem;
+    font-weight: 700;
+    padding: 8px 32px 8px 14px;
+    cursor: pointer;
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2214%22%20height%3D%2214%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22%233b82f6%22%20stroke-width%3D%222.5%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%3Cpolyline%20points%3D%226%209%2012%2015%2018%209%22%3E%3C%2Fpolyline%3E%3C%2Fsvg%3E");
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    transition: all var(--transition-normal);
+    box-shadow: 0 0 15px rgba(59, 130, 246, 0.2);
+}
+.exam-select:hover, .exam-select:focus {
+    outline: none;
+    box-shadow: 0 0 20px rgba(147, 51, 234, 0.4);
+    border-color: #a855f7;
+}
+.exam-select option {
+    background-color: #0f172a;
+    color: #f8fafc;
+    font-weight: 500;
+}
+
+.btn-exam-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 16px;
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: #fff;
+    background: linear-gradient(135deg, #f59e0b, #ef4444);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: var(--border-radius-sm);
+    text-decoration: none;
+    box-shadow: 0 4px 15px rgba(239, 68, 68, 0.3);
+    transition: all var(--transition-normal);
+    animation: pulse-border 2s infinite;
+}
+.btn-exam-link:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 6px 20px rgba(239, 68, 68, 0.5);
+    background: linear-gradient(135deg, #fbbf24, #f87171);
+}
+
+@keyframes pulse-border {
+    0%, 100% { border-color: rgba(255, 255, 255, 0.2); }
+    50% { border-color: rgba(255, 255, 255, 0.8); }
+}
+
+/* Passage & DI Direction Display */
+.passage-card {
+    background: var(--bg-surface-hover);
+    border: 1px solid var(--glass-border);
+    border-left: 4px solid var(--accent-secondary, #10b981);
+    border-radius: var(--border-radius-md);
+    padding: 20px;
+    margin-bottom: 24px;
+    box-shadow: var(--glass-shadow);
+    animation: fadeIn 0.3s ease;
+}
+.passage-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--accent-secondary, #10b981);
+    font-weight: 700;
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 12px;
+    border-bottom: 1px dashed rgba(255, 255, 255, 0.1);
+    padding-bottom: 8px;
+}
+.passage-text {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: var(--text-primary);
+    white-space: pre-wrap;
+}
+.passage-image-container {
+    margin-top: 16px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.05);
+    padding: 12px;
+    border-radius: var(--border-radius-sm);
+    border: 1px solid var(--glass-border);
+}
+.di-diagram-image {
+    max-width: 100%;
+    max-height: 400px;
+    border-radius: 4px;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+.di-diagram-image:hover {
+    transform: scale(1.03);
+}
+
+/* IBPS Category styling tags */
+.cat-english-language { background-color: #3b82f6 !important; color: #fff !important; }
+.cat-reasoning-ability { background-color: #8b5cf6 !important; color: #fff !important; }
+.cat-quantitative-aptitude { background-color: #f59e0b !important; color: #fff !important; }
+.cat-professional-knowledge--it- { background-color: #10b981 !important; color: #000 !important; font-weight: 700; }
+

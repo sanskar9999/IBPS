@@ -14,6 +14,14 @@ document.addEventListener('DOMContentLoaded', () => {
     const jumpContainer = document.getElementById('jump-container');
     const categoryFilter = document.getElementById('category-filter');
     const questionCategory = document.getElementById('question-category');
+    const examModeSelect = document.getElementById('exam-mode-select');
+    const btnCodingLink = document.getElementById('btn-coding-link');
+    const btnExamLink = document.getElementById('btn-exam-simulation-link');
+    const passageCard = document.getElementById('passage-card');
+    const passageText = document.getElementById('passage-text');
+    const passageImageContainer = document.getElementById('passage-image-container');
+    const passageImage = document.getElementById('passage-image');
+    const pageHeaderTitle = document.querySelector('.logo-container h1');
 
     // Settings Elements
     const btnSettings = document.getElementById('btn-settings');
@@ -40,7 +48,8 @@ document.addEventListener('DOMContentLoaded', () => {
         'A': '1',
         'B': '2',
         'C': '3',
-        'D': '4'
+        'D': '4',
+        'E': '5'
     };
     let keybindings = { ...defaultKeybindings };
     let recordingOptionId = null;
@@ -77,46 +86,117 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
     initKeybindingsUI();
-    
-    // Safety check if no questions loaded
-    if (!questionsData || questionsData.length === 0) {
-        questionText.textContent = "No questions found. Please check your questions.js data.";
-        return;
+    let currentExamMode = localStorage.getItem('practice-exam-mode') || 'tcs';
+    let currentQuestionSet = [];
+
+    function prepareIBPSQuestions() {
+        if (typeof ibpsQuestionsData === 'undefined') return [];
+        let list = [];
+        if (ibpsQuestionsData.papers) {
+            ibpsQuestionsData.papers.forEach(p => {
+                p.questions.forEach(q => {
+                    list.push({
+                        ...q,
+                        category: `${p.year} Prelims: ${q.section}`,
+                        paperYear: p.year,
+                        hint: q.explanation
+                    });
+                });
+            });
+        }
+        if (ibpsQuestionsData.pkIT) {
+            ibpsQuestionsData.pkIT.forEach(q => {
+                list.push({
+                    ...q,
+                    category: `PK (IT): ${q.category || 'General'}`,
+                    paperYear: 'PK',
+                    hint: q.explanation
+                });
+            });
+        }
+        return list;
+    }
+    const ibpsAllQuestions = prepareIBPSQuestions();
+
+    function setupExamMode(mode, loadDefault = true) {
+        currentExamMode = mode;
+        localStorage.setItem('practice-exam-mode', mode);
+        if (examModeSelect) examModeSelect.value = mode;
+
+        if (mode === 'ibps') {
+            if (pageHeaderTitle) pageHeaderTitle.textContent = "IBPS SO IT Prelims Practice";
+            if (btnCodingLink) btnCodingLink.classList.add('hidden');
+            if (btnExamLink) {
+                btnExamLink.href = 'ibps-exam.html';
+                btnExamLink.textContent = '⚡ IBPS Prelims Simulator';
+            }
+            currentQuestionSet = ibpsAllQuestions;
+        } else {
+            if (pageHeaderTitle) pageHeaderTitle.textContent = "TCS IPA Practice";
+            if (btnCodingLink) btnCodingLink.classList.remove('hidden');
+            if (btnExamLink) {
+                btnExamLink.href = 'exam.html';
+                btnExamLink.textContent = '⚡ Mock Exam';
+            }
+            currentQuestionSet = (typeof questionsData !== 'undefined') ? [...questionsData] : [];
+        }
+
+        if (!currentQuestionSet || currentQuestionSet.length === 0) {
+            if (questionText) questionText.textContent = "No questions found. Please check dataset.";
+            return;
+        }
+
+        if (categoryFilter) {
+            categoryFilter.innerHTML = '<option value="all">All Categories</option>';
+            const uniqueCategories = [...new Set(currentQuestionSet.map(q => q.category).filter(Boolean))];
+            
+            if (mode === 'tcs') {
+                const categoryOrder = [
+                    "KYT", "BizSkill", "UI", "Unix", "Java", 
+                    "Python", "Java / Python", "SQL / PLSQL", 
+                    "Algorithms", "C# / .NET", "Miscellaneous"
+                ];
+                uniqueCategories.sort((a, b) => {
+                    const indexA = categoryOrder.indexOf(a);
+                    const indexB = categoryOrder.indexOf(b);
+                    if (indexA === -1 && indexB === -1) return a.localeCompare(b);
+                    if (indexA === -1) return 1;
+                    if (indexB === -1) return -1;
+                    return indexA - indexB;
+                });
+            } else {
+                uniqueCategories.sort();
+            }
+
+            uniqueCategories.forEach(cat => {
+                const option = document.createElement('option');
+                option.value = cat;
+                option.textContent = cat;
+                categoryFilter.appendChild(option);
+            });
+        }
+
+        filteredQuestions = [...currentQuestionSet];
+        if (loadDefault) {
+            currentIndex = 0;
+            updateJumpBounds();
+            loadQuestion(currentIndex);
+        }
     }
 
-    // Populate category filter dropdown dynamically
+    if (examModeSelect) {
+        examModeSelect.addEventListener('change', (e) => {
+            setupExamMode(e.target.value, true);
+        });
+    }
+
     if (categoryFilter) {
-        const uniqueCategories = [...new Set(questionsData.map(q => q.category).filter(Boolean))];
-        const categoryOrder = [
-            "KYT", "BizSkill", "UI", "Unix", "Java", 
-            "Python", "Java / Python", "SQL / PLSQL", 
-            "Algorithms", "C# / .NET", "Miscellaneous"
-        ];
-        
-        // Sort unique categories using the custom order, append others at the end
-        uniqueCategories.sort((a, b) => {
-            const indexA = categoryOrder.indexOf(a);
-            const indexB = categoryOrder.indexOf(b);
-            if (indexA === -1 && indexB === -1) return a.localeCompare(b);
-            if (indexA === -1) return 1;
-            if (indexB === -1) return -1;
-            return indexA - indexB;
-        });
-
-        uniqueCategories.forEach(cat => {
-            const option = document.createElement('option');
-            option.value = cat;
-            option.textContent = cat;
-            categoryFilter.appendChild(option);
-        });
-
-        // Filter event listener
         categoryFilter.addEventListener('change', (e) => {
             const selected = e.target.value;
             if (selected === 'all') {
-                filteredQuestions = [...questionsData];
+                filteredQuestions = [...currentQuestionSet];
             } else {
-                filteredQuestions = questionsData.filter(q => q.category === selected);
+                filteredQuestions = currentQuestionSet.filter(q => q.category === selected);
             }
             currentIndex = 0;
             updateJumpBounds();
@@ -124,20 +204,20 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // Initialize filtered questions with all questions
-    filteredQuestions = [...questionsData];
+    // Initialize mode without auto-loading question 0 yet
+    setupExamMode(currentExamMode, false);
 
     // Restore category and question index from localStorage if available
     const savedCategory = localStorage.getItem('tcs-ipa-quiz-category');
     const savedIndex = localStorage.getItem('tcs-ipa-quiz-index');
 
     if (savedCategory && savedCategory !== 'all') {
-        const categoryExists = questionsData.some(q => q.category === savedCategory);
+        const categoryExists = currentQuestionSet.some(q => q.category === savedCategory);
         if (categoryExists) {
             if (categoryFilter) {
                 categoryFilter.value = savedCategory;
             }
-            filteredQuestions = questionsData.filter(q => q.category === savedCategory);
+            filteredQuestions = currentQuestionSet.filter(q => q.category === savedCategory);
         }
     }
 
@@ -482,6 +562,24 @@ document.addEventListener('DOMContentLoaded', () => {
             const catClass = "cat-" + (q.category || "general").toLowerCase().replace(/[^a-z0-9]+/g, '-');
             questionCategory.classList.add(catClass);
         }
+
+        // Setup passage / DI diagram if exists
+        if (passageCard) {
+            if (q.direction || q.directionImage) {
+                passageCard.classList.remove('hidden');
+                if (passageText) passageText.textContent = q.direction || "";
+                if (passageImageContainer && passageImage) {
+                    if (q.directionImage) {
+                        passageImage.src = q.directionImage;
+                        passageImageContainer.classList.remove('hidden');
+                    } else {
+                        passageImageContainer.classList.add('hidden');
+                    }
+                }
+            } else {
+                passageCard.classList.add('hidden');
+            }
+        }
         
         // Setup text with formatting and deduplication
         const deduplicatedQuestion = deduplicateText(q.question);
@@ -528,7 +626,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
             
             // On Click
-            btn.addEventListener('click', () => handleOptionClick(btn, opt, q.options, q.hint));
+            btn.addEventListener('click', () => handleOptionClick(btn, opt, q.options, q.hint || q.explanation || "No explanation available."));
             
             optionsContainer.appendChild(btn);
         });
