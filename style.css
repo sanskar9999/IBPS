@@ -714,7 +714,8 @@ code {
     border-radius: var(--border-radius-lg);
     box-shadow: var(--glass-shadow);
     width: 90%;
-    max-width: 400px;
+    max-width: 420px;
+    max-height: 85vh;
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     display: flex;
@@ -763,6 +764,8 @@ code {
 
 .modal-body {
     padding: 24px;
+    overflow-y: auto;
+    max-height: calc(85vh - 70px);
 }
 
 .settings-group {
