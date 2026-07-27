@@ -39,6 +39,86 @@ document.addEventListener('DOMContentLoaded', () => {
     let autoAdvanceTimeoutId = null;
     let soundEffectsEnabled = true;
 
+    // Load setting states from localStorage
+    const savedAutoAdvance = localStorage.getItem('ibps-so-quiz-auto-advance');
+    if (savedAutoAdvance !== null) {
+        autoAdvanceEnabled = savedAutoAdvance === 'true';
+    }
+    const savedAutoAdvanceDelay = localStorage.getItem('ibps-so-quiz-auto-advance-delay');
+    if (savedAutoAdvanceDelay !== null) {
+        autoAdvanceDelayValue = parseFloat(savedAutoAdvanceDelay) || 1.5;
+    }
+    const savedSoundEffects = localStorage.getItem('ibps-so-quiz-sound-effects');
+    if (savedSoundEffects !== null) {
+        soundEffectsEnabled = savedSoundEffects === 'true';
+    }
+
+    // Sync UI with loaded settings
+    if (toggleAutoAdvance) {
+        toggleAutoAdvance.checked = autoAdvanceEnabled;
+    }
+    if (autoAdvanceDelay) {
+        autoAdvanceDelay.value = autoAdvanceDelayValue;
+    }
+    if (toggleSoundEffects) {
+        toggleSoundEffects.checked = soundEffectsEnabled;
+    }
+
+    function updateDelayRowState() {
+        if (autoAdvanceDelayRow) {
+            if (autoAdvanceEnabled) {
+                autoAdvanceDelayRow.classList.remove('disabled');
+                if (autoAdvanceDelay) autoAdvanceDelay.disabled = false;
+            } else {
+                autoAdvanceDelayRow.classList.add('disabled');
+                if (autoAdvanceDelay) autoAdvanceDelay.disabled = true;
+            }
+        }
+    }
+    updateDelayRowState();
+
+    // Settings Event Listeners
+    if (toggleAutoAdvance) {
+        toggleAutoAdvance.addEventListener('change', (e) => {
+            autoAdvanceEnabled = e.target.checked;
+            localStorage.setItem('ibps-so-quiz-auto-advance', autoAdvanceEnabled);
+            updateDelayRowState();
+            
+            // If auto-advance is disabled, cancel any active countdown
+            if (!autoAdvanceEnabled && autoAdvanceTimeoutId) {
+                clearTimeout(autoAdvanceTimeoutId);
+                autoAdvanceTimeoutId = null;
+                // Re-render feedback status to remove countdown text
+                const feedbackStatusElement = document.getElementById('feedback-status');
+                if (feedbackStatusElement) {
+                    const feedbackStatusText = feedbackStatusElement.innerHTML;
+                    if (feedbackStatusText.includes('auto-advance-countdown')) {
+                        const iconSvgCorrect = `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>`;
+                        feedbackStatusElement.innerHTML = `${iconSvgCorrect} Correct!`;
+                    }
+                }
+            }
+        });
+    }
+
+    if (autoAdvanceDelay) {
+        autoAdvanceDelay.addEventListener('change', (e) => {
+            let val = parseFloat(e.target.value);
+            if (isNaN(val) || val < 0.5) val = 0.5;
+            if (val > 10) val = 10;
+            autoAdvanceDelayValue = val;
+            autoAdvanceDelay.value = val;
+            localStorage.setItem('ibps-so-quiz-auto-advance-delay', autoAdvanceDelayValue);
+        });
+    }
+
+    if (toggleSoundEffects) {
+        toggleSoundEffects.addEventListener('change', (e) => {
+            soundEffectsEnabled = e.target.checked;
+            localStorage.setItem('ibps-so-quiz-sound-effects', soundEffectsEnabled);
+        });
+    }
+
     // Keybindings configuration (5 Options for IBPS)
     const defaultKeybindings = {
         'A': '1',
