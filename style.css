@@ -48,16 +48,22 @@
     box-sizing: border-box;
 }
 
+html {
+    overflow-x: hidden;
+}
+
 body {
     font-family: 'Inter', sans-serif;
     background-color: var(--bg-base);
     color: var(--text-primary);
     min-height: 100vh;
+    min-height: 100dvh;
     display: flex;
     justify-content: center;
-    align-items: center;
     position: relative;
     overflow-x: hidden;
+    overscroll-behavior: none;
+    -webkit-tap-highlight-color: transparent;
 }
 
 /* Global Hidden Utility */
@@ -100,7 +106,7 @@ body {
 .app-container {
     width: 100%;
     max-width: 800px;
-    margin: 20px;
+    margin: auto 20px;
     background: var(--bg-surface);
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
@@ -232,7 +238,6 @@ body {
 
 .btn-jump:hover {
     background: var(--accent-primary-hover);
-    transform: translateY(-1px);
 }
 
 .btn-jump:active {
@@ -304,12 +309,27 @@ body {
 
 .option-btn:hover:not(:disabled) {
     background: var(--btn-bg-hover);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
 
 .option-btn:active:not(:disabled) {
     transform: translateY(0);
+}
+
+.option-btn {
+    touch-action: manipulation;
+}
+
+/* Desktop-only hover lift (on touch devices sticky-hover would shift
+   the option under the finger and cause mis-taps). */
+@media (hover: hover) and (pointer: fine) {
+    .option-btn:hover:not(:disabled) {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
+    .option-btn:hover:not(:disabled) .option-letter {
+        background: var(--accent-primary);
+        color: white;
+    }
 }
 
 .option-letter {
@@ -323,11 +343,6 @@ body {
     font-weight: 600;
     color: var(--text-secondary);
     transition: all var(--transition-normal);
-}
-
-.option-btn:hover:not(:disabled) .option-letter {
-    background: var(--accent-primary);
-    color: white;
 }
 
 /* Correct / Incorrect States */
@@ -454,7 +469,6 @@ body {
 
 .btn-primary:hover:not(:disabled) {
     background: var(--accent-primary-hover);
-    transform: translateY(-2px);
     box-shadow: 0 6px 16px rgba(59, 130, 246, 0.4);
 }
 
@@ -479,9 +493,25 @@ body {
 
 /* Responsive */
 @media (max-width: 600px) {
-    .app-container { margin: 0; border-radius: 0; min-height: 100vh; border: none; }
+    .app-container { margin: 0; border-radius: 0; min-height: 100vh; min-height: 100dvh; border: none; }
     .app-header, .quiz-container, .app-footer { padding: 20px; }
     #question-text { font-size: 1.25rem; }
+    .option-btn { padding: 14px 16px; font-size: 1rem; }
+    .app-header { padding: 16px 20px; }
+    .app-footer { padding: 16px 20px; }
+    .btn { padding: 12px 18px; }
+
+    /* Disable expensive backdrop blur & blob animation that cause
+       janky/creeping scroll repaint on mobile browsers. */
+    .app-container, .intro-card, .report-card, .modal-content, .modal-overlay {
+        backdrop-filter: none;
+        -webkit-backdrop-filter: none;
+    }
+    .blob {
+        animation: none;
+        filter: none;
+        opacity: 0.35;
+    }
 }
 
 /* Code Block and Inline Code Styling */
@@ -679,8 +709,9 @@ code {
     position: fixed;
     top: 0;
     left: 0;
-    width: 100vw;
+    width: 100%;
     height: 100vh;
+    height: 100dvh;
     z-index: 1000;
     display: flex;
     align-items: center;
@@ -716,6 +747,7 @@ code {
     width: 90%;
     max-width: 420px;
     max-height: 85vh;
+    max-height: 85dvh;
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     display: flex;
@@ -766,6 +798,7 @@ code {
     padding: 24px;
     overflow-y: auto;
     max-height: calc(85vh - 70px);
+    max-height: calc(85dvh - 70px);
 }
 
 .settings-group {
@@ -808,7 +841,6 @@ code {
 
 .theme-option:hover {
     background: var(--btn-bg-hover);
-    transform: translateX(4px);
 }
 
 .theme-option.active {
@@ -1230,7 +1262,6 @@ body.theme-light .option-btn:hover:not(:disabled) .option-key-badge {
     animation: pulse-border 2s infinite;
 }
 .btn-exam-link:hover {
-    transform: translateY(-1px);
     box-shadow: 0 6px 20px rgba(59, 130, 246, 0.55);
     background: linear-gradient(135deg, #60a5fa, #2563eb);
 }
@@ -1282,11 +1313,15 @@ body.theme-light .option-btn:hover:not(:disabled) .option-key-badge {
     max-width: 100%;
     max-height: 400px;
     border-radius: 4px;
-    transition: transform 0.3s ease;
     cursor: pointer;
 }
-.di-diagram-image:hover {
-    transform: scale(1.03);
+
+/* Desktop-only hover zoom (on touch it shifts the image under the finger). */
+@media (hover: hover) and (pointer: fine) {
+    .di-diagram-image:hover {
+        transform: scale(1.03);
+        transition: transform 0.3s ease;
+    }
 }
 
 /* IBPS Category styling tags */

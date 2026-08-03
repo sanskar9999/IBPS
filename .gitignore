@@ -1,5 +1,9 @@
 # Local tooling config
 .claude/
 
+# Python cache
+__pycache__/
+*.pyc
+
 # Source PDFs / raw extraction material (not needed by the website)
 Coding/

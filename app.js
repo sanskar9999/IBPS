@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // App State
     let currentIndex = 0;
     let filteredQuestions = [];
-    let autoAdvanceEnabled = true;
+    let autoAdvanceEnabled = false;
     let autoAdvanceDelayValue = 1.5;
     let autoAdvanceTimeoutId = null;
     let soundEffectsEnabled = true;

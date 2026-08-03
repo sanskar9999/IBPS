@@ -129,6 +129,7 @@
     border: 1px solid var(--glass-border);
     border-radius: var(--border-radius-md);
     cursor: pointer;
+    touch-action: manipulation;
     transition: border-color var(--transition-fast), background var(--transition-fast);
 }
 .mcq-option:hover { border-color: var(--accent-primary); background: var(--btn-bg-hover); }
@@ -304,4 +305,10 @@
         border-top: 1px solid var(--glass-border);
     }
     .mcq-palette { grid-template-columns: repeat(10, 1fr); }
+
+    /* Avoid janky scroll repaint from heavy backdrop blur on mobile. */
+    .intro-card, .report-card {
+        backdrop-filter: none;
+        -webkit-backdrop-filter: none;
+    }
 }

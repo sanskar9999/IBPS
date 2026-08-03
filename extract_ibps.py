@@ -6,8 +6,8 @@ import fitz  # PyMuPDF
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-BASE_DIR = r"c:\Users\91800\Desktop\TCS IPA\TCS_IPA Practice Website"
-PYQ_DIR = r"C:\Users\91800\Desktop\IBPS pyq"
+BASE_DIR = r"C:\Users\91800\Desktop\IBPS Practice Website"
+PYQ_DIR = r"C:\Users\91800\Desktop\IBPS Practice Website\IBPS pyq"
 NEW_PYQ_DIR = r"C:\Users\91800\Desktop\IBPS pyq\new"
 PK_DIR = os.path.join(PYQ_DIR, "Professional Knowledge (IT)")
 IMAGES_DIR = os.path.join(BASE_DIR, "ibps-images")
@@ -149,10 +149,18 @@ def parse_general_paper(paper_info):
     for p_idx, page in enumerate(doc):
         t = page.get_text()
         text_content += f"\n---PAGE_{p_idx}---\n" + t
-        
+
+    text_content = re.sub(r'\n---PAGE_\d+---\n', '\n', text_content)    
     sol_split = re.split(r'\nSolutions\s*\n|\nSolutions\s*:\s*\n|\nANSWERS AND EXPLANATIONS', text_content, flags=re.I)
     questions_part = sol_split[0]
     solutions_part = sol_split[1] if len(sol_split) > 1 else text_content
+
+    # Strip page-number + Adda247/promo footer blocks that bleed into stems/options.
+    FOOTER_RE = re.compile(
+        r'\n\s*\d{1,3}\s*\n\s*Adda247[^\n]*(?:\n[^\n]*)*?\n\s*\n',
+        re.I
+    )
+    questions_part = FOOTER_RE.sub('\n', questions_part)
     
     answers_db = {}
     sol_matches = re.finditer(r'S(\d+)\.\s*Ans\.\s*\(([a-eA-E])\)(.*?)(?=(?:S\d+\.\s*Ans\.|\Z))', solutions_part, re.DOTALL | re.I)
@@ -173,8 +181,57 @@ def parse_general_paper(paper_info):
         directions.append({"range": (start_q, end_q), "text": dir_text})
         
     questions_list = []
-    q_chunks = re.split(r'\n(?=Q\d+\.\s+)', questions_part)
-    
+    q_chunks = re.split(r'\n\s*(?=Q\d+\.)', questions_part)
+
+    def extract_options(content):
+        # Options are ALWAYS lowercase (a)-(e) in these papers. Uppercase (A)-(E) are
+        # sentence/word labels inside the question stem (rearrangement, phrasal verbs,
+        # word-interchange etc.) and must NOT be treated as options.
+        opt_pat = re.compile(r'(?m)(?:^|\n)\s*\(\s*([a-e])\s*\)\s*')
+        matches = list(opt_pat.finditer(content))
+        if not matches:
+            return content, []
+        question_end = matches[0].start()
+        options = []
+        used_ids = []
+        for i, m in enumerate(matches):
+            start = m.end()
+            end = matches[i + 1].start() if i + 1 < len(matches) else len(content)
+            seg = content[start:end]
+            # Stop option text at the next question, a Directions block, or a page marker.
+            boundary = re.search(r'\n\s*(?:Q\d+\.|Directions?\s*\(|Adda247|BankersAdda|\d+\s*\n)', seg)
+            if boundary:
+                seg = seg[:boundary.start()]
+            oid = m.group(1).upper()
+            # Handle duplicate option labels e.g. "(a) 1250 (a) 1000" -> B gets "1000".
+            while oid in used_ids and oid < 'E':
+                oid = chr(ord(oid) + 1)
+            used_ids.append(oid)
+            options.append({"id": oid, "text": clean_text(seg)})
+        return content[:question_end], options
+
+    def extract_direction_options(direction_text):
+        # Data-sufficiency / inequality directions carry the standard (a)-(e) answer
+        # choices as a trailing block; use them as the question's options.
+        if not direction_text:
+            return []
+        opt_pat = re.compile(r'\(([a-e])\)\s*')
+        matches = list(opt_pat.finditer(direction_text))
+        if len(matches) < 3:
+            return []
+        letters = [m.group(1).lower() for m in matches[:5]]
+        if letters != ['a', 'b', 'c', 'd', 'e']:
+            return []
+        options = []
+        for i in range(5):
+            m = matches[i]
+            seg_start = m.end()
+            seg_end = matches[i + 1].start() if i + 1 < 5 else len(direction_text)
+            options.append({"id": m.group(1).upper(), "text": clean_text(direction_text[seg_start:seg_end])})
+        return options
+
+    # Pass 1: parse chunks into raw records (inline options only).
+    raw_records = []
     for chunk in q_chunks:
         m = re.match(r'Q(\d+)\.\s*(.*)', chunk.strip(), re.DOTALL)
         if not m:
@@ -182,47 +239,89 @@ def parse_general_paper(paper_info):
         q_num = int(m.group(1))
         if q_num > 150:
             continue
-            
+
         content = m.group(2)
-        opt_matches = list(re.finditer(r'\n\s*\(\s*([a-eA-E])\s*\)\s*([^\n(]+(?:\n[^\n(]+)*?)(?=\n\s*\(\s*[a-eA-E]\s*\)|\Z)', content))
-        
-        question_text = content
-        raw_options = []
-        if opt_matches:
-            question_text = content[:opt_matches[0].start()]
-            for om in opt_matches:
-                opt_id = om.group(1).upper()
-                opt_text = clean_text(om.group(2))
-                raw_options.append({"id": opt_id, "text": opt_text})
-        else:
-            opts_in = re.findall(r'\(([a-eA-E])\)\s*([^()]+)', content)
+        question_text, raw_options = extract_options(content)
+
+        if not raw_options:
+            opts_in = re.findall(r'\(([a-e])\)\s*([^()]+)', content)
             if len(opts_in) >= 3:
                 question_text = content.split('(' + opts_in[0][0] + ')')[0]
                 for oid, otext in opts_in:
                     raw_options.append({"id": oid.upper(), "text": clean_text(otext)})
-                    
+
         question_text = clean_text(question_text)
         if "Directions (" in question_text and ")" in question_text:
             question_text = re.sub(r'Directions\s*\(\d+-\d+\)\s*:.*', '', question_text, flags=re.I | re.DOTALL)
             question_text = clean_text(question_text)
-            
+
+        raw_records.append({
+            "q_num": q_num,
+            "question_text": question_text,
+            "raw_options": raw_options,
+            "direction_text": "",
+            "options_from_direction": False,
+        })
+
+    # Pass 2: fix mislabeled duplicate question numbers by filling gaps.
+    # e.g. 2025: DS question printed as "Q139" is really Q138 (solution key uses S138).
+    used_nums = [r["q_num"] for r in raw_records]
+    dup_nums = {n for n in set(used_nums) if used_nums.count(n) > 1}
+    missing_nums = [n for n in range(1, 151) if n not in used_nums]
+    for r in raw_records:
+        if r["q_num"] in dup_nums and not r["raw_options"] and missing_nums:
+            r["q_num"] = missing_nums.pop(0)
+
+    # Pass 3: resolve direction, DS options from direction block, and build final questions.
+    for r in raw_records:
+        q_num = r["q_num"]
+        content_question = r["question_text"]
+        raw_options = r["raw_options"]
+
+        direction_text = ""
+        matching_dirs = [d for d in directions if d["range"][0] <= q_num <= d["range"][1]]
+        if matching_dirs:
+            direction_text = min(matching_dirs, key=lambda d: d["range"][1] - d["range"][0])["text"]
+
+        if not raw_options:
+            dir_opts = extract_direction_options(direction_text)
+            if dir_opts:
+                raw_options = dir_opts
+                r["options_from_direction"] = True
+                # The answer-choice block now lives in the options; keep only the
+                # instruction portion of the direction for display.
+                m_inst = re.search(r'\(\s*[a]\s*\)', direction_text, re.I)
+                if m_inst:
+                    direction_text = direction_text[:m_inst.start()].strip()
+
         if 1 <= q_num <= 50:
             section = "English Language"
         elif 51 <= q_num <= 100:
             section = "Reasoning Ability"
         else:
             section = "Quantitative Aptitude"
-            
-        direction_text = ""
-        for d in directions:
-            if d["range"][0] <= q_num <= d["range"][1]:
-                direction_text = d["text"]
-                break
-                
+
         sol = answers_db.get(q_num, {"answer": "A", "explanation": "Refer to general CS/Exam reasoning standards."})
         correct_ans = sol["answer"]
         explanation = sol["explanation"] if sol["explanation"] else "Solution verified from question bank."
-        
+
+        # Empty stem (error-spotting, e.g. Q11-16): use the direction instruction.
+        if not content_question and raw_options:
+            content_question = direction_text if direction_text else f"Question {q_num}"
+            direction_text = ""
+
+        # Reconstruct sentences lost from the memory-based papers.
+        MISSING_STEM_OVERRIDES = {
+            "2025": {
+                7: "What initially gave the company a ______ in the international gaming market was now turning into a nationwide social concern.",
+            }
+        }
+        override = MISSING_STEM_OVERRIDES.get(str(paper_info["id"]), {}).get(q_num)
+        if override:
+            content_question = override
+
+        question_text = content_question if content_question else f"Question {q_num}"
+
         # Normalize options and guarantee validity
         formatted_options = normalize_options(raw_options, correct_ans, q_num)
         # Re-sync correct_ans to match marked option exactly
@@ -465,9 +564,24 @@ def main():
     for p in PAPERS:
         data = parse_general_paper(p)
         parsed_papers.append(data)
-        
-    pk_data = extract_pk_questions()
-    
+
+    # Preserve the curated Professional Knowledge (IT) bank (built by build_pk_data.py).
+    # Only fall back to the old extractor if no current file exists.
+    pk_data = None
+    current_file = os.path.join(BASE_DIR, "ibps-questions.js")
+    if os.path.exists(current_file):
+        try:
+            with open(current_file, "r", encoding="utf-8") as f:
+                js = f.read()
+            import json
+            existing = json.loads(js[len("const ibpsQuestionsData = "):js.rfind("};") + 1])
+            pk_data = existing.get("pkIT")
+            print(f"Preserving existing curated pkIT bank ({len(pk_data)} questions).")
+        except Exception as exc:
+            print(f"Could not preserve existing pkIT: {exc}")
+    if pk_data is None:
+        pk_data = extract_pk_questions()
+
     final_output = {
         "papers": parsed_papers,
         "pkIT": pk_data

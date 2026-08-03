@@ -21,6 +21,7 @@
             margin: 0 auto;
             padding: 16px 24px;
             min-height: 100vh;
+            min-height: 100dvh;
             display: flex;
             flex-direction: column;
         }
@@ -42,7 +43,6 @@
             box-shadow: 0 10px 25px rgba(0,0,0,0.3);
         }
         .mode-card:hover {
-            transform: translateY(-5px);
             border-color: var(--accent-primary, #3b82f6);
             box-shadow: 0 15px 30px rgba(59, 130, 246, 0.2);
         }
@@ -105,6 +105,7 @@
             display: flex;
             flex-direction: column;
             max-height: calc(100vh - 140px);
+            max-height: calc(100dvh - 140px);
             overflow-y: auto;
         }
         .section-tabs-bar {
@@ -162,9 +163,8 @@
             position: relative;
             background: #334155;
             color: #fff;
-            transition: transform 0.15s;
+            touch-action: manipulation;
         }
-        .pal-btn:hover { transform: scale(1.08); }
         .pal-btn.current { border: 2px solid #38bdf8; box-shadow: 0 0 8px #38bdf8; }
         .pal-btn.answered { background: #10b981; color: #fff; border-color: #059669; }
         .pal-btn.unanswered { background: #ef4444; color: #fff; border-color: #dc2626; }
