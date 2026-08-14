@@ -3811,7 +3811,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "Find the difference between the total number of bracelets sold by shop I and shop III together and the total number of rings sold by shop IV.",
           "direction": "Read the following pie charts carefully and answer the questions given below. The pie chart I shows the percentage distribution of the total number of rings and bracelets together sold by four shops. The pie chart II shows the percentage distribution of the total number of rings sold by four shops. 25% 30% 10% 35% Rings and bracelets together sold = 440 Shop I Shop II Shop III Shop IV 18% 35% 7% 40% Rings Sold = 200 Shop I Shop II Shop III Shop IV",
-          "directionImage": "",
+          "directionImage": "ibps-images/2025_p23_piecharts.png",
           "options": [
             {
               "id": "A",
@@ -3849,7 +3849,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "The total number of bracelets sold by shops II and IV together is what percentage more or less than the total number of rings and bracelets together sold by shop I (approx.)?",
           "direction": "Read the following pie charts carefully and answer the questions given below. The pie chart I shows the percentage distribution of the total number of rings and bracelets together sold by four shops. The pie chart II shows the percentage distribution of the total number of rings sold by four shops. 25% 30% 10% 35% Rings and bracelets together sold = 440 Shop I Shop II Shop III Shop IV 18% 35% 7% 40% Rings Sold = 200 Shop I Shop II Shop III Shop IV",
-          "directionImage": "",
+          "directionImage": "ibps-images/2025_p23_piecharts.png",
           "options": [
             {
               "id": "A",
@@ -3887,7 +3887,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "Find the ratio between the average number of bracelets sold by shops I and III and the difference between the number of rings sold by shops II and IV.",
           "direction": "Read the following pie charts carefully and answer the questions given below. The pie chart I shows the percentage distribution of the total number of rings and bracelets together sold by four shops. The pie chart II shows the percentage distribution of the total number of rings sold by four shops. 25% 30% 10% 35% Rings and bracelets together sold = 440 Shop I Shop II Shop III Shop IV 18% 35% 7% 40% Rings Sold = 200 Shop I Shop II Shop III Shop IV",
-          "directionImage": "",
+          "directionImage": "ibps-images/2025_p23_piecharts.png",
           "options": [
             {
               "id": "A",
@@ -3925,7 +3925,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "If the number of rings sold by shop V is 20% more than that of shop IV and the ratio of the number of bracelets sold by shops II and V is 31:29, respectively, then the total number of rings and bracelets together sold by shop II is how many more or less than that of shop V?",
           "direction": "Read the following pie charts carefully and answer the questions given below. The pie chart I shows the percentage distribution of the total number of rings and bracelets together sold by four shops. The pie chart II shows the percentage distribution of the total number of rings sold by four shops. 25% 30% 10% 35% Rings and bracelets together sold = 440 Shop I Shop II Shop III Shop IV 18% 35% 7% 40% Rings Sold = 200 Shop I Shop II Shop III Shop IV",
-          "directionImage": "",
+          "directionImage": "ibps-images/2025_p23_piecharts.png",
           "options": [
             {
               "id": "A",
@@ -3963,7 +3963,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "The price of each ring and each bracelet sold by shop III is Rs 275 and X+180, respectively. If the total amount received by shop III to sell all the rings and bracelets is Rs 10150, then find the value of X.",
           "direction": "Read the following pie charts carefully and answer the questions given below. The pie chart I shows the percentage distribution of the total number of rings and bracelets together sold by four shops. The pie chart II shows the percentage distribution of the total number of rings sold by four shops. 25% 30% 10% 35% Rings and bracelets together sold = 440 Shop I Shop II Shop III Shop IV 18% 35% 7% 40% Rings Sold = 200 Shop I Shop II Shop III Shop IV",
-          "directionImage": "",
+          "directionImage": "ibps-images/2025_p23_piecharts.png",
           "options": [
             {
               "id": "A",
@@ -4001,7 +4001,7 @@ const ibpsQuestionsData = {
           "section": "Quantitative Aptitude",
           "question": "The total number of chains sold by shop I is 20% less than the total number of rings sold by shops II and IV together. If the ratio of the total number of chains sold by shop I to II is 4:7, respectively, then find the total number of chains and bracelets sold by shop II.",
           "direction": "Read the following pie charts carefully and answer the questions given below. The pie chart I shows the percentage distribution of the total number of rings and bracelets together sold by four shops. The pie chart II shows the percentage distribution of the total number of rings sold by four shops. 25% 30% 10% 35% Rings and bracelets together sold = 440 Shop I Shop II Shop III Shop IV 18% 35% 7% 40% Rings Sold = 200 Shop I Shop II Shop III Shop IV",
-          "directionImage": "",
+          "directionImage": "ibps-images/2025_p23_piecharts.png",
           "options": [
             {
               "id": "A",
